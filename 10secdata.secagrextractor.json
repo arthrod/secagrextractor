@@ -1,0 +1,4784 @@
+[{
+  "_id": "6e7adc23-500f-486f-9487-a3844335cf80",
+  "accessionNo": "0001644378-24-000009",
+  "type": "EX-10.,1",
+  "url": "https://www.sec.gov/Archives/edgar/data/1644378/000164437824000009/rmr_12312023xexhibitx101.htm",
+  "description": "EX-10.,1",
+  "timestamp": "2024-02-07T17:10:59-05:00"
+},
+{
+  "_id": "7d3ceb57-d200-43ca-a67e-3c814fdbb85f",
+  "accessionNo": "0000037996-24-000009",
+  "type": "EX-10.L",
+  "url": "https://www.sec.gov/Archives/edgar/data/37996/000003799624000009/f12312023exhibit10-l.htm",
+  "description": "EX-10.L",
+  "timestamp": "2024-02-06T19:33:55-05:00"
+},
+{
+  "_id": "4e2ead0c-f9ff-43c2-accd-23665d1beff9",
+  "accessionNo": "0000037996-24-000009",
+  "type": "EX-10.Q-7",
+  "url": "https://www.sec.gov/Archives/edgar/data/37996/000003799624000009/f12312023exhibit10-qx7.htm",
+  "description": "EX-10.Q-7",
+  "timestamp": "2024-02-06T19:33:55-05:00"
+},
+{
+  "_id": "c52e35ed-c34d-43cf-84ae-b4f82cdc82b4",
+  "accessionNo": "0001628280-24-003512",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1529377/000162828024003512/exhibit101.htm",
+  "description": "EX-10.1",
+  "timestamp": "2024-02-06T16:54:06-05:00"
+},
+{
+  "_id": "ba114724-9145-48ef-9c50-633f84117eb5",
+  "accessionNo": "0000822416-24-000010",
+  "type": "EX-10.F",
+  "url": "https://www.sec.gov/Archives/edgar/data/822416/000082241624000010/exhibit10f-2021rsuagreement.htm",
+  "description": "EX-10.F - 2021 RSU AWARD AGREEMENT",
+  "timestamp": "2024-02-05T16:52:45-05:00"
+},
+{
+  "_id": "f243280c-892b-4cac-9d50-d63d8c7c095d",
+  "accessionNo": "0000822416-24-000010",
+  "type": "EX-10.G",
+  "url": "https://www.sec.gov/Archives/edgar/data/822416/000082241624000010/exhibit10g-2022rsuagreement.htm",
+  "description": "EX-10.G - 2022 RSU AWARD AGREEMENT",
+  "timestamp": "2024-02-05T16:52:45-05:00"
+},
+{
+  "_id": "ee66a0d7-9b80-4ed3-bff3-56eb1042484f",
+  "accessionNo": "0000822416-24-000010",
+  "type": "EX-10.H",
+  "url": "https://www.sec.gov/Archives/edgar/data/822416/000082241624000010/exhibit10h-2023rsuagreement.htm",
+  "description": "EX-10.H - 2023 RSU AWARD AGREEMENT",
+  "timestamp": "2024-02-05T16:52:45-05:00"
+},
+{
+  "_id": "17a47c0e-ccd5-4521-b724-9541970e2b5d",
+  "accessionNo": "0000822416-24-000010",
+  "type": "EX-10.I",
+  "url": "https://www.sec.gov/Archives/edgar/data/822416/000082241624000010/exhibit10i-2024rsuagreement.htm",
+  "description": "EX-10.I - 2024 RSU AWARD AGREEMENT",
+  "timestamp": "2024-02-05T16:52:45-05:00"
+},
+{
+  "_id": "183f910b-4007-44b4-b9b3-4e6e086f70e3",
+  "accessionNo": "0000822416-24-000010",
+  "type": "EX-10.J",
+  "url": "https://www.sec.gov/Archives/edgar/data/822416/000082241624000010/exhibit10j-2021and2022ltia.htm",
+  "description": "EX-10.J - 2021 AND 2022 LTI AWARD AGREEMENT",
+  "timestamp": "2024-02-05T16:52:45-05:00"
+},
+{
+  "_id": "08919c3a-b2d1-461b-a981-6eabe297a0b7",
+  "accessionNo": "0000822416-24-000010",
+  "type": "EX-10.K",
+  "url": "https://www.sec.gov/Archives/edgar/data/822416/000082241624000010/exhibit-2023ltiawardagreem.htm",
+  "description": "EX-10.K - 2023 LTI AWARD AGREEMENT",
+  "timestamp": "2024-02-05T16:52:45-05:00"
+},
+{
+  "_id": "8d32d1cb-155a-4b22-ab08-8c890b2eea1d",
+  "accessionNo": "0000822416-24-000010",
+  "type": "EX-10.L",
+  "url": "https://www.sec.gov/Archives/edgar/data/822416/000082241624000010/exhibit10l-2024ltiawardagr.htm",
+  "description": "EX-10.L - 2024 LTI AWARD AGREEMENT",
+  "timestamp": "2024-02-05T16:52:45-05:00"
+},
+{
+  "_id": "bf99d841-6c6a-41d4-a196-b286043caa9d",
+  "accessionNo": "0000822416-24-000010",
+  "type": "EX-10.P",
+  "url": "https://www.sec.gov/Archives/edgar/data/822416/000082241624000010/exhibit10p-amendedseveranc.htm",
+  "description": "EX-10.P - 2024 AMENDED SEVERANCE POLICY",
+  "timestamp": "2024-02-05T16:52:45-05:00"
+},
+{
+  "_id": "e11463e8-0348-46c6-a454-b20a4703467e",
+  "accessionNo": "0000822416-24-000010",
+  "type": "EX-10.Q",
+  "url": "https://www.sec.gov/Archives/edgar/data/822416/000082241624000010/exhibit-amendedretirementp.htm",
+  "description": "EX-10.Q - 2021 AMENDED RETIREMENT POLICY",
+  "timestamp": "2024-02-05T16:52:45-05:00"
+},
+{
+  "_id": "52d91ffc-5a27-4073-aae5-fcf714b35a8f",
+  "accessionNo": "0000822416-24-000010",
+  "type": "EX-10.R",
+  "url": "https://www.sec.gov/Archives/edgar/data/822416/000082241624000010/exhibit10r-amendedretireme.htm",
+  "description": "EX-10.R - 2024 AMENDED RETIREMENT POLICY",
+  "timestamp": "2024-02-05T16:52:45-05:00"
+},
+{
+  "_id": "63d78d55-8bca-412b-9c81-9458775e1f36",
+  "accessionNo": "0000822416-24-000010",
+  "type": "EX-10.S",
+  "url": "https://www.sec.gov/Archives/edgar/data/822416/000082241624000010/exhibit10s-indemnification.htm",
+  "description": "EX-10.S - 2024 INDEMNIFICATION AGREEMENT",
+  "timestamp": "2024-02-05T16:52:45-05:00"
+},
+{
+  "_id": "39699e72-8262-4d73-8f81-912996b8e787",
+  "accessionNo": "0000702165-24-000005",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/702165/000070216524000005/nsc202310-kexhibit10hh.htm",
+  "description": "EX-10HH",
+  "timestamp": "2024-02-05T16:49:27-05:00"
+},
+{
+  "_id": "68008192-4b9c-4ec2-b822-fad0aa0c47ef",
+  "accessionNo": "0000702165-24-000005",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/702165/000070216524000005/nsc202310-kexhibit10ii.htm",
+  "description": "EX-10II",
+  "timestamp": "2024-02-05T16:49:27-05:00"
+},
+{
+  "_id": "cbc556f6-6302-4bd9-ac3e-3b227ec83fb5",
+  "accessionNo": "0000702165-24-000005",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/702165/000070216524000005/nsc202310-kexhibit10jj.htm",
+  "description": "EX-10JJ",
+  "timestamp": "2024-02-05T16:49:27-05:00"
+},
+{
+  "_id": "ac2205f6-7526-45ca-aa24-cd161710e7c2",
+  "accessionNo": "0000702165-24-000005",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/702165/000070216524000005/nsc202310-kexhibit10r.htm",
+  "description": "EX-10R",
+  "timestamp": "2024-02-05T16:49:27-05:00"
+},
+{
+  "_id": "2c57a730-c298-4b8a-b12d-35ccc54b7caa",
+  "accessionNo": "0000702165-24-000005",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/702165/000070216524000005/nsc202310-kexhibit10t.htm",
+  "description": "EX-10T",
+  "timestamp": "2024-02-05T16:49:27-05:00"
+},
+{
+  "_id": "8ffcafca-73da-44af-82db-1e9d1261bf61",
+  "accessionNo": "0000702165-24-000005",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/702165/000070216524000005/nsc202310-kexhibit10x.htm",
+  "description": "EX-10X",
+  "timestamp": "2024-02-05T16:49:27-05:00"
+},
+{
+  "_id": "bca763fb-e556-4940-b97a-fad7df61bbf2",
+  "accessionNo": "0000097476-24-000007",
+  "type": "EX-10.K",
+  "url": "https://www.sec.gov/Archives/edgar/data/97476/000009747624000007/q42023txnex10k.htm",
+  "description": "EX-10.K",
+  "timestamp": "2024-02-02T11:11:54-05:00"
+},
+{
+  "_id": "3277b743-4839-42db-8765-ca4544d595b4",
+  "accessionNo": "0000097476-24-000007",
+  "type": "EX-10.L",
+  "url": "https://www.sec.gov/Archives/edgar/data/97476/000009747624000007/q42023txnex10l.htm",
+  "description": "EX-10.L",
+  "timestamp": "2024-02-02T11:11:54-05:00"
+},
+{
+  "_id": "1aa5a68a-d815-4962-8662-ff767a82bbfd",
+  "accessionNo": "0000040545-24-000027",
+  "type": "EX-10.DD",
+  "url": "https://www.sec.gov/Archives/edgar/data/40545/000004054524000027/ex10dd-formofagreementfort.htm",
+  "description": "EX-10.DD",
+  "timestamp": "2024-02-02T06:31:30-05:00"
+},
+{
+  "_id": "1080c1cd-108b-44fb-b28e-3de38e790998",
+  "accessionNo": "0000040545-24-000027",
+  "type": "EX-10.VV",
+  "url": "https://www.sec.gov/Archives/edgar/data/40545/000004054524000027/ex10vvfirstamendmenttoamen.htm",
+  "description": "EX-10.VV",
+  "timestamp": "2024-02-02T06:31:30-05:00"
+},
+{
+  "_id": "f9f979e1-63f8-4d4b-b3d4-e1cdfa45d734",
+  "accessionNo": "0001558370-24-000642",
+  "type": "EX-10.A",
+  "url": "https://www.sec.gov/Archives/edgar/data/730464/000155837024000642/atge-20231231xex10da.htm",
+  "description": "EX-10.A",
+  "timestamp": "2024-01-30T17:11:46-05:00"
+},
+{
+  "_id": "f4a51ff5-6680-47af-800c-1f7cccc60f28",
+  "accessionNo": "0001515971-24-000017",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/845819/000151597124000017/exhibit101.htm",
+  "description": "EXHIBIT 10.1",
+  "timestamp": "2024-01-30T16:05:59-05:00"
+},
+{
+  "_id": "26e195a2-a122-46c8-a7df-a9395d0e9880",
+  "accessionNo": "0001515971-24-000017",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/845819/000151597124000017/exhibit102.htm",
+  "description": "EXHIBIT 10.2",
+  "timestamp": "2024-01-30T16:05:59-05:00"
+},
+{
+  "_id": "720df2d2-22c7-45d3-9b0e-6cee280be7dd",
+  "accessionNo": "0001515971-24-000017",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/845819/000151597124000017/exhibit103.htm",
+  "description": "EXHIBIT 10.3",
+  "timestamp": "2024-01-30T16:05:59-05:00"
+},
+{
+  "_id": "f399df76-c765-470c-a0af-c6709e5070c2",
+  "accessionNo": "0001515971-24-000017",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/845819/000151597124000017/exhibit104.htm",
+  "description": "EXHIBIT 10.4",
+  "timestamp": "2024-01-30T16:05:59-05:00"
+},
+{
+  "_id": "86178c64-0e12-4b37-b3a7-629cf9e00531",
+  "accessionNo": "0000921082-24-000003",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/921082/000092108224000003/ex10thirdamendmenttosixtha.htm",
+  "description": "EX-10",
+  "timestamp": "2024-01-25T16:42:56-05:00"
+},
+{
+  "_id": "abc31f12-d84e-49a5-919d-b8d16c588bb2",
+  "accessionNo": "0000921082-24-000003",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/921082/000092108224000003/ex10thirdamendmenttosixtha.htm",
+  "description": "EX-10",
+  "timestamp": "2024-01-25T16:42:56-05:00"
+},
+{
+  "_id": "66609a13-7091-4ba2-a8d6-e6d9ebb786cd",
+  "accessionNo": "0001133421-24-000006",
+  "type": "EX-10.FVII",
+  "url": "https://www.sec.gov/Archives/edgar/data/1133421/000113342124000006/noc-12312023xex10fviii.htm",
+  "description": "SPECIAL 2023 RESTRICTED STOCK RIGHTS GRANT AGREEMENT",
+  "timestamp": "2024-01-25T16:02:51-05:00"
+},
+{
+  "_id": "3009defa-3c37-4c22-92b9-a531a2ccb454",
+  "accessionNo": "0001067701-24-000007",
+  "type": "EX-10.F",
+  "url": "https://www.sec.gov/Archives/edgar/data/1047166/000106770124000007/uri-2023123110kex10f.htm",
+  "description": "EX-10.F",
+  "timestamp": "2024-01-24T16:27:28-05:00"
+},
+{
+  "_id": "5352efa2-e571-4ff4-ab9f-155e9cc99c70",
+  "accessionNo": "0001067701-24-000007",
+  "type": "EX-10.GG",
+  "url": "https://www.sec.gov/Archives/edgar/data/1047166/000106770124000007/uri-2023123110kex10gg.htm",
+  "description": "EX-10.GG",
+  "timestamp": "2024-01-24T16:27:28-05:00"
+},
+{
+  "_id": "87eef21f-52ea-4e6c-a404-7a477095cd75",
+  "accessionNo": "0001067701-24-000007",
+  "type": "EX-10.RRR",
+  "url": "https://www.sec.gov/Archives/edgar/data/1047166/000106770124000007/uri-2023123110kex10rrr.htm",
+  "description": "EX-10.RRR",
+  "timestamp": "2024-01-24T16:27:28-05:00"
+},
+{
+  "_id": "5d3f4a4c-6aae-4aea-9408-06c23ac6bc55",
+  "accessionNo": "0001067701-24-000007",
+  "type": "EX-10.Y",
+  "url": "https://www.sec.gov/Archives/edgar/data/1047166/000106770124000007/uri-2023123110kex10y.htm",
+  "description": "EX-10.Y",
+  "timestamp": "2024-01-24T16:27:28-05:00"
+},
+{
+  "_id": "32b62945-2603-45e4-8b6a-2d15b5ff7ac5",
+  "accessionNo": "0001067701-24-000007",
+  "type": "EX-10.Z",
+  "url": "https://www.sec.gov/Archives/edgar/data/1047166/000106770124000007/uri-2023123110kex10z.htm",
+  "description": "EX-10.Z",
+  "timestamp": "2024-01-24T16:27:28-05:00"
+},
+{
+  "_id": "fa634fba-be48-422d-ae0f-7486fdbbae1e",
+  "accessionNo": "0001067701-24-000007",
+  "type": "EX-10.F",
+  "url": "https://www.sec.gov/Archives/edgar/data/1047166/000106770124000007/uri-2023123110kex10f.htm",
+  "description": "EX-10.F",
+  "timestamp": "2024-01-24T16:27:28-05:00"
+},
+{
+  "_id": "6b956cd9-926c-436d-af31-12e03561face",
+  "accessionNo": "0001067701-24-000007",
+  "type": "EX-10.GG",
+  "url": "https://www.sec.gov/Archives/edgar/data/1047166/000106770124000007/uri-2023123110kex10gg.htm",
+  "description": "EX-10.GG",
+  "timestamp": "2024-01-24T16:27:28-05:00"
+},
+{
+  "_id": "a2dc0723-9c57-402a-bf1e-2e4929f195ef",
+  "accessionNo": "0001067701-24-000007",
+  "type": "EX-10.RRR",
+  "url": "https://www.sec.gov/Archives/edgar/data/1047166/000106770124000007/uri-2023123110kex10rrr.htm",
+  "description": "EX-10.RRR",
+  "timestamp": "2024-01-24T16:27:28-05:00"
+},
+{
+  "_id": "32810ec4-e130-4b6c-b82f-558f28f06f27",
+  "accessionNo": "0001067701-24-000007",
+  "type": "EX-10.Y",
+  "url": "https://www.sec.gov/Archives/edgar/data/1047166/000106770124000007/uri-2023123110kex10y.htm",
+  "description": "EX-10.Y",
+  "timestamp": "2024-01-24T16:27:28-05:00"
+},
+{
+  "_id": "77bd40ab-165a-4c21-b92c-de121cc9ab4d",
+  "accessionNo": "0001067701-24-000007",
+  "type": "EX-10.Z",
+  "url": "https://www.sec.gov/Archives/edgar/data/1047166/000106770124000007/uri-2023123110kex10z.htm",
+  "description": "EX-10.Z",
+  "timestamp": "2024-01-24T16:27:28-05:00"
+},
+{
+  "_id": "ece661ea-9d55-4ddf-97a6-8bbe05d25eb7",
+  "accessionNo": "0001558370-24-000382",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/276720/000155837024000382/pcyo-20240117xex10.htm",
+  "description": "EX-10.1",
+  "timestamp": "2024-01-19T16:00:19-05:00"
+},
+{
+  "_id": "7f01b601-c816-411b-b4c2-392b0bada391",
+  "accessionNo": "0001276531-24-000002",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1276531/000127653124000002/scientificagreement.htm",
+  "description": "EXHIBIT 10.1",
+  "timestamp": "2024-01-19T09:07:44-05:00"
+},
+{
+  "_id": "db26698e-d8de-4430-a6f4-3649437875a4",
+  "accessionNo": "0001635984-24-000003",
+  "type": "EX-10.AM",
+  "url": "https://www.sec.gov/Archives/edgar/data/1635984/000163598424000003/exhibit10am.htm",
+  "description": "EX-10.AM",
+  "timestamp": "2024-01-08T10:55:34-05:00"
+},
+{
+  "_id": "28020f08-e60a-4e6a-973d-fde7e3a5d183",
+  "accessionNo": "0001635984-24-000003",
+  "type": "EX-10.AN",
+  "url": "https://www.sec.gov/Archives/edgar/data/1635984/000163598424000003/exhibit10an.htm",
+  "description": "EX-10.AN",
+  "timestamp": "2024-01-08T10:55:34-05:00"
+},
+{
+  "_id": "463b90ca-d184-4e82-93c1-f4f276fad509",
+  "accessionNo": "0001072613-24-000011",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/887396/000107261324000011/exh10_18789.htm",
+  "description": "REVOLVER LOAN AGREEMENT, DATED AS OF DECEMBER 29, 2023",
+  "timestamp": "2024-01-05T16:05:25-05:00"
+},
+{
+  "_id": "dd29a4c6-33cb-4eaa-b09b-61420624eb42",
+  "accessionNo": "0001515971-23-000170",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/845819/000151597123000170/exhibit101.htm",
+  "description": "EXHIBIT 10.1",
+  "timestamp": "2023-12-22T14:57:23-05:00"
+},
+{
+  "_id": "15e91b76-fc38-430c-bfdf-22a3b3b06c1b",
+  "accessionNo": "0001515971-23-000170",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/845819/000151597123000170/exhibit102.htm",
+  "description": "EXHIBIT 10.2",
+  "timestamp": "2023-12-22T14:57:23-05:00"
+},
+{
+  "_id": "f5c239b4-7f52-4eb6-b7ea-31ada3122a05",
+  "accessionNo": "0000072331-23-000242",
+  "type": "EX-10.U",
+  "url": "https://www.sec.gov/Archives/edgar/data/72331/000007233123000242/ex10-unordsonxformofstocko.htm",
+  "description": "EX-10.U",
+  "timestamp": "2023-12-20T17:04:04-05:00"
+},
+{
+  "_id": "759043bc-4ecd-4eb8-874a-1698c914dac5",
+  "accessionNo": "0000072331-23-000242",
+  "type": "EX-10.V",
+  "url": "https://www.sec.gov/Archives/edgar/data/72331/000007233123000242/ex10-vnordsonxformofrestri.htm",
+  "description": "EX-10.V",
+  "timestamp": "2023-12-20T17:04:04-05:00"
+},
+{
+  "_id": "199f0aad-4dae-4394-8644-0d18faa28082",
+  "accessionNo": "0000072331-23-000242",
+  "type": "EX-10.W",
+  "url": "https://www.sec.gov/Archives/edgar/data/72331/000007233123000242/ex10-wnoticeofawardpsufy24.htm",
+  "description": "EX-10.W",
+  "timestamp": "2023-12-20T17:04:04-05:00"
+},
+{
+  "_id": "0b802a17-50cf-410f-b1cb-dfa36265d23c",
+  "accessionNo": "0000072331-23-000242",
+  "type": "EX-10.X",
+  "url": "https://www.sec.gov/Archives/edgar/data/72331/000007233123000242/ex10-xrestrictedshareunita.htm",
+  "description": "EX-10.X",
+  "timestamp": "2023-12-20T17:04:04-05:00"
+},
+{
+  "_id": "44f4b8ae-5f26-4a77-9139-634b2ad0b066",
+  "accessionNo": "0002001901-23-000003",
+  "type": "EX-10.III",
+  "url": "https://www.sec.gov/Archives/edgar/data/1285785/000200190123000003/restrictedstockunitawardag.htm",
+  "description": "EX-10.III NON-EMPLOYEE DIRECTOR RESTRICTED STOCK UNIT AWARD AGREEMENT",
+  "timestamp": "2023-12-20T16:51:08-05:00"
+},
+{
+  "_id": "0c18e08a-ad3a-4aa9-a064-740dc4038223",
+  "accessionNo": "0001437749-23-034783",
+  "type": "EX-10.K",
+  "url": "https://www.sec.gov/Archives/edgar/data/357294/000143774923034783/ex_606399.htm",
+  "description": "EXHIBIT 10.K",
+  "timestamp": "2023-12-18T17:26:13-05:00"
+},
+{
+  "_id": "b8919127-9d99-4e37-a10a-a53355123ce3",
+  "accessionNo": "0001437749-23-034783",
+  "type": "EX-10.CC",
+  "url": "https://www.sec.gov/Archives/edgar/data/357294/000143774923034783/ex_605281.htm",
+  "description": "EXHIBIT 10.CC",
+  "timestamp": "2023-12-18T17:26:13-05:00"
+},
+{
+  "_id": "09f0ad84-2f5b-4b82-9442-e9ddcf273ba3",
+  "accessionNo": "0001437749-23-034783",
+  "type": "EX-10.DD",
+  "url": "https://www.sec.gov/Archives/edgar/data/357294/000143774923034783/ex_605282.htm",
+  "description": "EXHIBIT 10.DD",
+  "timestamp": "2023-12-18T17:26:13-05:00"
+},
+{
+  "_id": "39c35bf9-2a23-49ee-a50e-365ea25d6c77",
+  "accessionNo": "0001437749-23-034783",
+  "type": "EX-10.EE",
+  "url": "https://www.sec.gov/Archives/edgar/data/357294/000143774923034783/ex_605283.htm",
+  "description": "EXHIBIT 10.EE",
+  "timestamp": "2023-12-18T17:26:13-05:00"
+},
+{
+  "_id": "a8039cc9-ee5e-4e98-b72e-1c7eb05bb06e",
+  "accessionNo": "0001437749-23-034783",
+  "type": "EX-10.FF",
+  "url": "https://www.sec.gov/Archives/edgar/data/357294/000143774923034783/ex_605284.htm",
+  "description": "EXHIBIT 10.FF",
+  "timestamp": "2023-12-18T17:26:13-05:00"
+},
+{
+  "_id": "fd153cdb-28ac-4da3-a6bb-562f7250b6fe",
+  "accessionNo": "0001437749-23-034783",
+  "type": "EX-10.GG",
+  "url": "https://www.sec.gov/Archives/edgar/data/357294/000143774923034783/ex_605285.htm",
+  "description": "EXHIBIT 10.GG",
+  "timestamp": "2023-12-18T17:26:13-05:00"
+},
+{
+  "_id": "1d27a057-330a-446c-a68d-ad076ba06444",
+  "accessionNo": "0001437749-23-034783",
+  "type": "EX-10.HH",
+  "url": "https://www.sec.gov/Archives/edgar/data/357294/000143774923034783/ex_605286.htm",
+  "description": "EXHIBIT 10.HH",
+  "timestamp": "2023-12-18T17:26:13-05:00"
+},
+{
+  "_id": "3196216f-cf32-407a-8c9e-2038d99018a0",
+  "accessionNo": "0001437749-23-034783",
+  "type": "EX-10.II",
+  "url": "https://www.sec.gov/Archives/edgar/data/357294/000143774923034783/ex_605287.htm",
+  "description": "EXHIBIT 10.II",
+  "timestamp": "2023-12-18T17:26:13-05:00"
+},
+{
+  "_id": "b76ecd4b-c7f5-4170-8245-f43ba3702b4f",
+  "accessionNo": "0001437749-23-034783",
+  "type": "EX-10.JJ",
+  "url": "https://www.sec.gov/Archives/edgar/data/357294/000143774923034783/ex_605288.htm",
+  "description": "EXHIBIT 10.JJ",
+  "timestamp": "2023-12-18T17:26:13-05:00"
+},
+{
+  "_id": "d313562b-99fb-40ae-8505-5d90b636943b",
+  "accessionNo": "0001437749-23-034783",
+  "type": "EX-10.KK",
+  "url": "https://www.sec.gov/Archives/edgar/data/357294/000143774923034783/ex_605289.htm",
+  "description": "EXHIBIT 10.KK",
+  "timestamp": "2023-12-18T17:26:13-05:00"
+},
+{
+  "_id": "5836f388-f539-466a-b4f1-3d56c364c4ff",
+  "accessionNo": "0001437749-23-034783",
+  "type": "EX-10.LL",
+  "url": "https://www.sec.gov/Archives/edgar/data/357294/000143774923034783/ex_605290.htm",
+  "description": "EXHIBIT 10.LL",
+  "timestamp": "2023-12-18T17:26:13-05:00"
+},
+{
+  "_id": "9c490f7c-7961-4f2a-a99c-0ac44ca14865",
+  "accessionNo": "0001437749-23-034783",
+  "type": "EX-10.QQ",
+  "url": "https://www.sec.gov/Archives/edgar/data/357294/000143774923034783/ex_605308.htm",
+  "description": "EXHIBIT 10.QQ",
+  "timestamp": "2023-12-18T17:26:13-05:00"
+},
+{
+  "_id": "568fe428-be0d-4fc5-8754-58b888147ddf",
+  "accessionNo": "0001437749-23-034783",
+  "type": "EX-10.RR",
+  "url": "https://www.sec.gov/Archives/edgar/data/357294/000143774923034783/ex_605292.htm",
+  "description": "EXHIBIT 10.RR",
+  "timestamp": "2023-12-18T17:26:13-05:00"
+},
+{
+  "_id": "e7d54bbe-fef0-47a4-87e3-f6fc01120402",
+  "accessionNo": "0001635984-23-000045",
+  "type": "EX-10.AK",
+  "url": "https://www.sec.gov/Archives/edgar/data/1635984/000163598423000045/exhibitak.htm",
+  "description": "EX-10.AK",
+  "timestamp": "2023-12-14T15:04:53-05:00"
+},
+{
+  "_id": "2e5abcca-39fc-411c-b123-6f46418b66f4",
+  "accessionNo": "0001877788-23-000043",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1877788/000187778823000043/cstf-ex10_1.htm",
+  "description": "N/A",
+  "timestamp": "2023-12-08T18:03:11-05:00"
+},
+{
+  "_id": "7d41b32e-2914-4882-9567-2cf81ee3b4f3",
+  "accessionNo": "0001877788-23-000043",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1877788/000187778823000043/cstf-ex10_2.htm",
+  "description": "N/A",
+  "timestamp": "2023-12-08T18:03:11-05:00"
+},
+{
+  "_id": "dd352d44-7080-4ea4-be90-6ac86bbdeda1",
+  "accessionNo": "0001628280-23-041065",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1792781/000162828023041065/fwdcompletewithdocusignr.htm",
+  "description": "EX-10",
+  "timestamp": "2023-12-07T16:07:41-05:00"
+},
+{
+  "_id": "8c40a2f7-a5c9-4310-a12a-5388e4417f8d",
+  "accessionNo": "0001072613-23-000594",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/887396/000107261323000594/exh10_18781.htm",
+  "description": "LETTER AMENDMENT TO SECURITIES PURCHASE AGREEMENT, DATED AS OF DECEMBER 1, 2023,",
+  "timestamp": "2023-12-01T16:22:15-05:00"
+},
+{
+  "_id": "ee8f360a-61e8-4e30-9b2f-4f7c8307ed1c",
+  "accessionNo": "0001213900-23-091897",
+  "type": "EX-10.B",
+  "url": "https://www.sec.gov/Archives/edgar/data/1597892/000121390023091897/ea189282ex10-b_jrsishealth.htm",
+  "description": "EXCLUSIVE BUSINESS COOPERATION AGREEMENT BETWEEN LAIDIAN TECHNOLOGY (ZHONGSHAN) ",
+  "timestamp": "2023-12-01T14:02:36-05:00"
+},
+{
+  "_id": "5c42a17e-bbaf-42d9-b7a5-7e7b0ec420a3",
+  "accessionNo": "0001213900-23-091897",
+  "type": "EX-10.C",
+  "url": "https://www.sec.gov/Archives/edgar/data/1597892/000121390023091897/ea189282ex10-c_jrsishealth.htm",
+  "description": "EQUITY INTEREST PLEDGE AGREEMENT AMONG LAIDIAN TECHNOLOGY (ZHONGSHAN) CO., LTD.,",
+  "timestamp": "2023-12-01T14:02:36-05:00"
+},
+{
+  "_id": "39db9a64-2838-4e65-9621-0c2e1563d345",
+  "accessionNo": "0001213900-23-091897",
+  "type": "EX-10.D",
+  "url": "https://www.sec.gov/Archives/edgar/data/1597892/000121390023091897/ea189282ex10-d_jrsishealth.htm",
+  "description": "EXCLUSIVE OPTION AGREEMENT AMONG LAIDIAN TECHNOLOGY (ZHONGSHAN) CO., LTD., YONGZ",
+  "timestamp": "2023-12-01T14:02:36-05:00"
+},
+{
+  "_id": "32db881e-680e-4ff5-ae10-29209f71c6e4",
+  "accessionNo": "0001213900-23-091897",
+  "type": "EX-10.E",
+  "url": "https://www.sec.gov/Archives/edgar/data/1597892/000121390023091897/ea189282ex10-e_jrsishealth.htm",
+  "description": "POWER OF ATTORNEY GIVEN BY GUANGZHOU JUMI INTELLIGENT EQUIPMENT CO., LTD TO LAID",
+  "timestamp": "2023-12-01T14:02:36-05:00"
+},
+{
+  "_id": "bca42d38-976c-491d-bbc5-54a1349d49a4",
+  "accessionNo": "0001490906-23-000028",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1490906/000149090623000028/cffn-093023xex10.htm",
+  "description": "CFFN EXHIBIT 10.1 AMENDED AND RESTATED CHANGE OF CONTROL AGREEMENT",
+  "timestamp": "2023-11-29T14:29:45-05:00"
+},
+{
+  "_id": "d86d2e48-66b5-4757-9e4a-d77319085818",
+  "accessionNo": "0001140361-23-054536",
+  "type": "EX-10.A",
+  "url": "https://www.sec.gov/Archives/edgar/data/357301/000114036123054536/ef20015231_ex10-a.htm",
+  "description": "EXHIBIT 10(A)",
+  "timestamp": "2023-11-24T10:49:57-05:00"
+},
+{
+  "_id": "57f38455-2ae4-4858-9d83-eb106e9b87f4",
+  "accessionNo": "0001140361-23-054536",
+  "type": "EX-10.B",
+  "url": "https://www.sec.gov/Archives/edgar/data/357301/000114036123054536/ef20015231_ex10-b.htm",
+  "description": "EXHIBIT 10(B)",
+  "timestamp": "2023-11-24T10:49:57-05:00"
+},
+{
+  "_id": "fc53a2bc-5317-4d39-99cb-6ca8b617c276",
+  "accessionNo": "0000950170-23-065844",
+  "type": "EX-10.(A)(III)",
+  "url": "https://www.sec.gov/Archives/edgar/data/16040/000095017023065844/cbt-ex10_aiii.htm",
+  "description": "EX-10.(A)(III)",
+  "timestamp": "2023-11-22T15:35:41-05:00"
+},
+{
+  "_id": "be067afc-76b5-4622-880c-d886addd789d",
+  "accessionNo": "0000950170-23-065844",
+  "type": "EX-10.(H)",
+  "url": "https://www.sec.gov/Archives/edgar/data/16040/000095017023065844/cbt-ex10_h.htm",
+  "description": "EX-10.(H)",
+  "timestamp": "2023-11-22T15:35:41-05:00"
+},
+{
+  "_id": "ba415604-99ee-4653-a077-868887c37eec",
+  "accessionNo": "0000950170-23-065844",
+  "type": "EX-10.(I)",
+  "url": "https://www.sec.gov/Archives/edgar/data/16040/000095017023065844/cbt-ex10_i.htm",
+  "description": "EX-10.(I)",
+  "timestamp": "2023-11-22T15:35:41-05:00"
+},
+{
+  "_id": "5ce1cff0-429a-4c0b-934f-ecb0b2bcf752",
+  "accessionNo": "0000950170-23-065844",
+  "type": "EX-10.(J)",
+  "url": "https://www.sec.gov/Archives/edgar/data/16040/000095017023065844/cbt-ex10_j.htm",
+  "description": "EX-10.(J)",
+  "timestamp": "2023-11-22T15:35:41-05:00"
+},
+{
+  "_id": "922319f2-fecd-4f1a-a073-59d320639a63",
+  "accessionNo": "0000950170-23-065844",
+  "type": "EX-10.(K)",
+  "url": "https://www.sec.gov/Archives/edgar/data/16040/000095017023065844/cbt-ex10_k.htm",
+  "description": "EX-10.(K)",
+  "timestamp": "2023-11-22T15:35:41-05:00"
+},
+{
+  "_id": "33d95462-c491-497c-8205-3b41f3e94993",
+  "accessionNo": "0000010795-23-000098",
+  "type": "EX-10.C",
+  "url": "https://www.sec.gov/Archives/edgar/data/10795/000001079523000098/a09-30x2023ex10c.htm",
+  "description": "EX-10.C",
+  "timestamp": "2023-11-21T17:08:11-05:00"
+},
+{
+  "_id": "e3f148da-d047-43cf-92db-2d999ecffd53",
+  "accessionNo": "0000010795-23-000098",
+  "type": "EX-10.GI",
+  "url": "https://www.sec.gov/Archives/edgar/data/10795/000001079523000098/a09-30x2023ex10gi.htm",
+  "description": "EX-10.GI",
+  "timestamp": "2023-11-21T17:08:11-05:00"
+},
+{
+  "_id": "8de309d4-c651-41e4-8c2a-328251ad5589",
+  "accessionNo": "0001763925-23-000006",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1763925/000176392523000006/ex_10.15_nonop_bos_11-8-22.htm",
+  "description": "EXHIBIT 10.15",
+  "timestamp": "2023-11-17T21:25:07-05:00"
+},
+{
+  "_id": "6815f1b9-0d18-4261-b867-e6c5ad6ba292",
+  "accessionNo": "0001763925-23-000006",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1763925/000176392523000006/ex_10.16_buckley_bos_12-2-22.htm",
+  "description": "EXHIBIT 10.16",
+  "timestamp": "2023-11-17T21:25:07-05:00"
+},
+{
+  "_id": "9988c716-c0df-4571-9450-8e33dbb93a47",
+  "accessionNo": "0001017386-23-000382",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1658521/000101738623000382/mtpp11162023_ex10.htm",
+  "description": "RESIGNATION LETTER OF ANTHONY LOMBARDO AS CEO DATED NOVEMBER 1, 2023",
+  "timestamp": "2023-11-17T14:29:11-05:00"
+},
+{
+  "_id": "3d2744c2-83de-4008-adbf-c09cbdef16b3",
+  "accessionNo": "0001193125-23-278818",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/23632/000119312523278818/d556027dex10.htm",
+  "description": "EX-10",
+  "timestamp": "2023-11-16T16:17:59-05:00"
+},
+{
+  "_id": "b9378796-0f3c-48e6-bb49-275c740a645a",
+  "accessionNo": "0001193125-23-278818",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/23632/000119312523278818/d556027dex10.htm",
+  "description": "EX-10",
+  "timestamp": "2023-11-16T16:17:59-05:00"
+},
+{
+  "_id": "40a3d5d8-606a-4e43-8373-4afda7c5d5d6",
+  "accessionNo": "0001158449-23-000238",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1158449/000115844923000238/aap_exhibitx101x8kx11152023.htm",
+  "description": "EX-10.1",
+  "timestamp": "2023-11-15T06:45:22-05:00"
+},
+{
+  "_id": "d4942d9c-3e3b-45a2-ad63-c3205cb7c098",
+  "accessionNo": "0001398344-23-020671",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1495584/000139834423020671/fp0085762-2_ex10.htm",
+  "description": "N/A",
+  "timestamp": "2023-11-14T13:15:39-05:00"
+},
+{
+  "_id": "ed5eaf47-8049-4c41-8c4c-3e4610b7a85a",
+  "accessionNo": "0000809248-23-000125",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/809248/000080924823000125/carrols-openmarketsaleagre.htm",
+  "description": "EX-10",
+  "timestamp": "2023-11-13T16:11:22-05:00"
+},
+{
+  "_id": "c10f42a4-a1d7-45f6-8350-57680b3943f1",
+  "accessionNo": "0001520138-23-000479",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1883835/000152013823000479/pmin-20231108_8kex10z1.htm",
+  "description": "EX-10",
+  "timestamp": "2023-11-08T21:53:57-05:00"
+},
+{
+  "_id": "89c5f047-e083-4aa0-924a-f3b595fa3b27",
+  "accessionNo": "0001161697-23-000567",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/704440/000116169723000567/ex_10-1.htm",
+  "description": "EMPLOYMENT AGREEMENT DATED 11-06-2023 - KENNETH MILLER",
+  "timestamp": "2023-11-08T16:05:13-05:00"
+},
+{
+  "_id": "c1dcf02f-3e20-4a65-a24a-4493f86d062c",
+  "accessionNo": "0001161697-23-000567",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/704440/000116169723000567/ex_10-2.htm",
+  "description": "NON-QUALIFIED STOCK OPTION AWARD AGREEMENT (TIME-BASED VESTING) - KENNETH MILLER",
+  "timestamp": "2023-11-08T16:05:13-05:00"
+},
+{
+  "_id": "e0739c9b-5f35-4e82-96ad-c5dde5a790c0",
+  "accessionNo": "0001161697-23-000567",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/704440/000116169723000567/ex_10-3.htm",
+  "description": "NON-QUALIFIED STOCK OPTION AWARD AGREEMENT (PERFORMANCE-BASED VESTING) - KENNETH",
+  "timestamp": "2023-11-08T16:05:13-05:00"
+},
+{
+  "_id": "f150ec6c-2dfa-4d07-840f-521f283b55a2",
+  "accessionNo": "0001618034-23-000019",
+  "type": "EX-10.III I",
+  "url": "https://www.sec.gov/Archives/edgar/data/1285785/000161803423000019/exhibit10iiii_20230930.htm",
+  "description": "EX-10.III I",
+  "timestamp": "2023-11-08T12:43:08-05:00"
+},
+{
+  "_id": "d782811a-2dfc-48f1-b676-2b12020d04d9",
+  "accessionNo": "0000811589-23-000057",
+  "type": "EX-10.A",
+  "url": "https://www.sec.gov/Archives/edgar/data/811589/000081158923000057/fbnc2023-09exx10a.htm",
+  "description": "EX-10.A",
+  "timestamp": "2023-11-07T16:07:04-05:00"
+},
+{
+  "_id": "764056a9-1421-41bb-bb14-915112d1b62a",
+  "accessionNo": "0000927653-23-000086",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/927653/000092765323000086/mckesson-rcfextensionackno.htm",
+  "description": "EX-10",
+  "timestamp": "2023-11-07T16:03:50-05:00"
+},
+{
+  "_id": "39af33fc-c5a6-41fe-9dd4-968feb4ddc38",
+  "accessionNo": "0001654954-23-013844",
+  "type": "EX-10.I",
+  "url": "https://www.sec.gov/Archives/edgar/data/1093672/000165495423013844/pebk_ex10i.htm",
+  "description": "EX-10(I)",
+  "timestamp": "2023-11-07T09:43:53-05:00"
+},
+{
+  "_id": "f88b61b6-464d-4acf-b2d4-11a0855dabef",
+  "accessionNo": "0000022356-23-000057",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/22356/000002235623000057/commercebancsharesincexecu.htm",
+  "description": "EX-10",
+  "timestamp": "2023-11-06T14:09:22-05:00"
+},
+{
+  "_id": "7d1402f3-b7b3-448e-aced-a0b302842612",
+  "accessionNo": "0001955520-23-000020",
+  "type": "EX-10.A",
+  "url": "https://www.sec.gov/Archives/edgar/data/1955520/000195552023000020/a2023ex10a.htm",
+  "description": "KNIFE RIVER RESTRICTIVE STOCK UNIT AWARD AGREEMENT",
+  "timestamp": "2023-11-06T07:08:55-05:00"
+},
+{
+  "_id": "75676e07-3ba5-4bb7-ae94-ead665338eab",
+  "accessionNo": "0001213900-23-083566",
+  "type": "EX-10.W",
+  "url": "https://www.sec.gov/Archives/edgar/data/316253/000121390023083566/f10k2023ex10w_enzobio.htm",
+  "description": "AMENDMENT AGREEMENT BY AND AMONG JGB CAPITAL, LP, JGB (CAYMAN) SUSSEX LTD., ENZO",
+  "timestamp": "2023-11-03T17:07:13-04:00"
+},
+{
+  "_id": "2837d26b-4720-4dde-89db-8944ef307ea7",
+  "accessionNo": "0001213900-23-083566",
+  "type": "EX-10.X",
+  "url": "https://www.sec.gov/Archives/edgar/data/316253/000121390023083566/f10k2023ex10x_enzobio.htm",
+  "description": "SEPARATION AGREEMENT AND GENERAL RELEASE BETWEEN HAMID ERFANIAN AND ENZO BIOCHEM",
+  "timestamp": "2023-11-03T17:07:13-04:00"
+},
+{
+  "_id": "1bc9111f-7bda-4ecb-a8e7-717e71803fc8",
+  "accessionNo": "0001213900-23-083566",
+  "type": "EX-10.Y",
+  "url": "https://www.sec.gov/Archives/edgar/data/316253/000121390023083566/f10k2023ex10y_enzobio.htm",
+  "description": "SETTLEMENT AGREEMENT BETWEEN BARRY WEINER, SHAHLA WEINER, ROYA WEINER, AND JONAT",
+  "timestamp": "2023-11-03T17:07:13-04:00"
+},
+{
+  "_id": "53432c2f-876f-49ca-a3d1-874d8371f2eb",
+  "accessionNo": "0001650664-23-000017",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1650664/000165066423000017/separationagreement.htm",
+  "description": "EX-10",
+  "timestamp": "2023-11-03T16:03:51-04:00"
+},
+{
+  "_id": "1a18291d-7ab2-45cd-9a05-4d1bdee11348",
+  "accessionNo": "0000355811-23-000056",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/355811/000035581123000056/gntx10q09302023-exx10.htm",
+  "description": "EX-10",
+  "timestamp": "2023-11-03T13:46:17-04:00"
+},
+{
+  "_id": "ad464782-4b2e-4ffa-8c3d-1456e37ae56f",
+  "accessionNo": "0001545654-23-000039",
+  "type": "EX-10.B1(LIV)",
+  "url": "https://www.sec.gov/Archives/edgar/data/1545654/000154565423000039/amendmenttoconsultingagree.htm",
+  "description": "EX-10.B1(LIV)",
+  "timestamp": "2023-11-02T21:54:28-04:00"
+},
+{
+  "_id": "01b8f66e-bba7-43c0-99bc-7663b6234190",
+  "accessionNo": "0001545654-23-000039",
+  "type": "EX-10.B1(LV)",
+  "url": "https://www.sec.gov/Archives/edgar/data/1545654/000154565423000039/letteragreementandreleasejs.htm",
+  "description": "EX-10.B1(LV)",
+  "timestamp": "2023-11-02T21:54:28-04:00"
+},
+{
+  "_id": "a0bc2bdf-4f99-4202-a8e4-e91121589867",
+  "accessionNo": "0000813828-23-000033",
+  "type": "EX-10.A",
+  "url": "https://www.sec.gov/Archives/edgar/data/813828/000081382823000033/para_ex10a-093023.htm",
+  "description": "EX-10.A",
+  "timestamp": "2023-11-02T17:34:29-04:00"
+},
+{
+  "_id": "0e85c9a2-037c-460c-b0c9-86fc8ee04086",
+  "accessionNo": "0000907254-23-000097",
+  "type": "EX-10.A",
+  "url": "https://www.sec.gov/Archives/edgar/data/907254/000090725423000097/exhibit10a-final.htm",
+  "description": "EX-10.A",
+  "timestamp": "2023-11-02T16:26:28-04:00"
+},
+{
+  "_id": "954801f6-330f-4205-aa9f-f22afd313f87",
+  "accessionNo": "0000026172-23-000045",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/26172/000002617223000045/cmi2023q310-qex10.htm",
+  "description": "EX-10",
+  "timestamp": "2023-11-02T12:34:30-04:00"
+},
+{
+  "_id": "c55b5491-4ac7-464d-bd80-01dfcad9533d",
+  "accessionNo": "0001193125-23-268883",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/903129/000119312523268883/d548342dex10.htm",
+  "description": "EX-10",
+  "timestamp": "2023-11-02T08:16:00-04:00"
+},
+{
+  "_id": "c827a508-f43c-4774-849d-7803e89de1db",
+  "accessionNo": "0001558370-23-017325",
+  "type": "EX-10.A",
+  "url": "https://www.sec.gov/Archives/edgar/data/7536/000155837023017325/arw-20230930xex10da.htm",
+  "description": "EX-10.A",
+  "timestamp": "2023-11-02T08:05:48-04:00"
+},
+{
+  "_id": "664c3ef0-f171-4335-9d6b-6bbc401364ac",
+  "accessionNo": "0001558370-23-017325",
+  "type": "EX-10.B",
+  "url": "https://www.sec.gov/Archives/edgar/data/7536/000155837023017325/arw-20230930xex10db.htm",
+  "description": "EX-10.B",
+  "timestamp": "2023-11-02T08:05:48-04:00"
+},
+{
+  "_id": "b72baef2-e878-4499-9481-fe4af58236c7",
+  "accessionNo": "0001558370-23-017325",
+  "type": "EX-10.C",
+  "url": "https://www.sec.gov/Archives/edgar/data/7536/000155837023017325/arw-20230930xex10dc.htm",
+  "description": "EX-10.C",
+  "timestamp": "2023-11-02T08:05:48-04:00"
+},
+{
+  "_id": "6147be8f-a077-4ad0-b148-5af37e98c35e",
+  "accessionNo": "0001558370-23-017325",
+  "type": "EX-10.D",
+  "url": "https://www.sec.gov/Archives/edgar/data/7536/000155837023017325/arw-20230930xex10dd.htm",
+  "description": "EX-10.D",
+  "timestamp": "2023-11-02T08:05:48-04:00"
+},
+{
+  "_id": "81764952-9b24-4687-b705-1c9144a1693a",
+  "accessionNo": "0000004904-23-000121",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/4904/000000490423000121/ex10aep20233q.htm",
+  "description": "EX-10",
+  "timestamp": "2023-11-02T07:14:40-04:00"
+},
+{
+  "_id": "7509134b-7d7b-494a-81b4-8ffbf3a1664c",
+  "accessionNo": "0000004904-23-000121",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/4904/000000490423000121/ex10aep20233q.htm",
+  "description": "EX-10",
+  "timestamp": "2023-11-02T07:14:40-04:00"
+},
+{
+  "_id": "4105e87a-6f15-430e-80c0-85dab2f63591",
+  "accessionNo": "0000004904-23-000121",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/4904/000000490423000121/ex10aep20233q.htm",
+  "description": "EX-10",
+  "timestamp": "2023-11-02T07:14:40-04:00"
+},
+{
+  "_id": "c01a300d-6aea-42ac-a82a-a44a062faab9",
+  "accessionNo": "0000004904-23-000121",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/4904/000000490423000121/ex10aep20233q.htm",
+  "description": "EX-10",
+  "timestamp": "2023-11-02T07:14:40-04:00"
+},
+{
+  "_id": "59d90cb0-9daa-476a-b9f8-228a5ba103d1",
+  "accessionNo": "0000004904-23-000121",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/4904/000000490423000121/ex10aep20233q.htm",
+  "description": "EX-10",
+  "timestamp": "2023-11-02T07:14:40-04:00"
+},
+{
+  "_id": "6a744e49-92c4-4ec3-999a-1e22a9dbac2a",
+  "accessionNo": "0000004904-23-000121",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/4904/000000490423000121/ex10aep20233q.htm",
+  "description": "EX-10",
+  "timestamp": "2023-11-02T07:14:40-04:00"
+},
+{
+  "_id": "878e97ed-235f-471f-b08e-f44f02c2a688",
+  "accessionNo": "0000004904-23-000121",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/4904/000000490423000121/ex10aep20233q.htm",
+  "description": "EX-10",
+  "timestamp": "2023-11-02T07:14:40-04:00"
+},
+{
+  "_id": "6dd46f78-cc15-4f7a-8628-610ca0574c4f",
+  "accessionNo": "0000004904-23-000121",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/4904/000000490423000121/ex10aep20233q.htm",
+  "description": "EX-10",
+  "timestamp": "2023-11-02T07:14:40-04:00"
+},
+{
+  "_id": "3be56db8-e3a1-4f42-bfd1-67192ac23314",
+  "accessionNo": "0000066756-23-000044",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/66756/000006675623000044/ale9-30x2023exx10.htm",
+  "description": "EX-10",
+  "timestamp": "2023-11-01T17:40:04-04:00"
+},
+{
+  "_id": "2d59f805-2661-4958-b16d-48e651fda195",
+  "accessionNo": "0000703351-23-000051",
+  "type": "EX-10.A",
+  "url": "https://www.sec.gov/Archives/edgar/data/703351/000070335123000051/f2024retentionstockunitawa.htm",
+  "description": "EX-10.A",
+  "timestamp": "2023-11-01T17:02:55-04:00"
+},
+{
+  "_id": "bf0816be-0ea1-4993-8462-de325ac6c29f",
+  "accessionNo": "0000703351-23-000051",
+  "type": "EX-10.B",
+  "url": "https://www.sec.gov/Archives/edgar/data/703351/000070335123000051/f2024restrictedstockunitaw.htm",
+  "description": "EX-10.B",
+  "timestamp": "2023-11-01T17:02:55-04:00"
+},
+{
+  "_id": "a9df24a9-3b99-4ed9-bb65-18e46e7ad0af",
+  "accessionNo": "0000703351-23-000051",
+  "type": "EX-10.C",
+  "url": "https://www.sec.gov/Archives/edgar/data/703351/000070335123000051/f2024performanceshareplanf.htm",
+  "description": "EX-10.C",
+  "timestamp": "2023-11-01T17:02:55-04:00"
+},
+{
+  "_id": "5b950f00-3a52-42d3-a864-b3a08f80c4a7",
+  "accessionNo": "0000943374-23-000436",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1778784/000094337423000436/ex10-8k_102823.htm",
+  "description": "STANDSTILL AGREEMENT BY AND AMONG PROVIDENT BANCORP, INC., STILWELL ACTIVIST FUN",
+  "timestamp": "2023-10-31T17:15:27-04:00"
+},
+{
+  "_id": "cabb7634-92d5-4481-a0f6-358f6dcc7b33",
+  "accessionNo": "0000034088-23-000056",
+  "type": "EX-10.(III)(G)",
+  "url": "https://www.sec.gov/Archives/edgar/data/34088/000003408823000056/xomexhibit10iiig093023.htm",
+  "description": "AIRCRAFT TIME SHARE AGREEMENT BETWEEN EXXON MOBIL CORP AND DARREN W. WOODS",
+  "timestamp": "2023-10-31T10:46:09-04:00"
+},
+{
+  "_id": "df79375a-d4f0-4d4e-868f-10b3db31a249",
+  "accessionNo": "0000070318-23-000055",
+  "type": "EX-10.B",
+  "url": "https://www.sec.gov/Archives/edgar/data/70318/000007031823000055/thc-20230930x10qxex10b.htm",
+  "description": "EX-10.B",
+  "timestamp": "2023-10-30T16:08:59-04:00"
+},
+{
+  "_id": "37bc5e5f-5679-41e5-9cfd-73071bb2ecdc",
+  "accessionNo": "0000070318-23-000055",
+  "type": "EX-10.C",
+  "url": "https://www.sec.gov/Archives/edgar/data/70318/000007031823000055/thc-20230930x10qxex10c.htm",
+  "description": "EX-10.C",
+  "timestamp": "2023-10-30T16:08:59-04:00"
+},
+{
+  "_id": "bd0e1c91-4074-41af-9dbf-0c440092abd6",
+  "accessionNo": "0000021665-23-000037",
+  "type": "EX-10.B",
+  "url": "https://www.sec.gov/Archives/edgar/data/21665/000002166523000037/a2023rsuform2019plannoneea.htm",
+  "description": "EX-10.B",
+  "timestamp": "2023-10-27T08:35:07-04:00"
+},
+{
+  "_id": "9b351c2b-acb8-45ba-be07-109cb6daca7a",
+  "accessionNo": "0000021665-23-000037",
+  "type": "EX-10.C",
+  "url": "https://www.sec.gov/Archives/edgar/data/21665/000002166523000037/a2023stockoptionform2019pl.htm",
+  "description": "EX-10.C",
+  "timestamp": "2023-10-27T08:35:07-04:00"
+},
+{
+  "_id": "b085cc94-060b-41e3-b48b-f6c5910157ea",
+  "accessionNo": "0001060391-23-000025",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1060391/000106039123000025/exhibit1001amendedandresta.htm",
+  "description": "EX-10.1",
+  "timestamp": "2023-10-26T21:45:38-04:00"
+},
+{
+  "_id": "ea2ab150-a44d-49e3-aacd-b83188dcd3e0",
+  "accessionNo": "0001060391-23-000025",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1060391/000106039123000025/exhibit1002timothystuartse.htm",
+  "description": "EX-10.2",
+  "timestamp": "2023-10-26T21:45:38-04:00"
+},
+{
+  "_id": "e421e0f4-1574-4cc5-929d-92f7ddbd55f0",
+  "accessionNo": "0000062996-23-000042",
+  "type": "EX-10.A",
+  "url": "https://www.sec.gov/Archives/edgar/data/62996/000006299623000042/a10adraftoffer_rickwestenb.htm",
+  "description": "EX-10.A",
+  "timestamp": "2023-10-26T16:20:05-04:00"
+},
+{
+  "_id": "876f3634-4372-499a-8dbe-960f2c2a094d",
+  "accessionNo": "0000062996-23-000042",
+  "type": "EX-10.B",
+  "url": "https://www.sec.gov/Archives/edgar/data/62996/000006299623000042/a10blegal-383602xv1xd_xcha.htm",
+  "description": "EX-10.B",
+  "timestamp": "2023-10-26T16:20:05-04:00"
+},
+{
+  "_id": "0a6fceb8-42e9-469d-a2cd-64465969962d",
+  "accessionNo": "0001144215-23-000090",
+  "type": "EX-10.IIIA(26)",
+  "url": "https://www.sec.gov/Archives/edgar/data/1144215/000114421523000090/ayi-20230831xex10iiia26.htm",
+  "description": "EX-10.IIIA(26)",
+  "timestamp": "2023-10-26T08:09:01-04:00"
+},
+{
+  "_id": "dc827d32-5082-4afa-9327-edb2eaf37a2a",
+  "accessionNo": "0001144215-23-000090",
+  "type": "EX-10.IIIA(28)",
+  "url": "https://www.sec.gov/Archives/edgar/data/1144215/000114421523000090/ayi-20230831xex10iiia28.htm",
+  "description": "EX-10.IIIA(28)",
+  "timestamp": "2023-10-26T08:09:01-04:00"
+},
+{
+  "_id": "2b0d52fb-cd68-4bdc-a481-d13dc6358867",
+  "accessionNo": "0001144215-23-000090",
+  "type": "EX-10.IIIA(76)",
+  "url": "https://www.sec.gov/Archives/edgar/data/1144215/000114421523000090/ayi-20230831xex10iiia76.htm",
+  "description": "EX-10.IIIA(76)",
+  "timestamp": "2023-10-26T08:09:01-04:00"
+},
+{
+  "_id": "cf649a7a-0e4a-4076-8ad8-6c4538e4c6d2",
+  "accessionNo": "0001144215-23-000090",
+  "type": "EX-10.IIIA(77)",
+  "url": "https://www.sec.gov/Archives/edgar/data/1144215/000114421523000090/ayi-20230831xex10iiia77.htm",
+  "description": "EX-10.IIIA(77)",
+  "timestamp": "2023-10-26T08:09:01-04:00"
+},
+{
+  "_id": "d72cfa8e-ad27-49c5-9286-14a3a8244837",
+  "accessionNo": "0001144215-23-000090",
+  "type": "EX-10.IIIA(78)",
+  "url": "https://www.sec.gov/Archives/edgar/data/1144215/000114421523000090/ayi-20230831xex10iiia78.htm",
+  "description": "EX-10.IIIA(78)",
+  "timestamp": "2023-10-26T08:09:01-04:00"
+},
+{
+  "_id": "f44158ef-97af-4b2a-b6d6-c4e7b176998d",
+  "accessionNo": "0001144215-23-000090",
+  "type": "EX-10.IIIA(79)",
+  "url": "https://www.sec.gov/Archives/edgar/data/1144215/000114421523000090/ayi-20230831xex10iiia79.htm",
+  "description": "EX-10.IIIA(79)",
+  "timestamp": "2023-10-26T08:09:01-04:00"
+},
+{
+  "_id": "cecfe75b-927d-46fa-b4b5-54ffb96e950e",
+  "accessionNo": "0001144215-23-000090",
+  "type": "EX-10.IIIA(80)",
+  "url": "https://www.sec.gov/Archives/edgar/data/1144215/000114421523000090/ayi-20230831xex10iiia80.htm",
+  "description": "EX-10.IIIA(80)",
+  "timestamp": "2023-10-26T08:09:01-04:00"
+},
+{
+  "_id": "f51c4e35-e25d-43fb-9087-a498c81485c2",
+  "accessionNo": "0000038777-23-000137",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/38777/000003877723000137/exhibit101final-ftexeccl.htm",
+  "description": "EX-10.1",
+  "timestamp": "2023-10-24T15:32:04-04:00"
+},
+{
+  "_id": "f3040ca2-bc60-4b4f-8c55-05a7d26f9ff7",
+  "accessionNo": "0000040545-23-000238",
+  "type": "EX-10.A",
+  "url": "https://www.sec.gov/Archives/edgar/data/40545/000004054523000238/ge3q202310qexhbit10a.htm",
+  "description": "EX-10.A",
+  "timestamp": "2023-10-24T06:03:33-04:00"
+},
+{
+  "_id": "5ce3d714-595b-4f9a-85b0-bc18e60464ed",
+  "accessionNo": "0000105132-23-000059",
+  "type": "EX-10.B",
+  "url": "https://www.sec.gov/Archives/edgar/data/105132/000010513223000059/wdfc-20230831xex10_b.htm",
+  "description": "EX-10.B",
+  "timestamp": "2023-10-23T16:22:21-04:00"
+},
+{
+  "_id": "b268e1ca-6969-48f6-8e25-52248093389e",
+  "accessionNo": "0000105132-23-000059",
+  "type": "EX-10.O",
+  "url": "https://www.sec.gov/Archives/edgar/data/105132/000010513223000059/wdfc-20230831xex10_o.htm",
+  "description": "EX-10.O",
+  "timestamp": "2023-10-23T16:22:21-04:00"
+},
+{
+  "_id": "bbaca7b6-0900-497a-92bc-da39885e55bb",
+  "accessionNo": "0000105132-23-000059",
+  "type": "EX-10.P",
+  "url": "https://www.sec.gov/Archives/edgar/data/105132/000010513223000059/wdfc-20230831xex10_p.htm",
+  "description": "EX-10.P",
+  "timestamp": "2023-10-23T16:22:21-04:00"
+},
+{
+  "_id": "bfff3549-657e-431d-864c-b26dbdf29827",
+  "accessionNo": "0000105132-23-000059",
+  "type": "EX-10.Q",
+  "url": "https://www.sec.gov/Archives/edgar/data/105132/000010513223000059/wdfc-20230831xex10_q.htm",
+  "description": "EX-10.Q",
+  "timestamp": "2023-10-23T16:22:21-04:00"
+},
+{
+  "_id": "ccdf64cb-6983-457b-a8b1-ec6b4200b405",
+  "accessionNo": "0001437749-23-028607",
+  "type": "EX-10.A",
+  "url": "https://www.sec.gov/Archives/edgar/data/100885/000143774923028607/ex_577643.htm",
+  "description": "EXHIBIT 10(A)",
+  "timestamp": "2023-10-19T15:28:18-04:00"
+},
+{
+  "_id": "b2aebb9b-c333-46d8-bb5f-fe5a5a9b0884",
+  "accessionNo": "0001206774-23-001194",
+  "type": "EX-10.II",
+  "url": "https://www.sec.gov/Archives/edgar/data/54187/000120677423001194/mays4229211-ex10ii.htm",
+  "description": "EMPLOYMENT AGREEMENTS",
+  "timestamp": "2023-10-19T08:15:47-04:00"
+},
+{
+  "_id": "6adaaac6-0b90-48d8-8e1f-7eae47f32c1d",
+  "accessionNo": "0001013762-23-004674",
+  "type": "EX-10.A",
+  "url": "https://www.sec.gov/Archives/edgar/data/1597892/000101376223004674/ea186922ex10-a_jrsishealth.htm",
+  "description": "AGREEMENT TO CONTRACT DATED OCTOBER 18, 2023 AMONG JRSIS HEALTH CARE CORPORATION",
+  "timestamp": "2023-10-18T11:04:09-04:00"
+},
+{
+  "_id": "ee869edb-f638-40c0-bb31-7a52fecf1a66",
+  "accessionNo": "0000023197-23-000048",
+  "type": "EX-10.(E)(2)",
+  "url": "https://www.sec.gov/Archives/edgar/data/23197/000002319723000048/exhibit10e2formofcash-sett.htm",
+  "description": "EX-10.(E)(2)",
+  "timestamp": "2023-10-12T16:25:59-04:00"
+},
+{
+  "_id": "dcdf1f22-3399-454b-b0f6-490686d2e070",
+  "accessionNo": "0000023197-23-000048",
+  "type": "EX-10.(I)(3)",
+  "url": "https://www.sec.gov/Archives/edgar/data/23197/000002319723000048/exhibit10i3formofotherstoc.htm",
+  "description": "EX-10.(I)(3)",
+  "timestamp": "2023-10-12T16:25:59-04:00"
+},
+{
+  "_id": "9e58fc8a-43e0-4606-ac18-e96a8857e65d",
+  "accessionNo": "0001193125-23-253873",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/16732/000119312523253873/d410910dex10.htm",
+  "description": "EX-10",
+  "timestamp": "2023-10-11T08:00:59-04:00"
+},
+{
+  "_id": "394a6e48-1dc8-4e9c-a6ec-d3e51dee498e",
+  "accessionNo": "0001214816-23-000081",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1214816/000121481623000081/vogtemploymentagree-amendn.htm",
+  "description": "EX-10.1",
+  "timestamp": "2023-10-10T09:21:53-04:00"
+},
+{
+  "_id": "2695e7ae-771a-4946-a4ef-65a89a3e7594",
+  "accessionNo": "0001654954-23-012532",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1329842/000165495423012532/fhlbny_ex101.htm",
+  "description": "EXHIBIT 10.1",
+  "timestamp": "2023-10-03T10:01:02-04:00"
+},
+{
+  "_id": "67e31236-ab94-4a77-980c-96f0b6dc5e1c",
+  "accessionNo": "0001493152-23-034849",
+  "type": "EX-10.A",
+  "url": "https://www.sec.gov/Archives/edgar/data/1534708/000149315223034849/ex10-a.htm",
+  "description": "N/A",
+  "timestamp": "2023-09-29T16:17:20-04:00"
+},
+{
+  "_id": "e49d21a4-7de5-4ab0-a69f-be0a1ee0bc00",
+  "accessionNo": "0001140361-23-045201",
+  "type": "EX-10.(Y)",
+  "url": "https://www.sec.gov/Archives/edgar/data/1067294/000114036123045201/brhc20058683_ex10y.htm",
+  "description": "EXHIBIT 10(Y)",
+  "timestamp": "2023-09-26T12:35:17-04:00"
+},
+{
+  "_id": "2641aba7-2539-4678-a0d7-f7d1b13dc0a6",
+  "accessionNo": "0000016732-23-000109",
+  "type": "EX-10.FF",
+  "url": "https://www.sec.gov/Archives/edgar/data/16732/000001673223000109/cpb7302023exb10ff.htm",
+  "description": "EX-10.FF",
+  "timestamp": "2023-09-21T07:21:03-04:00"
+},
+{
+  "_id": "be29decf-79e7-4ea8-8712-6ef33dbe8a04",
+  "accessionNo": "0000016732-23-000109",
+  "type": "EX-10.H",
+  "url": "https://www.sec.gov/Archives/edgar/data/16732/000001673223000109/cpb-7302023exb10h.htm",
+  "description": "EX-10.H",
+  "timestamp": "2023-09-21T07:21:03-04:00"
+},
+{
+  "_id": "2629ec3d-4f35-482c-9b82-a1b7de767b7b",
+  "accessionNo": "0000016732-23-000109",
+  "type": "EX-10.HH",
+  "url": "https://www.sec.gov/Archives/edgar/data/16732/000001673223000109/cpb-7302023exb10hh.htm",
+  "description": "EX-10.HH",
+  "timestamp": "2023-09-21T07:21:03-04:00"
+},
+{
+  "_id": "c3174a0a-cde4-404c-8460-708ca324f0ba",
+  "accessionNo": "0000016732-23-000109",
+  "type": "EX-10.W",
+  "url": "https://www.sec.gov/Archives/edgar/data/16732/000001673223000109/cpb-7302023exb10w.htm",
+  "description": "EX-10.W",
+  "timestamp": "2023-09-21T07:21:03-04:00"
+},
+{
+  "_id": "561306a1-fc96-4de2-9a67-5f228a4f1567",
+  "accessionNo": "0000016732-23-000109",
+  "type": "EX-10.X",
+  "url": "https://www.sec.gov/Archives/edgar/data/16732/000001673223000109/cpb-7302023exb10x.htm",
+  "description": "EX-10.X",
+  "timestamp": "2023-09-21T07:21:03-04:00"
+},
+{
+  "_id": "ac0a0add-8cf3-4e1d-a20d-c45416eabc87",
+  "accessionNo": "0000016732-23-000109",
+  "type": "EX-10.Y",
+  "url": "https://www.sec.gov/Archives/edgar/data/16732/000001673223000109/cpb-7303023exb10y.htm",
+  "description": "EX-10.Y",
+  "timestamp": "2023-09-21T07:21:03-04:00"
+},
+{
+  "_id": "7d3f38f4-2ee7-4765-b04f-a9f99e700eae",
+  "accessionNo": "0000093676-23-000035",
+  "type": "EX-10.G",
+  "url": "https://www.sec.gov/Archives/edgar/data/93676/000009367623000035/changeincontrolagreementem.htm",
+  "description": "EX-10.G",
+  "timestamp": "2023-09-15T17:21:57-04:00"
+},
+{
+  "_id": "032d6d89-f8c0-450c-9da8-15a20e43d84c",
+  "accessionNo": "0000093676-23-000035",
+  "type": "EX-10.H",
+  "url": "https://www.sec.gov/Archives/edgar/data/93676/000009367623000035/changeincontrolagreementjo.htm",
+  "description": "EX-10.H",
+  "timestamp": "2023-09-15T17:21:57-04:00"
+},
+{
+  "_id": "65b2b972-ca3c-453c-b7db-a049f292abe1",
+  "accessionNo": "0000093676-23-000035",
+  "type": "EX-10.U",
+  "url": "https://www.sec.gov/Archives/edgar/data/93676/000009367623000035/exhibit10ustarrett2021ltip.htm",
+  "description": "EX-10.U",
+  "timestamp": "2023-09-15T17:21:57-04:00"
+},
+{
+  "_id": "9c49adf3-93d6-4dbe-9627-cc6205287be6",
+  "accessionNo": "0000093676-23-000035",
+  "type": "EX-10.V",
+  "url": "https://www.sec.gov/Archives/edgar/data/93676/000009367623000035/starrett2021ltipdirectorre.htm",
+  "description": "EX-10.V",
+  "timestamp": "2023-09-15T17:21:57-04:00"
+},
+{
+  "_id": "1c742b1e-a13f-4175-8f64-2c4a25477983",
+  "accessionNo": "0000021665-23-000034",
+  "type": "EX-10.A",
+  "url": "https://www.sec.gov/Archives/edgar/data/21665/000002166523000034/executiveseveranceplan2023.htm",
+  "description": "EX-10.A",
+  "timestamp": "2023-09-15T16:15:13-04:00"
+},
+{
+  "_id": "b606a374-34ec-405a-9633-1e369b049598",
+  "accessionNo": "0001262463-23-000098",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1342916/000126246323000098/ex102.htm",
+  "description": "EXHIBIT 10.2",
+  "timestamp": "2023-09-14T16:16:41-04:00"
+},
+{
+  "_id": "23872bbe-4048-4041-bc0c-d45316d024c0",
+  "accessionNo": "0001399306-23-000021",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1399306/000139930623000021/brbl-ex10_1.htm",
+  "description": "BOARD OF DIRECTORS AGREEMENT BETWEEN BREWBILT BREWING COMPANY AND JEF LEWIS",
+  "timestamp": "2023-09-13T16:38:42-04:00"
+},
+{
+  "_id": "94298edc-48ce-4427-936a-bb2192f9de9a",
+  "accessionNo": "0001399306-23-000021",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1399306/000139930623000021/brbl-ex10_2.htm",
+  "description": "EMPLOYMENT AGREEMENT BETWEEN BREWBILT BREWING COMPANY AND BENNETT BUCHANAN",
+  "timestamp": "2023-09-13T16:38:42-04:00"
+},
+{
+  "_id": "5bef3fcb-fe05-4b1f-92bf-35de7381e3d7",
+  "accessionNo": "0000009389-23-000038",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/9389/000000938923000038/ball-20230907xex10.htm",
+  "description": "EX-10",
+  "timestamp": "2023-09-11T16:37:47-04:00"
+},
+{
+  "_id": "0113b53a-785d-4482-b382-e999bc113bdf",
+  "accessionNo": "0001376474-23-000431",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/96536/000137647423000431/td_ex10z1.htm",
+  "description": "EMPLOYMENT AGREEMENT",
+  "timestamp": "2023-09-11T10:24:43-04:00"
+},
+{
+  "_id": "9bc25ee4-1826-4b30-8f96-dd9de26956f6",
+  "accessionNo": "0001558370-23-015591",
+  "type": "EX-10.M",
+  "url": "https://www.sec.gov/Archives/edgar/data/69633/000155837023015591/nssc-20230630xex10dm.htm",
+  "description": "EX-10.M",
+  "timestamp": "2023-09-08T12:32:23-04:00"
+},
+{
+  "_id": "438a6c70-4b3c-49a1-8d8a-00727a55c4d5",
+  "accessionNo": "0001193125-23-229780",
+  "type": "EX-10.(B)",
+  "url": "https://www.sec.gov/Archives/edgar/data/319655/000119312523229780/d535184dex10b.htm",
+  "description": "EX-10.(B)",
+  "timestamp": "2023-09-06T17:38:57-04:00"
+},
+{
+  "_id": "985c3f1f-fe46-4799-a895-bfbc196c5a52",
+  "accessionNo": "0001262463-23-000077",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1307624/000126246323000077/ex101.htm",
+  "description": "EXHIBIT 10.1",
+  "timestamp": "2023-09-06T17:27:44-04:00"
+},
+{
+  "_id": "96eb3f39-452f-4419-bd43-37a974bc7c70",
+  "accessionNo": "0001262463-23-000077",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1307624/000126246323000077/ex102.htm",
+  "description": "EXHIBIT 10.2",
+  "timestamp": "2023-09-06T17:27:44-04:00"
+},
+{
+  "_id": "9d0939d9-b874-4146-98eb-f1e184a33cbb",
+  "accessionNo": "0001437749-23-025061",
+  "type": "EX-10.A",
+  "url": "https://www.sec.gov/Archives/edgar/data/357294/000143774923025061/ex_565124.htm",
+  "description": "EXHIBIT 10.A",
+  "timestamp": "2023-09-01T16:09:18-04:00"
+},
+{
+  "_id": "f75cfecb-9144-4502-a60f-4cdc8f345d3f",
+  "accessionNo": "0001437749-23-025061",
+  "type": "EX-10.B",
+  "url": "https://www.sec.gov/Archives/edgar/data/357294/000143774923025061/ex_565125.htm",
+  "description": "EXHIBIT 10.B",
+  "timestamp": "2023-09-01T16:09:18-04:00"
+},
+{
+  "_id": "6876cf87-818f-4cbf-9bb4-8dd009816445",
+  "accessionNo": "0001437749-23-025061",
+  "type": "EX-10.C",
+  "url": "https://www.sec.gov/Archives/edgar/data/357294/000143774923025061/ex_565126.htm",
+  "description": "EXHIBIT 10.C",
+  "timestamp": "2023-09-01T16:09:18-04:00"
+},
+{
+  "_id": "2ca879dd-3e93-41b3-88ff-79527216afa4",
+  "accessionNo": "0001437749-23-025061",
+  "type": "EX-10.D",
+  "url": "https://www.sec.gov/Archives/edgar/data/357294/000143774923025061/ex_565127.htm",
+  "description": "EXHIBIT 10.D",
+  "timestamp": "2023-09-01T16:09:18-04:00"
+},
+{
+  "_id": "1eb68806-8365-4865-a2c5-779ec90cb262",
+  "accessionNo": "0001783879-23-000201",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1783879/000178387923000201/exhibit101.htm",
+  "description": "EX-10.1",
+  "timestamp": "2023-09-01T08:15:19-04:00"
+},
+{
+  "_id": "43da9610-e4c1-4da4-994f-72eecfd0b442",
+  "accessionNo": "0000703351-23-000043",
+  "type": "EX-10.S",
+  "url": "https://www.sec.gov/Archives/edgar/data/703351/000070335123000043/formofdirectorandofficerin.htm",
+  "description": "EX-10.S",
+  "timestamp": "2023-08-23T16:59:17-04:00"
+},
+{
+  "_id": "3ee6f358-6b00-4eb6-bbbc-90cbbab456cc",
+  "accessionNo": "0000037996-23-000053",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/37996/000003799623000053/ford-revolvingcreditagreem.htm",
+  "description": "EX-10",
+  "timestamp": "2023-08-22T17:15:16-04:00"
+},
+{
+  "_id": "b36a94ac-0185-4aad-b2ff-6b20d4e1fd0a",
+  "accessionNo": "0000819793-23-000075",
+  "type": "EX-10.(K)(XX)",
+  "url": "https://www.sec.gov/Archives/edgar/data/819793/000081979323000075/ain-20230816xexhibit10kxx.htm",
+  "description": "EX-10.(K)(XX)",
+  "timestamp": "2023-08-16T16:33:44-04:00"
+},
+{
+  "_id": "fe17545e-adc7-4571-a5b8-13dddbddf6dd",
+  "accessionNo": "0000950170-23-042844",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1000045/000095017023042844/nick-ex10.htm",
+  "description": "EX-10",
+  "timestamp": "2023-08-15T16:49:37-04:00"
+},
+{
+  "_id": "d5c78da7-3b85-44ac-9c16-c17bf149f8fd",
+  "accessionNo": "0000037996-24-000009",
+  "type": "EX-10.L",
+  "url": "https://www.sec.gov/Archives/edgar/data/37996/000003799624000009/f12312023exhibit10-l.htm",
+  "description": "EX-10.L",
+  "timestamp": "2024-02-06T19:33:55-05:00"
+},
+{
+  "_id": "7ebb5ce7-1202-4a9b-aaa4-393ed6ec6b4b",
+  "accessionNo": "0000037996-24-000009",
+  "type": "EX-10.Q-7",
+  "url": "https://www.sec.gov/Archives/edgar/data/37996/000003799624000009/f12312023exhibit10-qx7.htm",
+  "description": "EX-10.Q-7",
+  "timestamp": "2024-02-06T19:33:55-05:00"
+},
+{
+  "_id": "485b65b1-9afa-41c4-9e5b-8a1c99f17020",
+  "accessionNo": "0001628280-24-003512",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1529377/000162828024003512/exhibit101.htm",
+  "description": "EX-10.1",
+  "timestamp": "2024-02-06T16:54:06-05:00"
+},
+{
+  "_id": "dd3ab03a-81c2-4374-ba04-8e044f4bafb3",
+  "accessionNo": "0000822416-24-000010",
+  "type": "EX-10.F",
+  "url": "https://www.sec.gov/Archives/edgar/data/822416/000082241624000010/exhibit10f-2021rsuagreement.htm",
+  "description": "EX-10.F - 2021 RSU AWARD AGREEMENT",
+  "timestamp": "2024-02-05T16:52:45-05:00"
+},
+{
+  "_id": "a6181584-fdc7-4b90-bf6d-14d52de4410d",
+  "accessionNo": "0000822416-24-000010",
+  "type": "EX-10.G",
+  "url": "https://www.sec.gov/Archives/edgar/data/822416/000082241624000010/exhibit10g-2022rsuagreement.htm",
+  "description": "EX-10.G - 2022 RSU AWARD AGREEMENT",
+  "timestamp": "2024-02-05T16:52:45-05:00"
+},
+{
+  "_id": "d9c81fff-cccd-41f7-b837-bae5831f45fc",
+  "accessionNo": "0000822416-24-000010",
+  "type": "EX-10.H",
+  "url": "https://www.sec.gov/Archives/edgar/data/822416/000082241624000010/exhibit10h-2023rsuagreement.htm",
+  "description": "EX-10.H - 2023 RSU AWARD AGREEMENT",
+  "timestamp": "2024-02-05T16:52:45-05:00"
+},
+{
+  "_id": "b4fcdefc-8f66-4ede-b62d-139140fc4a5c",
+  "accessionNo": "0000822416-24-000010",
+  "type": "EX-10.I",
+  "url": "https://www.sec.gov/Archives/edgar/data/822416/000082241624000010/exhibit10i-2024rsuagreement.htm",
+  "description": "EX-10.I - 2024 RSU AWARD AGREEMENT",
+  "timestamp": "2024-02-05T16:52:45-05:00"
+},
+{
+  "_id": "ac2cfe9b-d3e1-4022-827a-1d36945da34f",
+  "accessionNo": "0000822416-24-000010",
+  "type": "EX-10.J",
+  "url": "https://www.sec.gov/Archives/edgar/data/822416/000082241624000010/exhibit10j-2021and2022ltia.htm",
+  "description": "EX-10.J - 2021 AND 2022 LTI AWARD AGREEMENT",
+  "timestamp": "2024-02-05T16:52:45-05:00"
+},
+{
+  "_id": "e016ff0a-2b71-4e09-8594-57c999fad17d",
+  "accessionNo": "0000822416-24-000010",
+  "type": "EX-10.K",
+  "url": "https://www.sec.gov/Archives/edgar/data/822416/000082241624000010/exhibit-2023ltiawardagreem.htm",
+  "description": "EX-10.K - 2023 LTI AWARD AGREEMENT",
+  "timestamp": "2024-02-05T16:52:45-05:00"
+},
+{
+  "_id": "8e7b04ab-cb29-4b1e-a09a-5d4cb48ea959",
+  "accessionNo": "0000822416-24-000010",
+  "type": "EX-10.L",
+  "url": "https://www.sec.gov/Archives/edgar/data/822416/000082241624000010/exhibit10l-2024ltiawardagr.htm",
+  "description": "EX-10.L - 2024 LTI AWARD AGREEMENT",
+  "timestamp": "2024-02-05T16:52:45-05:00"
+},
+{
+  "_id": "c252c06a-ba47-4b19-9352-9f3a14b68cf1",
+  "accessionNo": "0000822416-24-000010",
+  "type": "EX-10.P",
+  "url": "https://www.sec.gov/Archives/edgar/data/822416/000082241624000010/exhibit10p-amendedseveranc.htm",
+  "description": "EX-10.P - 2024 AMENDED SEVERANCE POLICY",
+  "timestamp": "2024-02-05T16:52:45-05:00"
+},
+{
+  "_id": "2a0b848e-88cb-463e-938f-f53760eafa78",
+  "accessionNo": "0000822416-24-000010",
+  "type": "EX-10.Q",
+  "url": "https://www.sec.gov/Archives/edgar/data/822416/000082241624000010/exhibit-amendedretirementp.htm",
+  "description": "EX-10.Q - 2021 AMENDED RETIREMENT POLICY",
+  "timestamp": "2024-02-05T16:52:45-05:00"
+},
+{
+  "_id": "3d2550d7-4538-4602-99d9-3795bde8c3d9",
+  "accessionNo": "0000822416-24-000010",
+  "type": "EX-10.R",
+  "url": "https://www.sec.gov/Archives/edgar/data/822416/000082241624000010/exhibit10r-amendedretireme.htm",
+  "description": "EX-10.R - 2024 AMENDED RETIREMENT POLICY",
+  "timestamp": "2024-02-05T16:52:45-05:00"
+},
+{
+  "_id": "8d397079-f563-49a7-8ea0-87aee9818549",
+  "accessionNo": "0000822416-24-000010",
+  "type": "EX-10.S",
+  "url": "https://www.sec.gov/Archives/edgar/data/822416/000082241624000010/exhibit10s-indemnification.htm",
+  "description": "EX-10.S - 2024 INDEMNIFICATION AGREEMENT",
+  "timestamp": "2024-02-05T16:52:45-05:00"
+},
+{
+  "_id": "be4ec373-4e6b-49a2-ab7f-04fd8f537864",
+  "accessionNo": "0000702165-24-000005",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/702165/000070216524000005/nsc202310-kexhibit10hh.htm",
+  "description": "EX-10HH",
+  "timestamp": "2024-02-05T16:49:27-05:00"
+},
+{
+  "_id": "553f752b-644b-40ff-9585-e64914d31dd7",
+  "accessionNo": "0000702165-24-000005",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/702165/000070216524000005/nsc202310-kexhibit10ii.htm",
+  "description": "EX-10II",
+  "timestamp": "2024-02-05T16:49:27-05:00"
+},
+{
+  "_id": "42444bc3-7083-477f-8bff-77e29cca3b30",
+  "accessionNo": "0000702165-24-000005",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/702165/000070216524000005/nsc202310-kexhibit10jj.htm",
+  "description": "EX-10JJ",
+  "timestamp": "2024-02-05T16:49:27-05:00"
+},
+{
+  "_id": "c391f9cf-ed29-432c-b298-59d56fe9b5de",
+  "accessionNo": "0000702165-24-000005",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/702165/000070216524000005/nsc202310-kexhibit10r.htm",
+  "description": "EX-10R",
+  "timestamp": "2024-02-05T16:49:27-05:00"
+},
+{
+  "_id": "f7d3c34d-2ebe-4240-b1c3-707a1614c766",
+  "accessionNo": "0000702165-24-000005",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/702165/000070216524000005/nsc202310-kexhibit10t.htm",
+  "description": "EX-10T",
+  "timestamp": "2024-02-05T16:49:27-05:00"
+},
+{
+  "_id": "83c9d4d7-18b7-4502-baea-7f361ad1bac0",
+  "accessionNo": "0000702165-24-000005",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/702165/000070216524000005/nsc202310-kexhibit10x.htm",
+  "description": "EX-10X",
+  "timestamp": "2024-02-05T16:49:27-05:00"
+},
+{
+  "_id": "cc404d81-aeb0-4ef9-9e84-43f486da28d7",
+  "accessionNo": "0000097476-24-000007",
+  "type": "EX-10.K",
+  "url": "https://www.sec.gov/Archives/edgar/data/97476/000009747624000007/q42023txnex10k.htm",
+  "description": "EX-10.K",
+  "timestamp": "2024-02-02T11:11:54-05:00"
+},
+{
+  "_id": "888f83f6-d2d4-4d82-aa62-bd7ee683883c",
+  "accessionNo": "0000097476-24-000007",
+  "type": "EX-10.L",
+  "url": "https://www.sec.gov/Archives/edgar/data/97476/000009747624000007/q42023txnex10l.htm",
+  "description": "EX-10.L",
+  "timestamp": "2024-02-02T11:11:54-05:00"
+},
+{
+  "_id": "e20db381-dd76-44ac-8a87-502465937e9b",
+  "accessionNo": "0000040545-24-000027",
+  "type": "EX-10.DD",
+  "url": "https://www.sec.gov/Archives/edgar/data/40545/000004054524000027/ex10dd-formofagreementfort.htm",
+  "description": "EX-10.DD",
+  "timestamp": "2024-02-02T06:31:30-05:00"
+},
+{
+  "_id": "843fdb89-2ac8-4092-983f-e66079d52456",
+  "accessionNo": "0000040545-24-000027",
+  "type": "EX-10.VV",
+  "url": "https://www.sec.gov/Archives/edgar/data/40545/000004054524000027/ex10vvfirstamendmenttoamen.htm",
+  "description": "EX-10.VV",
+  "timestamp": "2024-02-02T06:31:30-05:00"
+},
+{
+  "_id": "6cffcc83-a8f4-46a3-8b6d-ca808280d610",
+  "accessionNo": "0001558370-24-000642",
+  "type": "EX-10.A",
+  "url": "https://www.sec.gov/Archives/edgar/data/730464/000155837024000642/atge-20231231xex10da.htm",
+  "description": "EX-10.A",
+  "timestamp": "2024-01-30T17:11:46-05:00"
+},
+{
+  "_id": "62eb046e-44dc-41a8-9e76-1e954b816fae",
+  "accessionNo": "0001515971-24-000017",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/845819/000151597124000017/exhibit101.htm",
+  "description": "EXHIBIT 10.1",
+  "timestamp": "2024-01-30T16:05:59-05:00"
+},
+{
+  "_id": "67415e15-a37a-4db4-b619-a97bf2dd6854",
+  "accessionNo": "0001515971-24-000017",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/845819/000151597124000017/exhibit102.htm",
+  "description": "EXHIBIT 10.2",
+  "timestamp": "2024-01-30T16:05:59-05:00"
+},
+{
+  "_id": "88779c68-b7f8-4b60-bbad-3b932b968030",
+  "accessionNo": "0001515971-24-000017",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/845819/000151597124000017/exhibit103.htm",
+  "description": "EXHIBIT 10.3",
+  "timestamp": "2024-01-30T16:05:59-05:00"
+},
+{
+  "_id": "8876997c-977b-4d4b-ab2b-d7776dbfbd8f",
+  "accessionNo": "0001515971-24-000017",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/845819/000151597124000017/exhibit104.htm",
+  "description": "EXHIBIT 10.4",
+  "timestamp": "2024-01-30T16:05:59-05:00"
+},
+{
+  "_id": "c0658874-d31c-4b28-a379-9c0f79a6bac4",
+  "accessionNo": "0000921082-24-000003",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/921082/000092108224000003/ex10thirdamendmenttosixtha.htm",
+  "description": "EX-10",
+  "timestamp": "2024-01-25T16:42:56-05:00"
+},
+{
+  "_id": "23bb2f36-14f4-44f4-bc6b-8014278c7a8d",
+  "accessionNo": "0000921082-24-000003",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/921082/000092108224000003/ex10thirdamendmenttosixtha.htm",
+  "description": "EX-10",
+  "timestamp": "2024-01-25T16:42:56-05:00"
+},
+{
+  "_id": "aa8f5543-4dad-4e5c-bbcc-53f804d8fad2",
+  "accessionNo": "0001133421-24-000006",
+  "type": "EX-10.FVII",
+  "url": "https://www.sec.gov/Archives/edgar/data/1133421/000113342124000006/noc-12312023xex10fviii.htm",
+  "description": "SPECIAL 2023 RESTRICTED STOCK RIGHTS GRANT AGREEMENT",
+  "timestamp": "2024-01-25T16:02:51-05:00"
+},
+{
+  "_id": "2571414a-cee7-430c-83e3-6aa30ca8f5fe",
+  "accessionNo": "0001067701-24-000007",
+  "type": "EX-10.F",
+  "url": "https://www.sec.gov/Archives/edgar/data/1047166/000106770124000007/uri-2023123110kex10f.htm",
+  "description": "EX-10.F",
+  "timestamp": "2024-01-24T16:27:28-05:00"
+},
+{
+  "_id": "e370efef-987f-4e4f-9294-c696cc9eacb6",
+  "accessionNo": "0001067701-24-000007",
+  "type": "EX-10.GG",
+  "url": "https://www.sec.gov/Archives/edgar/data/1047166/000106770124000007/uri-2023123110kex10gg.htm",
+  "description": "EX-10.GG",
+  "timestamp": "2024-01-24T16:27:28-05:00"
+},
+{
+  "_id": "3eae41cc-4db5-42ce-98b3-8d07f60025b7",
+  "accessionNo": "0001067701-24-000007",
+  "type": "EX-10.RRR",
+  "url": "https://www.sec.gov/Archives/edgar/data/1047166/000106770124000007/uri-2023123110kex10rrr.htm",
+  "description": "EX-10.RRR",
+  "timestamp": "2024-01-24T16:27:28-05:00"
+},
+{
+  "_id": "f8a17859-2cb7-4b80-bfd8-d7bfad19d852",
+  "accessionNo": "0001067701-24-000007",
+  "type": "EX-10.Y",
+  "url": "https://www.sec.gov/Archives/edgar/data/1047166/000106770124000007/uri-2023123110kex10y.htm",
+  "description": "EX-10.Y",
+  "timestamp": "2024-01-24T16:27:28-05:00"
+},
+{
+  "_id": "693e931d-342d-4303-a757-338ac73a0a5f",
+  "accessionNo": "0001067701-24-000007",
+  "type": "EX-10.Z",
+  "url": "https://www.sec.gov/Archives/edgar/data/1047166/000106770124000007/uri-2023123110kex10z.htm",
+  "description": "EX-10.Z",
+  "timestamp": "2024-01-24T16:27:28-05:00"
+},
+{
+  "_id": "1e15347e-5fbc-4b0a-8d7a-c60147af270f",
+  "accessionNo": "0001067701-24-000007",
+  "type": "EX-10.F",
+  "url": "https://www.sec.gov/Archives/edgar/data/1047166/000106770124000007/uri-2023123110kex10f.htm",
+  "description": "EX-10.F",
+  "timestamp": "2024-01-24T16:27:28-05:00"
+},
+{
+  "_id": "a722d932-4dce-4fda-a605-751750f1e632",
+  "accessionNo": "0001067701-24-000007",
+  "type": "EX-10.GG",
+  "url": "https://www.sec.gov/Archives/edgar/data/1047166/000106770124000007/uri-2023123110kex10gg.htm",
+  "description": "EX-10.GG",
+  "timestamp": "2024-01-24T16:27:28-05:00"
+},
+{
+  "_id": "34898e83-a28d-45e8-ba45-f9ee3da4c3e8",
+  "accessionNo": "0001067701-24-000007",
+  "type": "EX-10.RRR",
+  "url": "https://www.sec.gov/Archives/edgar/data/1047166/000106770124000007/uri-2023123110kex10rrr.htm",
+  "description": "EX-10.RRR",
+  "timestamp": "2024-01-24T16:27:28-05:00"
+},
+{
+  "_id": "0ffa198b-5173-498c-af73-44f8f2bff461",
+  "accessionNo": "0001067701-24-000007",
+  "type": "EX-10.Y",
+  "url": "https://www.sec.gov/Archives/edgar/data/1047166/000106770124000007/uri-2023123110kex10y.htm",
+  "description": "EX-10.Y",
+  "timestamp": "2024-01-24T16:27:28-05:00"
+},
+{
+  "_id": "c5339fab-9c15-4b54-ab26-b0f9b95b9fb5",
+  "accessionNo": "0001067701-24-000007",
+  "type": "EX-10.Z",
+  "url": "https://www.sec.gov/Archives/edgar/data/1047166/000106770124000007/uri-2023123110kex10z.htm",
+  "description": "EX-10.Z",
+  "timestamp": "2024-01-24T16:27:28-05:00"
+},
+{
+  "_id": "bd021688-b486-4cca-85d6-3f8d701bcfee",
+  "accessionNo": "0001558370-24-000382",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/276720/000155837024000382/pcyo-20240117xex10.htm",
+  "description": "EX-10.1",
+  "timestamp": "2024-01-19T16:00:19-05:00"
+},
+{
+  "_id": "87409f28-d40c-4674-9267-09c60ab3cc82",
+  "accessionNo": "0001276531-24-000002",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1276531/000127653124000002/scientificagreement.htm",
+  "description": "EXHIBIT 10.1",
+  "timestamp": "2024-01-19T09:07:44-05:00"
+},
+{
+  "_id": "32989941-d91b-4932-ba0b-b45797979e5b",
+  "accessionNo": "0001635984-24-000003",
+  "type": "EX-10.AM",
+  "url": "https://www.sec.gov/Archives/edgar/data/1635984/000163598424000003/exhibit10am.htm",
+  "description": "EX-10.AM",
+  "timestamp": "2024-01-08T10:55:34-05:00"
+},
+{
+  "_id": "399f2fa6-5642-4a75-b0f8-5173e785e60c",
+  "accessionNo": "0001635984-24-000003",
+  "type": "EX-10.AN",
+  "url": "https://www.sec.gov/Archives/edgar/data/1635984/000163598424000003/exhibit10an.htm",
+  "description": "EX-10.AN",
+  "timestamp": "2024-01-08T10:55:34-05:00"
+},
+{
+  "_id": "24f31860-afa9-4ab8-b56b-419297e5fe5c",
+  "accessionNo": "0001072613-24-000011",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/887396/000107261324000011/exh10_18789.htm",
+  "description": "REVOLVER LOAN AGREEMENT, DATED AS OF DECEMBER 29, 2023",
+  "timestamp": "2024-01-05T16:05:25-05:00"
+},
+{
+  "_id": "1b6ee9a7-1fed-4fda-97e3-c2cb3800942b",
+  "accessionNo": "0001515971-23-000170",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/845819/000151597123000170/exhibit101.htm",
+  "description": "EXHIBIT 10.1",
+  "timestamp": "2023-12-22T14:57:23-05:00"
+},
+{
+  "_id": "ed5927f9-8a2d-48d4-af67-4906e1117dc9",
+  "accessionNo": "0001515971-23-000170",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/845819/000151597123000170/exhibit102.htm",
+  "description": "EXHIBIT 10.2",
+  "timestamp": "2023-12-22T14:57:23-05:00"
+},
+{
+  "_id": "09ad9e8e-f93f-412d-95f7-bc8f9aa16afb",
+  "accessionNo": "0000072331-23-000242",
+  "type": "EX-10.U",
+  "url": "https://www.sec.gov/Archives/edgar/data/72331/000007233123000242/ex10-unordsonxformofstocko.htm",
+  "description": "EX-10.U",
+  "timestamp": "2023-12-20T17:04:04-05:00"
+},
+{
+  "_id": "68bbc8f4-f1c9-4753-ae0f-40848c2974d5",
+  "accessionNo": "0000072331-23-000242",
+  "type": "EX-10.V",
+  "url": "https://www.sec.gov/Archives/edgar/data/72331/000007233123000242/ex10-vnordsonxformofrestri.htm",
+  "description": "EX-10.V",
+  "timestamp": "2023-12-20T17:04:04-05:00"
+},
+{
+  "_id": "fd94dd7b-d318-4c79-acf3-34c582b886bf",
+  "accessionNo": "0000072331-23-000242",
+  "type": "EX-10.W",
+  "url": "https://www.sec.gov/Archives/edgar/data/72331/000007233123000242/ex10-wnoticeofawardpsufy24.htm",
+  "description": "EX-10.W",
+  "timestamp": "2023-12-20T17:04:04-05:00"
+},
+{
+  "_id": "ef372d71-39fb-44a2-b699-d3ea717c1bf1",
+  "accessionNo": "0000072331-23-000242",
+  "type": "EX-10.X",
+  "url": "https://www.sec.gov/Archives/edgar/data/72331/000007233123000242/ex10-xrestrictedshareunita.htm",
+  "description": "EX-10.X",
+  "timestamp": "2023-12-20T17:04:04-05:00"
+},
+{
+  "_id": "9ccd0541-3b78-4f5a-becc-356422d71190",
+  "accessionNo": "0002001901-23-000003",
+  "type": "EX-10.III",
+  "url": "https://www.sec.gov/Archives/edgar/data/1285785/000200190123000003/restrictedstockunitawardag.htm",
+  "description": "EX-10.III NON-EMPLOYEE DIRECTOR RESTRICTED STOCK UNIT AWARD AGREEMENT",
+  "timestamp": "2023-12-20T16:51:08-05:00"
+},
+{
+  "_id": "3c58f8e0-b7a5-4830-aea5-20e2c8714772",
+  "accessionNo": "0001437749-23-034783",
+  "type": "EX-10.K",
+  "url": "https://www.sec.gov/Archives/edgar/data/357294/000143774923034783/ex_606399.htm",
+  "description": "EXHIBIT 10.K",
+  "timestamp": "2023-12-18T17:26:13-05:00"
+},
+{
+  "_id": "23e540ac-a41f-43bc-ae60-4e1676e25096",
+  "accessionNo": "0001437749-23-034783",
+  "type": "EX-10.CC",
+  "url": "https://www.sec.gov/Archives/edgar/data/357294/000143774923034783/ex_605281.htm",
+  "description": "EXHIBIT 10.CC",
+  "timestamp": "2023-12-18T17:26:13-05:00"
+},
+{
+  "_id": "db8ab432-bcd6-4a9d-961a-ff135ed880fd",
+  "accessionNo": "0001437749-23-034783",
+  "type": "EX-10.DD",
+  "url": "https://www.sec.gov/Archives/edgar/data/357294/000143774923034783/ex_605282.htm",
+  "description": "EXHIBIT 10.DD",
+  "timestamp": "2023-12-18T17:26:13-05:00"
+},
+{
+  "_id": "c084ad4e-4cec-4564-98a5-ad17f1eeded8",
+  "accessionNo": "0001437749-23-034783",
+  "type": "EX-10.EE",
+  "url": "https://www.sec.gov/Archives/edgar/data/357294/000143774923034783/ex_605283.htm",
+  "description": "EXHIBIT 10.EE",
+  "timestamp": "2023-12-18T17:26:13-05:00"
+},
+{
+  "_id": "d495a07e-7a34-4553-be1f-93b0b090ffb3",
+  "accessionNo": "0001437749-23-034783",
+  "type": "EX-10.FF",
+  "url": "https://www.sec.gov/Archives/edgar/data/357294/000143774923034783/ex_605284.htm",
+  "description": "EXHIBIT 10.FF",
+  "timestamp": "2023-12-18T17:26:13-05:00"
+},
+{
+  "_id": "155e1799-b39b-4392-922d-fff80671c0f3",
+  "accessionNo": "0001437749-23-034783",
+  "type": "EX-10.GG",
+  "url": "https://www.sec.gov/Archives/edgar/data/357294/000143774923034783/ex_605285.htm",
+  "description": "EXHIBIT 10.GG",
+  "timestamp": "2023-12-18T17:26:13-05:00"
+},
+{
+  "_id": "1be2ed92-e7e2-4352-898b-8c678fcf1c75",
+  "accessionNo": "0001437749-23-034783",
+  "type": "EX-10.HH",
+  "url": "https://www.sec.gov/Archives/edgar/data/357294/000143774923034783/ex_605286.htm",
+  "description": "EXHIBIT 10.HH",
+  "timestamp": "2023-12-18T17:26:13-05:00"
+},
+{
+  "_id": "2196b231-4aa2-4a2f-bb70-a23cca53e8e9",
+  "accessionNo": "0001437749-23-034783",
+  "type": "EX-10.II",
+  "url": "https://www.sec.gov/Archives/edgar/data/357294/000143774923034783/ex_605287.htm",
+  "description": "EXHIBIT 10.II",
+  "timestamp": "2023-12-18T17:26:13-05:00"
+},
+{
+  "_id": "1e4944e0-f940-4f51-be65-5c26b0e57219",
+  "accessionNo": "0001437749-23-034783",
+  "type": "EX-10.JJ",
+  "url": "https://www.sec.gov/Archives/edgar/data/357294/000143774923034783/ex_605288.htm",
+  "description": "EXHIBIT 10.JJ",
+  "timestamp": "2023-12-18T17:26:13-05:00"
+},
+{
+  "_id": "5aacf9a7-84e9-406c-b85c-4c2578b37df1",
+  "accessionNo": "0001437749-23-034783",
+  "type": "EX-10.KK",
+  "url": "https://www.sec.gov/Archives/edgar/data/357294/000143774923034783/ex_605289.htm",
+  "description": "EXHIBIT 10.KK",
+  "timestamp": "2023-12-18T17:26:13-05:00"
+},
+{
+  "_id": "e28e95f2-6e99-40ee-86fd-2412b27a9e88",
+  "accessionNo": "0001437749-23-034783",
+  "type": "EX-10.LL",
+  "url": "https://www.sec.gov/Archives/edgar/data/357294/000143774923034783/ex_605290.htm",
+  "description": "EXHIBIT 10.LL",
+  "timestamp": "2023-12-18T17:26:13-05:00"
+},
+{
+  "_id": "d3b6ad41-4f5c-4dc1-9c5a-cf90a87fe22f",
+  "accessionNo": "0001437749-23-034783",
+  "type": "EX-10.QQ",
+  "url": "https://www.sec.gov/Archives/edgar/data/357294/000143774923034783/ex_605308.htm",
+  "description": "EXHIBIT 10.QQ",
+  "timestamp": "2023-12-18T17:26:13-05:00"
+},
+{
+  "_id": "354bbcce-a2a1-4be2-ab38-9cb4bb838ea0",
+  "accessionNo": "0001437749-23-034783",
+  "type": "EX-10.RR",
+  "url": "https://www.sec.gov/Archives/edgar/data/357294/000143774923034783/ex_605292.htm",
+  "description": "EXHIBIT 10.RR",
+  "timestamp": "2023-12-18T17:26:13-05:00"
+},
+{
+  "_id": "b0c11e93-bb90-4da3-8ac0-efd1424509e7",
+  "accessionNo": "0001635984-23-000045",
+  "type": "EX-10.AK",
+  "url": "https://www.sec.gov/Archives/edgar/data/1635984/000163598423000045/exhibitak.htm",
+  "description": "EX-10.AK",
+  "timestamp": "2023-12-14T15:04:53-05:00"
+},
+{
+  "_id": "442141a5-c2c1-4359-a34e-67f9029c43e7",
+  "accessionNo": "0001877788-23-000043",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1877788/000187778823000043/cstf-ex10_1.htm",
+  "description": "N/A",
+  "timestamp": "2023-12-08T18:03:11-05:00"
+},
+{
+  "_id": "99adf242-f690-406b-86b0-6b6d7f474ded",
+  "accessionNo": "0001877788-23-000043",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1877788/000187778823000043/cstf-ex10_2.htm",
+  "description": "N/A",
+  "timestamp": "2023-12-08T18:03:11-05:00"
+},
+{
+  "_id": "a4ae2b6e-03cc-42bb-af4d-7929ba26bdd3",
+  "accessionNo": "0001628280-23-041065",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1792781/000162828023041065/fwdcompletewithdocusignr.htm",
+  "description": "EX-10",
+  "timestamp": "2023-12-07T16:07:41-05:00"
+},
+{
+  "_id": "370ea7dc-b306-40c3-a586-69eae67ce7e8",
+  "accessionNo": "0001072613-23-000594",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/887396/000107261323000594/exh10_18781.htm",
+  "description": "LETTER AMENDMENT TO SECURITIES PURCHASE AGREEMENT, DATED AS OF DECEMBER 1, 2023,",
+  "timestamp": "2023-12-01T16:22:15-05:00"
+},
+{
+  "_id": "d3d24e20-6446-48a8-9c6d-00d94007a748",
+  "accessionNo": "0001213900-23-091897",
+  "type": "EX-10.B",
+  "url": "https://www.sec.gov/Archives/edgar/data/1597892/000121390023091897/ea189282ex10-b_jrsishealth.htm",
+  "description": "EXCLUSIVE BUSINESS COOPERATION AGREEMENT BETWEEN LAIDIAN TECHNOLOGY (ZHONGSHAN) ",
+  "timestamp": "2023-12-01T14:02:36-05:00"
+},
+{
+  "_id": "a954defb-9024-4c2e-ada5-af2ffdfbb41d",
+  "accessionNo": "0001213900-23-091897",
+  "type": "EX-10.C",
+  "url": "https://www.sec.gov/Archives/edgar/data/1597892/000121390023091897/ea189282ex10-c_jrsishealth.htm",
+  "description": "EQUITY INTEREST PLEDGE AGREEMENT AMONG LAIDIAN TECHNOLOGY (ZHONGSHAN) CO., LTD.,",
+  "timestamp": "2023-12-01T14:02:36-05:00"
+},
+{
+  "_id": "dd894ada-5c59-4412-8667-1c7a9b1384a5",
+  "accessionNo": "0001213900-23-091897",
+  "type": "EX-10.D",
+  "url": "https://www.sec.gov/Archives/edgar/data/1597892/000121390023091897/ea189282ex10-d_jrsishealth.htm",
+  "description": "EXCLUSIVE OPTION AGREEMENT AMONG LAIDIAN TECHNOLOGY (ZHONGSHAN) CO., LTD., YONGZ",
+  "timestamp": "2023-12-01T14:02:36-05:00"
+},
+{
+  "_id": "0d6f4ed6-52cd-470f-84f8-52a605df4b2f",
+  "accessionNo": "0001213900-23-091897",
+  "type": "EX-10.E",
+  "url": "https://www.sec.gov/Archives/edgar/data/1597892/000121390023091897/ea189282ex10-e_jrsishealth.htm",
+  "description": "POWER OF ATTORNEY GIVEN BY GUANGZHOU JUMI INTELLIGENT EQUIPMENT CO., LTD TO LAID",
+  "timestamp": "2023-12-01T14:02:36-05:00"
+},
+{
+  "_id": "f8410cfa-1f0e-4c10-9d03-daa2e0150d28",
+  "accessionNo": "0001490906-23-000028",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1490906/000149090623000028/cffn-093023xex10.htm",
+  "description": "CFFN EXHIBIT 10.1 AMENDED AND RESTATED CHANGE OF CONTROL AGREEMENT",
+  "timestamp": "2023-11-29T14:29:45-05:00"
+},
+{
+  "_id": "2ce72d8b-e119-4f24-801d-9b69ae1717d8",
+  "accessionNo": "0001140361-23-054536",
+  "type": "EX-10.A",
+  "url": "https://www.sec.gov/Archives/edgar/data/357301/000114036123054536/ef20015231_ex10-a.htm",
+  "description": "EXHIBIT 10(A)",
+  "timestamp": "2023-11-24T10:49:57-05:00"
+},
+{
+  "_id": "ab514fc1-6f03-4e03-91de-a42e8629ca9c",
+  "accessionNo": "0001140361-23-054536",
+  "type": "EX-10.B",
+  "url": "https://www.sec.gov/Archives/edgar/data/357301/000114036123054536/ef20015231_ex10-b.htm",
+  "description": "EXHIBIT 10(B)",
+  "timestamp": "2023-11-24T10:49:57-05:00"
+},
+{
+  "_id": "9b7fdbae-9dad-4d15-803a-796afe1105a9",
+  "accessionNo": "0000950170-23-065844",
+  "type": "EX-10.(A)(III)",
+  "url": "https://www.sec.gov/Archives/edgar/data/16040/000095017023065844/cbt-ex10_aiii.htm",
+  "description": "EX-10.(A)(III)",
+  "timestamp": "2023-11-22T15:35:41-05:00"
+},
+{
+  "_id": "0970c7a3-1689-4b43-90aa-da3183729a8a",
+  "accessionNo": "0000950170-23-065844",
+  "type": "EX-10.(H)",
+  "url": "https://www.sec.gov/Archives/edgar/data/16040/000095017023065844/cbt-ex10_h.htm",
+  "description": "EX-10.(H)",
+  "timestamp": "2023-11-22T15:35:41-05:00"
+},
+{
+  "_id": "11fec343-2148-4595-883e-d0f5032c5e35",
+  "accessionNo": "0000950170-23-065844",
+  "type": "EX-10.(I)",
+  "url": "https://www.sec.gov/Archives/edgar/data/16040/000095017023065844/cbt-ex10_i.htm",
+  "description": "EX-10.(I)",
+  "timestamp": "2023-11-22T15:35:41-05:00"
+},
+{
+  "_id": "cba1decb-fedb-4865-bc03-30fce7d71cf3",
+  "accessionNo": "0000950170-23-065844",
+  "type": "EX-10.(J)",
+  "url": "https://www.sec.gov/Archives/edgar/data/16040/000095017023065844/cbt-ex10_j.htm",
+  "description": "EX-10.(J)",
+  "timestamp": "2023-11-22T15:35:41-05:00"
+},
+{
+  "_id": "898486ed-a622-491a-9303-ec23893a3d4a",
+  "accessionNo": "0000950170-23-065844",
+  "type": "EX-10.(K)",
+  "url": "https://www.sec.gov/Archives/edgar/data/16040/000095017023065844/cbt-ex10_k.htm",
+  "description": "EX-10.(K)",
+  "timestamp": "2023-11-22T15:35:41-05:00"
+},
+{
+  "_id": "9a57cb25-895c-42ad-8699-9e428993751c",
+  "accessionNo": "0000010795-23-000098",
+  "type": "EX-10.C",
+  "url": "https://www.sec.gov/Archives/edgar/data/10795/000001079523000098/a09-30x2023ex10c.htm",
+  "description": "EX-10.C",
+  "timestamp": "2023-11-21T17:08:11-05:00"
+},
+{
+  "_id": "9f942532-366a-48a2-9c28-86a084b59023",
+  "accessionNo": "0000010795-23-000098",
+  "type": "EX-10.GI",
+  "url": "https://www.sec.gov/Archives/edgar/data/10795/000001079523000098/a09-30x2023ex10gi.htm",
+  "description": "EX-10.GI",
+  "timestamp": "2023-11-21T17:08:11-05:00"
+},
+{
+  "_id": "e95b132e-4601-4e73-82cb-edf334f8553d",
+  "accessionNo": "0001763925-23-000006",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1763925/000176392523000006/ex_10.15_nonop_bos_11-8-22.htm",
+  "description": "EXHIBIT 10.15",
+  "timestamp": "2023-11-17T21:25:07-05:00"
+},
+{
+  "_id": "ce114cfc-c9ec-457f-8e09-dcd0c837002f",
+  "accessionNo": "0001763925-23-000006",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1763925/000176392523000006/ex_10.16_buckley_bos_12-2-22.htm",
+  "description": "EXHIBIT 10.16",
+  "timestamp": "2023-11-17T21:25:07-05:00"
+},
+{
+  "_id": "c764b5b8-e9ab-406f-9ce1-f1f51de295a9",
+  "accessionNo": "0001017386-23-000382",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1658521/000101738623000382/mtpp11162023_ex10.htm",
+  "description": "RESIGNATION LETTER OF ANTHONY LOMBARDO AS CEO DATED NOVEMBER 1, 2023",
+  "timestamp": "2023-11-17T14:29:11-05:00"
+},
+{
+  "_id": "8820fce3-dfad-4692-ae5e-532283b6e711",
+  "accessionNo": "0001193125-23-278818",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/23632/000119312523278818/d556027dex10.htm",
+  "description": "EX-10",
+  "timestamp": "2023-11-16T16:17:59-05:00"
+},
+{
+  "_id": "3a3154cd-2353-4870-a8d0-9b51e4b3dc88",
+  "accessionNo": "0001193125-23-278818",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/23632/000119312523278818/d556027dex10.htm",
+  "description": "EX-10",
+  "timestamp": "2023-11-16T16:17:59-05:00"
+},
+{
+  "_id": "480f8009-958c-4540-a0fc-7cc155e34dd0",
+  "accessionNo": "0001158449-23-000238",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1158449/000115844923000238/aap_exhibitx101x8kx11152023.htm",
+  "description": "EX-10.1",
+  "timestamp": "2023-11-15T06:45:22-05:00"
+},
+{
+  "_id": "db8ee50c-c209-4eee-b472-0ddbe7c4ea71",
+  "accessionNo": "0001398344-23-020671",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1495584/000139834423020671/fp0085762-2_ex10.htm",
+  "description": "N/A",
+  "timestamp": "2023-11-14T13:15:39-05:00"
+},
+{
+  "_id": "72983cd0-3bed-468e-9a60-56fcb334d29a",
+  "accessionNo": "0000809248-23-000125",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/809248/000080924823000125/carrols-openmarketsaleagre.htm",
+  "description": "EX-10",
+  "timestamp": "2023-11-13T16:11:22-05:00"
+},
+{
+  "_id": "9ef55e8d-4047-4187-aad3-334ae1a5f5ef",
+  "accessionNo": "0001520138-23-000479",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1883835/000152013823000479/pmin-20231108_8kex10z1.htm",
+  "description": "EX-10",
+  "timestamp": "2023-11-08T21:53:57-05:00"
+},
+{
+  "_id": "94a26c16-ee91-43c1-9579-3b1fc4ebdece",
+  "accessionNo": "0001161697-23-000567",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/704440/000116169723000567/ex_10-1.htm",
+  "description": "EMPLOYMENT AGREEMENT DATED 11-06-2023 - KENNETH MILLER",
+  "timestamp": "2023-11-08T16:05:13-05:00"
+},
+{
+  "_id": "dce03afa-840a-4a80-bfc8-df148099eebe",
+  "accessionNo": "0001161697-23-000567",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/704440/000116169723000567/ex_10-2.htm",
+  "description": "NON-QUALIFIED STOCK OPTION AWARD AGREEMENT (TIME-BASED VESTING) - KENNETH MILLER",
+  "timestamp": "2023-11-08T16:05:13-05:00"
+},
+{
+  "_id": "2c54ba65-a0c7-494a-8a3e-1fb06055e882",
+  "accessionNo": "0001161697-23-000567",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/704440/000116169723000567/ex_10-3.htm",
+  "description": "NON-QUALIFIED STOCK OPTION AWARD AGREEMENT (PERFORMANCE-BASED VESTING) - KENNETH",
+  "timestamp": "2023-11-08T16:05:13-05:00"
+},
+{
+  "_id": "f9a572a2-df62-4547-92ed-71d09576330b",
+  "accessionNo": "0001618034-23-000019",
+  "type": "EX-10.III I",
+  "url": "https://www.sec.gov/Archives/edgar/data/1285785/000161803423000019/exhibit10iiii_20230930.htm",
+  "description": "EX-10.III I",
+  "timestamp": "2023-11-08T12:43:08-05:00"
+},
+{
+  "_id": "0d52a878-904e-400c-bbcc-7ab57c70f077",
+  "accessionNo": "0000811589-23-000057",
+  "type": "EX-10.A",
+  "url": "https://www.sec.gov/Archives/edgar/data/811589/000081158923000057/fbnc2023-09exx10a.htm",
+  "description": "EX-10.A",
+  "timestamp": "2023-11-07T16:07:04-05:00"
+},
+{
+  "_id": "03ef8a88-fcb2-47fe-964d-be5ffad64085",
+  "accessionNo": "0000927653-23-000086",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/927653/000092765323000086/mckesson-rcfextensionackno.htm",
+  "description": "EX-10",
+  "timestamp": "2023-11-07T16:03:50-05:00"
+},
+{
+  "_id": "522a5e08-b27a-4dd0-a18d-27ff33854082",
+  "accessionNo": "0001654954-23-013844",
+  "type": "EX-10.I",
+  "url": "https://www.sec.gov/Archives/edgar/data/1093672/000165495423013844/pebk_ex10i.htm",
+  "description": "EX-10(I)",
+  "timestamp": "2023-11-07T09:43:53-05:00"
+},
+{
+  "_id": "a6a87a36-164e-464c-b815-ee7ff42b52e7",
+  "accessionNo": "0000022356-23-000057",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/22356/000002235623000057/commercebancsharesincexecu.htm",
+  "description": "EX-10",
+  "timestamp": "2023-11-06T14:09:22-05:00"
+},
+{
+  "_id": "eb567a54-7c3d-4f73-89b5-b05c1d5df85c",
+  "accessionNo": "0001955520-23-000020",
+  "type": "EX-10.A",
+  "url": "https://www.sec.gov/Archives/edgar/data/1955520/000195552023000020/a2023ex10a.htm",
+  "description": "KNIFE RIVER RESTRICTIVE STOCK UNIT AWARD AGREEMENT",
+  "timestamp": "2023-11-06T07:08:55-05:00"
+},
+{
+  "_id": "bdd36a46-5910-4f10-858c-9630c406ed6c",
+  "accessionNo": "0001213900-23-083566",
+  "type": "EX-10.W",
+  "url": "https://www.sec.gov/Archives/edgar/data/316253/000121390023083566/f10k2023ex10w_enzobio.htm",
+  "description": "AMENDMENT AGREEMENT BY AND AMONG JGB CAPITAL, LP, JGB (CAYMAN) SUSSEX LTD., ENZO",
+  "timestamp": "2023-11-03T17:07:13-04:00"
+},
+{
+  "_id": "39e3fc61-3aab-4dc7-85a0-52c4fb9ba466",
+  "accessionNo": "0001213900-23-083566",
+  "type": "EX-10.X",
+  "url": "https://www.sec.gov/Archives/edgar/data/316253/000121390023083566/f10k2023ex10x_enzobio.htm",
+  "description": "SEPARATION AGREEMENT AND GENERAL RELEASE BETWEEN HAMID ERFANIAN AND ENZO BIOCHEM",
+  "timestamp": "2023-11-03T17:07:13-04:00"
+},
+{
+  "_id": "b2878cde-a07a-4c16-b1e1-43a0ac7a1c0a",
+  "accessionNo": "0001213900-23-083566",
+  "type": "EX-10.Y",
+  "url": "https://www.sec.gov/Archives/edgar/data/316253/000121390023083566/f10k2023ex10y_enzobio.htm",
+  "description": "SETTLEMENT AGREEMENT BETWEEN BARRY WEINER, SHAHLA WEINER, ROYA WEINER, AND JONAT",
+  "timestamp": "2023-11-03T17:07:13-04:00"
+},
+{
+  "_id": "2776dfeb-5cff-4dc8-963c-d00128c32e9e",
+  "accessionNo": "0001650664-23-000017",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1650664/000165066423000017/separationagreement.htm",
+  "description": "EX-10",
+  "timestamp": "2023-11-03T16:03:51-04:00"
+},
+{
+  "_id": "670b7e85-a830-40cb-b9fb-fd3b451c1bcd",
+  "accessionNo": "0000355811-23-000056",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/355811/000035581123000056/gntx10q09302023-exx10.htm",
+  "description": "EX-10",
+  "timestamp": "2023-11-03T13:46:17-04:00"
+},
+{
+  "_id": "973e0948-9a77-4097-b52a-b08bcccc8b9b",
+  "accessionNo": "0001545654-23-000039",
+  "type": "EX-10.B1(LIV)",
+  "url": "https://www.sec.gov/Archives/edgar/data/1545654/000154565423000039/amendmenttoconsultingagree.htm",
+  "description": "EX-10.B1(LIV)",
+  "timestamp": "2023-11-02T21:54:28-04:00"
+},
+{
+  "_id": "27ce7a1b-b989-4d45-9a30-dd0c0109f351",
+  "accessionNo": "0001545654-23-000039",
+  "type": "EX-10.B1(LV)",
+  "url": "https://www.sec.gov/Archives/edgar/data/1545654/000154565423000039/letteragreementandreleasejs.htm",
+  "description": "EX-10.B1(LV)",
+  "timestamp": "2023-11-02T21:54:28-04:00"
+},
+{
+  "_id": "09e50340-fbe1-4ab0-bda5-ec13f127e600",
+  "accessionNo": "0000813828-23-000033",
+  "type": "EX-10.A",
+  "url": "https://www.sec.gov/Archives/edgar/data/813828/000081382823000033/para_ex10a-093023.htm",
+  "description": "EX-10.A",
+  "timestamp": "2023-11-02T17:34:29-04:00"
+},
+{
+  "_id": "088e7257-c93a-4c46-80c1-a1daf4208431",
+  "accessionNo": "0000037996-24-000009",
+  "type": "EX-10.L",
+  "url": "https://www.sec.gov/Archives/edgar/data/37996/000003799624000009/f12312023exhibit10-l.htm",
+  "description": "EX-10.L",
+  "timestamp": "2024-02-06T19:33:55-05:00"
+},
+{
+  "_id": "fde72ccb-c2e7-49d7-8db1-60ace6b80d99",
+  "accessionNo": "0000037996-24-000009",
+  "type": "EX-10.Q-7",
+  "url": "https://www.sec.gov/Archives/edgar/data/37996/000003799624000009/f12312023exhibit10-qx7.htm",
+  "description": "EX-10.Q-7",
+  "timestamp": "2024-02-06T19:33:55-05:00"
+},
+{
+  "_id": "2767b6f5-0e2e-4822-aaf2-9ecdbaea1ba7",
+  "accessionNo": "0001628280-24-003512",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1529377/000162828024003512/exhibit101.htm",
+  "description": "EX-10.1",
+  "timestamp": "2024-02-06T16:54:06-05:00"
+},
+{
+  "_id": "dadc0af2-44f3-4590-bcea-2e919ed0a7e7",
+  "accessionNo": "0000822416-24-000010",
+  "type": "EX-10.F",
+  "url": "https://www.sec.gov/Archives/edgar/data/822416/000082241624000010/exhibit10f-2021rsuagreement.htm",
+  "description": "EX-10.F - 2021 RSU AWARD AGREEMENT",
+  "timestamp": "2024-02-05T16:52:45-05:00"
+},
+{
+  "_id": "208c17ae-cb72-4201-9333-8e9696a8ce1a",
+  "accessionNo": "0000822416-24-000010",
+  "type": "EX-10.G",
+  "url": "https://www.sec.gov/Archives/edgar/data/822416/000082241624000010/exhibit10g-2022rsuagreement.htm",
+  "description": "EX-10.G - 2022 RSU AWARD AGREEMENT",
+  "timestamp": "2024-02-05T16:52:45-05:00"
+},
+{
+  "_id": "0ba91862-9f92-4554-ac49-60ea5571f3ba",
+  "accessionNo": "0000822416-24-000010",
+  "type": "EX-10.H",
+  "url": "https://www.sec.gov/Archives/edgar/data/822416/000082241624000010/exhibit10h-2023rsuagreement.htm",
+  "description": "EX-10.H - 2023 RSU AWARD AGREEMENT",
+  "timestamp": "2024-02-05T16:52:45-05:00"
+},
+{
+  "_id": "d8b0384a-8245-4a56-b41e-f5a8ebfb433a",
+  "accessionNo": "0000822416-24-000010",
+  "type": "EX-10.I",
+  "url": "https://www.sec.gov/Archives/edgar/data/822416/000082241624000010/exhibit10i-2024rsuagreement.htm",
+  "description": "EX-10.I - 2024 RSU AWARD AGREEMENT",
+  "timestamp": "2024-02-05T16:52:45-05:00"
+},
+{
+  "_id": "b1123f23-bff0-43a8-9d98-c15840e46dff",
+  "accessionNo": "0000822416-24-000010",
+  "type": "EX-10.J",
+  "url": "https://www.sec.gov/Archives/edgar/data/822416/000082241624000010/exhibit10j-2021and2022ltia.htm",
+  "description": "EX-10.J - 2021 AND 2022 LTI AWARD AGREEMENT",
+  "timestamp": "2024-02-05T16:52:45-05:00"
+},
+{
+  "_id": "ce632f97-6849-472f-91db-ccc4c1980df4",
+  "accessionNo": "0000822416-24-000010",
+  "type": "EX-10.K",
+  "url": "https://www.sec.gov/Archives/edgar/data/822416/000082241624000010/exhibit-2023ltiawardagreem.htm",
+  "description": "EX-10.K - 2023 LTI AWARD AGREEMENT",
+  "timestamp": "2024-02-05T16:52:45-05:00"
+},
+{
+  "_id": "28b87b6e-a534-4e2e-b295-4639d97aca32",
+  "accessionNo": "0000822416-24-000010",
+  "type": "EX-10.L",
+  "url": "https://www.sec.gov/Archives/edgar/data/822416/000082241624000010/exhibit10l-2024ltiawardagr.htm",
+  "description": "EX-10.L - 2024 LTI AWARD AGREEMENT",
+  "timestamp": "2024-02-05T16:52:45-05:00"
+},
+{
+  "_id": "d849b652-1783-4a12-81a5-a4b224a9617f",
+  "accessionNo": "0000822416-24-000010",
+  "type": "EX-10.P",
+  "url": "https://www.sec.gov/Archives/edgar/data/822416/000082241624000010/exhibit10p-amendedseveranc.htm",
+  "description": "EX-10.P - 2024 AMENDED SEVERANCE POLICY",
+  "timestamp": "2024-02-05T16:52:45-05:00"
+},
+{
+  "_id": "258a0c60-1fb7-40ca-9576-76898b70cf54",
+  "accessionNo": "0000822416-24-000010",
+  "type": "EX-10.Q",
+  "url": "https://www.sec.gov/Archives/edgar/data/822416/000082241624000010/exhibit-amendedretirementp.htm",
+  "description": "EX-10.Q - 2021 AMENDED RETIREMENT POLICY",
+  "timestamp": "2024-02-05T16:52:45-05:00"
+},
+{
+  "_id": "487aba00-2ca8-4df1-8750-ff04d571e864",
+  "accessionNo": "0000822416-24-000010",
+  "type": "EX-10.R",
+  "url": "https://www.sec.gov/Archives/edgar/data/822416/000082241624000010/exhibit10r-amendedretireme.htm",
+  "description": "EX-10.R - 2024 AMENDED RETIREMENT POLICY",
+  "timestamp": "2024-02-05T16:52:45-05:00"
+},
+{
+  "_id": "168c0718-9953-412c-8ff2-da88fa762fb7",
+  "accessionNo": "0000822416-24-000010",
+  "type": "EX-10.S",
+  "url": "https://www.sec.gov/Archives/edgar/data/822416/000082241624000010/exhibit10s-indemnification.htm",
+  "description": "EX-10.S - 2024 INDEMNIFICATION AGREEMENT",
+  "timestamp": "2024-02-05T16:52:45-05:00"
+},
+{
+  "_id": "42ffb562-534a-46fa-b07c-a1323403152f",
+  "accessionNo": "0000702165-24-000005",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/702165/000070216524000005/nsc202310-kexhibit10hh.htm",
+  "description": "EX-10HH",
+  "timestamp": "2024-02-05T16:49:27-05:00"
+},
+{
+  "_id": "c4f8111a-2d2c-4201-8f67-2c91a547e2fb",
+  "accessionNo": "0000702165-24-000005",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/702165/000070216524000005/nsc202310-kexhibit10ii.htm",
+  "description": "EX-10II",
+  "timestamp": "2024-02-05T16:49:27-05:00"
+},
+{
+  "_id": "d1edbfba-00e9-4efd-9598-bc43d1af33a5",
+  "accessionNo": "0000702165-24-000005",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/702165/000070216524000005/nsc202310-kexhibit10jj.htm",
+  "description": "EX-10JJ",
+  "timestamp": "2024-02-05T16:49:27-05:00"
+},
+{
+  "_id": "212f74e5-82aa-4452-9c40-78381c4fcd7d",
+  "accessionNo": "0000702165-24-000005",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/702165/000070216524000005/nsc202310-kexhibit10r.htm",
+  "description": "EX-10R",
+  "timestamp": "2024-02-05T16:49:27-05:00"
+},
+{
+  "_id": "c958eddd-3d34-44e6-b3e0-ff755463d50b",
+  "accessionNo": "0000702165-24-000005",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/702165/000070216524000005/nsc202310-kexhibit10t.htm",
+  "description": "EX-10T",
+  "timestamp": "2024-02-05T16:49:27-05:00"
+},
+{
+  "_id": "dcb12159-97f5-4f55-83f6-74d654096767",
+  "accessionNo": "0000702165-24-000005",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/702165/000070216524000005/nsc202310-kexhibit10x.htm",
+  "description": "EX-10X",
+  "timestamp": "2024-02-05T16:49:27-05:00"
+},
+{
+  "_id": "32607e49-b27a-479a-bca6-196dd8736d35",
+  "accessionNo": "0000097476-24-000007",
+  "type": "EX-10.K",
+  "url": "https://www.sec.gov/Archives/edgar/data/97476/000009747624000007/q42023txnex10k.htm",
+  "description": "EX-10.K",
+  "timestamp": "2024-02-02T11:11:54-05:00"
+},
+{
+  "_id": "75e8fbbc-e423-41fa-97d8-ba385e6cc995",
+  "accessionNo": "0000097476-24-000007",
+  "type": "EX-10.L",
+  "url": "https://www.sec.gov/Archives/edgar/data/97476/000009747624000007/q42023txnex10l.htm",
+  "description": "EX-10.L",
+  "timestamp": "2024-02-02T11:11:54-05:00"
+},
+{
+  "_id": "3f9f0978-c704-4849-a215-3843731c9196",
+  "accessionNo": "0000040545-24-000027",
+  "type": "EX-10.DD",
+  "url": "https://www.sec.gov/Archives/edgar/data/40545/000004054524000027/ex10dd-formofagreementfort.htm",
+  "description": "EX-10.DD",
+  "timestamp": "2024-02-02T06:31:30-05:00"
+},
+{
+  "_id": "1a43398a-d137-4dab-b733-9ad0cfc98077",
+  "accessionNo": "0000040545-24-000027",
+  "type": "EX-10.VV",
+  "url": "https://www.sec.gov/Archives/edgar/data/40545/000004054524000027/ex10vvfirstamendmenttoamen.htm",
+  "description": "EX-10.VV",
+  "timestamp": "2024-02-02T06:31:30-05:00"
+},
+{
+  "_id": "3ee912ba-05f8-435b-9538-81c2f2dcec4f",
+  "accessionNo": "0001558370-24-000642",
+  "type": "EX-10.A",
+  "url": "https://www.sec.gov/Archives/edgar/data/730464/000155837024000642/atge-20231231xex10da.htm",
+  "description": "EX-10.A",
+  "timestamp": "2024-01-30T17:11:46-05:00"
+},
+{
+  "_id": "417411c0-a1b0-4ca7-b6eb-d3c1ec718994",
+  "accessionNo": "0001515971-24-000017",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/845819/000151597124000017/exhibit101.htm",
+  "description": "EXHIBIT 10.1",
+  "timestamp": "2024-01-30T16:05:59-05:00"
+},
+{
+  "_id": "6fbb80e6-d4d9-4a1a-a5b5-2722317c8648",
+  "accessionNo": "0001515971-24-000017",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/845819/000151597124000017/exhibit102.htm",
+  "description": "EXHIBIT 10.2",
+  "timestamp": "2024-01-30T16:05:59-05:00"
+},
+{
+  "_id": "c5e47c6c-16e2-466e-9a5f-9c18cf6e00a9",
+  "accessionNo": "0001515971-24-000017",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/845819/000151597124000017/exhibit103.htm",
+  "description": "EXHIBIT 10.3",
+  "timestamp": "2024-01-30T16:05:59-05:00"
+},
+{
+  "_id": "d9cc35ee-763d-4765-b9de-01bcf1124d1a",
+  "accessionNo": "0001515971-24-000017",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/845819/000151597124000017/exhibit104.htm",
+  "description": "EXHIBIT 10.4",
+  "timestamp": "2024-01-30T16:05:59-05:00"
+},
+{
+  "_id": "daa44d19-99c0-412b-a24d-e61e6134e4fc",
+  "accessionNo": "0000921082-24-000003",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/921082/000092108224000003/ex10thirdamendmenttosixtha.htm",
+  "description": "EX-10",
+  "timestamp": "2024-01-25T16:42:56-05:00"
+},
+{
+  "_id": "bfcaa8c1-778d-4877-8156-20303cf17779",
+  "accessionNo": "0000921082-24-000003",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/921082/000092108224000003/ex10thirdamendmenttosixtha.htm",
+  "description": "EX-10",
+  "timestamp": "2024-01-25T16:42:56-05:00"
+},
+{
+  "_id": "9ad00a7b-1167-4baa-bac9-a42f723b68a9",
+  "accessionNo": "0001133421-24-000006",
+  "type": "EX-10.FVII",
+  "url": "https://www.sec.gov/Archives/edgar/data/1133421/000113342124000006/noc-12312023xex10fviii.htm",
+  "description": "SPECIAL 2023 RESTRICTED STOCK RIGHTS GRANT AGREEMENT",
+  "timestamp": "2024-01-25T16:02:51-05:00"
+},
+{
+  "_id": "32202891-5d9c-41be-902a-7a1754045ff1",
+  "accessionNo": "0001067701-24-000007",
+  "type": "EX-10.F",
+  "url": "https://www.sec.gov/Archives/edgar/data/1047166/000106770124000007/uri-2023123110kex10f.htm",
+  "description": "EX-10.F",
+  "timestamp": "2024-01-24T16:27:28-05:00"
+},
+{
+  "_id": "7100cbcc-79b1-4d79-a837-140de3270174",
+  "accessionNo": "0001067701-24-000007",
+  "type": "EX-10.GG",
+  "url": "https://www.sec.gov/Archives/edgar/data/1047166/000106770124000007/uri-2023123110kex10gg.htm",
+  "description": "EX-10.GG",
+  "timestamp": "2024-01-24T16:27:28-05:00"
+},
+{
+  "_id": "b8928ed6-0771-4242-8448-cd44075cb7a0",
+  "accessionNo": "0001067701-24-000007",
+  "type": "EX-10.RRR",
+  "url": "https://www.sec.gov/Archives/edgar/data/1047166/000106770124000007/uri-2023123110kex10rrr.htm",
+  "description": "EX-10.RRR",
+  "timestamp": "2024-01-24T16:27:28-05:00"
+},
+{
+  "_id": "96a58155-7022-41fc-ac8e-14dda928bb1a",
+  "accessionNo": "0001067701-24-000007",
+  "type": "EX-10.Y",
+  "url": "https://www.sec.gov/Archives/edgar/data/1047166/000106770124000007/uri-2023123110kex10y.htm",
+  "description": "EX-10.Y",
+  "timestamp": "2024-01-24T16:27:28-05:00"
+},
+{
+  "_id": "5640bef8-cfa2-48c1-afd4-fae61bca3267",
+  "accessionNo": "0001067701-24-000007",
+  "type": "EX-10.Z",
+  "url": "https://www.sec.gov/Archives/edgar/data/1047166/000106770124000007/uri-2023123110kex10z.htm",
+  "description": "EX-10.Z",
+  "timestamp": "2024-01-24T16:27:28-05:00"
+},
+{
+  "_id": "0db4118c-f799-4393-b1d2-5141e6d4bd9a",
+  "accessionNo": "0001067701-24-000007",
+  "type": "EX-10.F",
+  "url": "https://www.sec.gov/Archives/edgar/data/1047166/000106770124000007/uri-2023123110kex10f.htm",
+  "description": "EX-10.F",
+  "timestamp": "2024-01-24T16:27:28-05:00"
+},
+{
+  "_id": "04052ca8-9264-438d-ba96-d73fb9c8b8f9",
+  "accessionNo": "0001067701-24-000007",
+  "type": "EX-10.GG",
+  "url": "https://www.sec.gov/Archives/edgar/data/1047166/000106770124000007/uri-2023123110kex10gg.htm",
+  "description": "EX-10.GG",
+  "timestamp": "2024-01-24T16:27:28-05:00"
+},
+{
+  "_id": "ce05a540-1c96-45ab-8111-326207e7007b",
+  "accessionNo": "0001067701-24-000007",
+  "type": "EX-10.RRR",
+  "url": "https://www.sec.gov/Archives/edgar/data/1047166/000106770124000007/uri-2023123110kex10rrr.htm",
+  "description": "EX-10.RRR",
+  "timestamp": "2024-01-24T16:27:28-05:00"
+},
+{
+  "_id": "fd460910-fdc9-41c5-9447-15a7dc7dad76",
+  "accessionNo": "0001067701-24-000007",
+  "type": "EX-10.Y",
+  "url": "https://www.sec.gov/Archives/edgar/data/1047166/000106770124000007/uri-2023123110kex10y.htm",
+  "description": "EX-10.Y",
+  "timestamp": "2024-01-24T16:27:28-05:00"
+},
+{
+  "_id": "d4c56192-dc2e-4073-ad98-b2e8ce454f15",
+  "accessionNo": "0001067701-24-000007",
+  "type": "EX-10.Z",
+  "url": "https://www.sec.gov/Archives/edgar/data/1047166/000106770124000007/uri-2023123110kex10z.htm",
+  "description": "EX-10.Z",
+  "timestamp": "2024-01-24T16:27:28-05:00"
+},
+{
+  "_id": "89f30ac9-caae-4c4a-9118-f7f54c0e8f27",
+  "accessionNo": "0001558370-24-000382",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/276720/000155837024000382/pcyo-20240117xex10.htm",
+  "description": "EX-10.1",
+  "timestamp": "2024-01-19T16:00:19-05:00"
+},
+{
+  "_id": "c0bf3f37-222d-4af4-8bb7-2671397415e5",
+  "accessionNo": "0001276531-24-000002",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1276531/000127653124000002/scientificagreement.htm",
+  "description": "EXHIBIT 10.1",
+  "timestamp": "2024-01-19T09:07:44-05:00"
+},
+{
+  "_id": "76ff766f-37ab-466b-9c03-d1171ec0b1a6",
+  "accessionNo": "0001635984-24-000003",
+  "type": "EX-10.AM",
+  "url": "https://www.sec.gov/Archives/edgar/data/1635984/000163598424000003/exhibit10am.htm",
+  "description": "EX-10.AM",
+  "timestamp": "2024-01-08T10:55:34-05:00"
+},
+{
+  "_id": "a425ec86-c8e9-4e20-968d-60a92db9005c",
+  "accessionNo": "0001635984-24-000003",
+  "type": "EX-10.AN",
+  "url": "https://www.sec.gov/Archives/edgar/data/1635984/000163598424000003/exhibit10an.htm",
+  "description": "EX-10.AN",
+  "timestamp": "2024-01-08T10:55:34-05:00"
+},
+{
+  "_id": "363781b7-1bee-460e-8821-8e00c3fb6d24",
+  "accessionNo": "0001072613-24-000011",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/887396/000107261324000011/exh10_18789.htm",
+  "description": "REVOLVER LOAN AGREEMENT, DATED AS OF DECEMBER 29, 2023",
+  "timestamp": "2024-01-05T16:05:25-05:00"
+},
+{
+  "_id": "27e26de8-7d22-427e-8660-9eb7b5ca751b",
+  "accessionNo": "0001515971-23-000170",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/845819/000151597123000170/exhibit101.htm",
+  "description": "EXHIBIT 10.1",
+  "timestamp": "2023-12-22T14:57:23-05:00"
+},
+{
+  "_id": "322abb48-9b62-430c-940a-5a6aa9dd1734",
+  "accessionNo": "0001515971-23-000170",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/845819/000151597123000170/exhibit102.htm",
+  "description": "EXHIBIT 10.2",
+  "timestamp": "2023-12-22T14:57:23-05:00"
+},
+{
+  "_id": "63557d90-3950-4ab5-9b2f-cf01d090611a",
+  "accessionNo": "0000072331-23-000242",
+  "type": "EX-10.U",
+  "url": "https://www.sec.gov/Archives/edgar/data/72331/000007233123000242/ex10-unordsonxformofstocko.htm",
+  "description": "EX-10.U",
+  "timestamp": "2023-12-20T17:04:04-05:00"
+},
+{
+  "_id": "82924f6a-6066-45c5-b019-5423699f5bbc",
+  "accessionNo": "0000072331-23-000242",
+  "type": "EX-10.V",
+  "url": "https://www.sec.gov/Archives/edgar/data/72331/000007233123000242/ex10-vnordsonxformofrestri.htm",
+  "description": "EX-10.V",
+  "timestamp": "2023-12-20T17:04:04-05:00"
+},
+{
+  "_id": "5f24f88c-ebf7-4ae5-a932-1d9236bb1ef9",
+  "accessionNo": "0000072331-23-000242",
+  "type": "EX-10.W",
+  "url": "https://www.sec.gov/Archives/edgar/data/72331/000007233123000242/ex10-wnoticeofawardpsufy24.htm",
+  "description": "EX-10.W",
+  "timestamp": "2023-12-20T17:04:04-05:00"
+},
+{
+  "_id": "d90ceea1-3637-42d7-8d13-3163e05a5427",
+  "accessionNo": "0000072331-23-000242",
+  "type": "EX-10.X",
+  "url": "https://www.sec.gov/Archives/edgar/data/72331/000007233123000242/ex10-xrestrictedshareunita.htm",
+  "description": "EX-10.X",
+  "timestamp": "2023-12-20T17:04:04-05:00"
+},
+{
+  "_id": "9cab8978-2065-4ee5-a570-74e035fbb1d5",
+  "accessionNo": "0002001901-23-000003",
+  "type": "EX-10.III",
+  "url": "https://www.sec.gov/Archives/edgar/data/1285785/000200190123000003/restrictedstockunitawardag.htm",
+  "description": "EX-10.III NON-EMPLOYEE DIRECTOR RESTRICTED STOCK UNIT AWARD AGREEMENT",
+  "timestamp": "2023-12-20T16:51:08-05:00"
+},
+{
+  "_id": "0065eab0-67f9-4264-b7ee-20f33f373b51",
+  "accessionNo": "0001437749-23-034783",
+  "type": "EX-10.K",
+  "url": "https://www.sec.gov/Archives/edgar/data/357294/000143774923034783/ex_606399.htm",
+  "description": "EXHIBIT 10.K",
+  "timestamp": "2023-12-18T17:26:13-05:00"
+},
+{
+  "_id": "d8b0bd56-e84b-4f89-9855-97fd6192ac65",
+  "accessionNo": "0001437749-23-034783",
+  "type": "EX-10.CC",
+  "url": "https://www.sec.gov/Archives/edgar/data/357294/000143774923034783/ex_605281.htm",
+  "description": "EXHIBIT 10.CC",
+  "timestamp": "2023-12-18T17:26:13-05:00"
+},
+{
+  "_id": "c5f8451d-0ff3-49c8-993d-a137c4c7b99d",
+  "accessionNo": "0001437749-23-034783",
+  "type": "EX-10.DD",
+  "url": "https://www.sec.gov/Archives/edgar/data/357294/000143774923034783/ex_605282.htm",
+  "description": "EXHIBIT 10.DD",
+  "timestamp": "2023-12-18T17:26:13-05:00"
+},
+{
+  "_id": "34bd1eb9-4c8a-42fe-877a-2c15d205441c",
+  "accessionNo": "0001437749-23-034783",
+  "type": "EX-10.EE",
+  "url": "https://www.sec.gov/Archives/edgar/data/357294/000143774923034783/ex_605283.htm",
+  "description": "EXHIBIT 10.EE",
+  "timestamp": "2023-12-18T17:26:13-05:00"
+},
+{
+  "_id": "47e6dfcd-a00b-4d5b-a82e-4b22e2fe547c",
+  "accessionNo": "0001437749-23-034783",
+  "type": "EX-10.FF",
+  "url": "https://www.sec.gov/Archives/edgar/data/357294/000143774923034783/ex_605284.htm",
+  "description": "EXHIBIT 10.FF",
+  "timestamp": "2023-12-18T17:26:13-05:00"
+},
+{
+  "_id": "f746316f-b7f0-4adc-b246-cd409fd7cdd4",
+  "accessionNo": "0001437749-23-034783",
+  "type": "EX-10.GG",
+  "url": "https://www.sec.gov/Archives/edgar/data/357294/000143774923034783/ex_605285.htm",
+  "description": "EXHIBIT 10.GG",
+  "timestamp": "2023-12-18T17:26:13-05:00"
+},
+{
+  "_id": "ff92b1f9-c443-49ae-a1f3-3d34e919e09d",
+  "accessionNo": "0001437749-23-034783",
+  "type": "EX-10.HH",
+  "url": "https://www.sec.gov/Archives/edgar/data/357294/000143774923034783/ex_605286.htm",
+  "description": "EXHIBIT 10.HH",
+  "timestamp": "2023-12-18T17:26:13-05:00"
+},
+{
+  "_id": "594a2dc6-6386-45b6-a77e-f286ac758145",
+  "accessionNo": "0001437749-23-034783",
+  "type": "EX-10.II",
+  "url": "https://www.sec.gov/Archives/edgar/data/357294/000143774923034783/ex_605287.htm",
+  "description": "EXHIBIT 10.II",
+  "timestamp": "2023-12-18T17:26:13-05:00"
+},
+{
+  "_id": "5ec8a788-e5e2-4859-a53d-ac6e7edc1268",
+  "accessionNo": "0001437749-23-034783",
+  "type": "EX-10.JJ",
+  "url": "https://www.sec.gov/Archives/edgar/data/357294/000143774923034783/ex_605288.htm",
+  "description": "EXHIBIT 10.JJ",
+  "timestamp": "2023-12-18T17:26:13-05:00"
+},
+{
+  "_id": "0994ff43-86e3-4fb8-b899-8b5886010152",
+  "accessionNo": "0001437749-23-034783",
+  "type": "EX-10.KK",
+  "url": "https://www.sec.gov/Archives/edgar/data/357294/000143774923034783/ex_605289.htm",
+  "description": "EXHIBIT 10.KK",
+  "timestamp": "2023-12-18T17:26:13-05:00"
+},
+{
+  "_id": "064f767b-069a-4e4d-b142-ed0a8b608362",
+  "accessionNo": "0001437749-23-034783",
+  "type": "EX-10.LL",
+  "url": "https://www.sec.gov/Archives/edgar/data/357294/000143774923034783/ex_605290.htm",
+  "description": "EXHIBIT 10.LL",
+  "timestamp": "2023-12-18T17:26:13-05:00"
+},
+{
+  "_id": "a95e2259-7d02-46f8-b367-8c6520e53981",
+  "accessionNo": "0001437749-23-034783",
+  "type": "EX-10.QQ",
+  "url": "https://www.sec.gov/Archives/edgar/data/357294/000143774923034783/ex_605308.htm",
+  "description": "EXHIBIT 10.QQ",
+  "timestamp": "2023-12-18T17:26:13-05:00"
+},
+{
+  "_id": "27b114c7-a742-403b-9f4a-ac733c6a1bee",
+  "accessionNo": "0001437749-23-034783",
+  "type": "EX-10.RR",
+  "url": "https://www.sec.gov/Archives/edgar/data/357294/000143774923034783/ex_605292.htm",
+  "description": "EXHIBIT 10.RR",
+  "timestamp": "2023-12-18T17:26:13-05:00"
+},
+{
+  "_id": "af549e86-cd1c-4fa5-9515-35252e1a5ea2",
+  "accessionNo": "0001635984-23-000045",
+  "type": "EX-10.AK",
+  "url": "https://www.sec.gov/Archives/edgar/data/1635984/000163598423000045/exhibitak.htm",
+  "description": "EX-10.AK",
+  "timestamp": "2023-12-14T15:04:53-05:00"
+},
+{
+  "_id": "54f8ab0d-ce2d-4ef4-8110-d13cf1e570e4",
+  "accessionNo": "0001877788-23-000043",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1877788/000187778823000043/cstf-ex10_1.htm",
+  "description": "N/A",
+  "timestamp": "2023-12-08T18:03:11-05:00"
+},
+{
+  "_id": "2e52d2ca-270e-4ae5-8b15-7476b84bf5ea",
+  "accessionNo": "0001877788-23-000043",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1877788/000187778823000043/cstf-ex10_2.htm",
+  "description": "N/A",
+  "timestamp": "2023-12-08T18:03:11-05:00"
+},
+{
+  "_id": "b93e8e93-35b7-4cd4-b4b6-065e65933ff4",
+  "accessionNo": "0001628280-23-041065",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1792781/000162828023041065/fwdcompletewithdocusignr.htm",
+  "description": "EX-10",
+  "timestamp": "2023-12-07T16:07:41-05:00"
+},
+{
+  "_id": "fef86d2c-13bf-4747-8d6d-f09c9f05a1d6",
+  "accessionNo": "0001072613-23-000594",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/887396/000107261323000594/exh10_18781.htm",
+  "description": "LETTER AMENDMENT TO SECURITIES PURCHASE AGREEMENT, DATED AS OF DECEMBER 1, 2023,",
+  "timestamp": "2023-12-01T16:22:15-05:00"
+},
+{
+  "_id": "b8d3eb31-ea3d-4ec9-a3f4-c61196e76159",
+  "accessionNo": "0001213900-23-091897",
+  "type": "EX-10.B",
+  "url": "https://www.sec.gov/Archives/edgar/data/1597892/000121390023091897/ea189282ex10-b_jrsishealth.htm",
+  "description": "EXCLUSIVE BUSINESS COOPERATION AGREEMENT BETWEEN LAIDIAN TECHNOLOGY (ZHONGSHAN) ",
+  "timestamp": "2023-12-01T14:02:36-05:00"
+},
+{
+  "_id": "9c4d8d62-2411-4f9c-b5e6-c01e976d0849",
+  "accessionNo": "0001213900-23-091897",
+  "type": "EX-10.C",
+  "url": "https://www.sec.gov/Archives/edgar/data/1597892/000121390023091897/ea189282ex10-c_jrsishealth.htm",
+  "description": "EQUITY INTEREST PLEDGE AGREEMENT AMONG LAIDIAN TECHNOLOGY (ZHONGSHAN) CO., LTD.,",
+  "timestamp": "2023-12-01T14:02:36-05:00"
+},
+{
+  "_id": "b0a5ce8e-fbc5-470b-ad7a-1ef46ed812a7",
+  "accessionNo": "0001213900-23-091897",
+  "type": "EX-10.D",
+  "url": "https://www.sec.gov/Archives/edgar/data/1597892/000121390023091897/ea189282ex10-d_jrsishealth.htm",
+  "description": "EXCLUSIVE OPTION AGREEMENT AMONG LAIDIAN TECHNOLOGY (ZHONGSHAN) CO., LTD., YONGZ",
+  "timestamp": "2023-12-01T14:02:36-05:00"
+},
+{
+  "_id": "2c26a841-f2ad-4fcf-b686-81b33eb517d3",
+  "accessionNo": "0001213900-23-091897",
+  "type": "EX-10.E",
+  "url": "https://www.sec.gov/Archives/edgar/data/1597892/000121390023091897/ea189282ex10-e_jrsishealth.htm",
+  "description": "POWER OF ATTORNEY GIVEN BY GUANGZHOU JUMI INTELLIGENT EQUIPMENT CO., LTD TO LAID",
+  "timestamp": "2023-12-01T14:02:36-05:00"
+},
+{
+  "_id": "2c670332-34f0-4a3c-b2fb-0df2522a2003",
+  "accessionNo": "0001490906-23-000028",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1490906/000149090623000028/cffn-093023xex10.htm",
+  "description": "CFFN EXHIBIT 10.1 AMENDED AND RESTATED CHANGE OF CONTROL AGREEMENT",
+  "timestamp": "2023-11-29T14:29:45-05:00"
+},
+{
+  "_id": "d881a29a-791f-4ee3-91e5-dedb56271445",
+  "accessionNo": "0001140361-23-054536",
+  "type": "EX-10.A",
+  "url": "https://www.sec.gov/Archives/edgar/data/357301/000114036123054536/ef20015231_ex10-a.htm",
+  "description": "EXHIBIT 10(A)",
+  "timestamp": "2023-11-24T10:49:57-05:00"
+},
+{
+  "_id": "236ee3ea-95c3-4d52-b250-7d47e21ea619",
+  "accessionNo": "0001140361-23-054536",
+  "type": "EX-10.B",
+  "url": "https://www.sec.gov/Archives/edgar/data/357301/000114036123054536/ef20015231_ex10-b.htm",
+  "description": "EXHIBIT 10(B)",
+  "timestamp": "2023-11-24T10:49:57-05:00"
+},
+{
+  "_id": "c32dec81-e5fb-4d24-b65e-b10f23e553b7",
+  "accessionNo": "0000950170-23-065844",
+  "type": "EX-10.(A)(III)",
+  "url": "https://www.sec.gov/Archives/edgar/data/16040/000095017023065844/cbt-ex10_aiii.htm",
+  "description": "EX-10.(A)(III)",
+  "timestamp": "2023-11-22T15:35:41-05:00"
+},
+{
+  "_id": "7f9e525a-4231-465a-9f85-cb63d8d26dd0",
+  "accessionNo": "0000950170-23-065844",
+  "type": "EX-10.(H)",
+  "url": "https://www.sec.gov/Archives/edgar/data/16040/000095017023065844/cbt-ex10_h.htm",
+  "description": "EX-10.(H)",
+  "timestamp": "2023-11-22T15:35:41-05:00"
+},
+{
+  "_id": "0169aa8b-4e2e-412a-9c3b-74b3cf394ff0",
+  "accessionNo": "0000950170-23-065844",
+  "type": "EX-10.(I)",
+  "url": "https://www.sec.gov/Archives/edgar/data/16040/000095017023065844/cbt-ex10_i.htm",
+  "description": "EX-10.(I)",
+  "timestamp": "2023-11-22T15:35:41-05:00"
+},
+{
+  "_id": "0d393fbc-2eaf-4c63-b647-2de8a5243ef7",
+  "accessionNo": "0000950170-23-065844",
+  "type": "EX-10.(J)",
+  "url": "https://www.sec.gov/Archives/edgar/data/16040/000095017023065844/cbt-ex10_j.htm",
+  "description": "EX-10.(J)",
+  "timestamp": "2023-11-22T15:35:41-05:00"
+},
+{
+  "_id": "d02ed5a9-6a27-4d30-ac56-ab36d8a8cdb7",
+  "accessionNo": "0000950170-23-065844",
+  "type": "EX-10.(K)",
+  "url": "https://www.sec.gov/Archives/edgar/data/16040/000095017023065844/cbt-ex10_k.htm",
+  "description": "EX-10.(K)",
+  "timestamp": "2023-11-22T15:35:41-05:00"
+},
+{
+  "_id": "5754ddc1-83b6-4a26-a95a-543952a8ae9e",
+  "accessionNo": "0000010795-23-000098",
+  "type": "EX-10.C",
+  "url": "https://www.sec.gov/Archives/edgar/data/10795/000001079523000098/a09-30x2023ex10c.htm",
+  "description": "EX-10.C",
+  "timestamp": "2023-11-21T17:08:11-05:00"
+},
+{
+  "_id": "85ef31fe-ebc1-4b2c-b0cf-173be3200c80",
+  "accessionNo": "0000010795-23-000098",
+  "type": "EX-10.GI",
+  "url": "https://www.sec.gov/Archives/edgar/data/10795/000001079523000098/a09-30x2023ex10gi.htm",
+  "description": "EX-10.GI",
+  "timestamp": "2023-11-21T17:08:11-05:00"
+},
+{
+  "_id": "46b27160-9763-42ed-bc8d-ef00ef676b84",
+  "accessionNo": "0001763925-23-000006",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1763925/000176392523000006/ex_10.15_nonop_bos_11-8-22.htm",
+  "description": "EXHIBIT 10.15",
+  "timestamp": "2023-11-17T21:25:07-05:00"
+},
+{
+  "_id": "c0b0310e-b20d-49f7-825b-e7ddcf9ef091",
+  "accessionNo": "0001763925-23-000006",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1763925/000176392523000006/ex_10.16_buckley_bos_12-2-22.htm",
+  "description": "EXHIBIT 10.16",
+  "timestamp": "2023-11-17T21:25:07-05:00"
+},
+{
+  "_id": "816f1c0b-966c-4b29-8ee8-deb97f8d2b37",
+  "accessionNo": "0001017386-23-000382",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1658521/000101738623000382/mtpp11162023_ex10.htm",
+  "description": "RESIGNATION LETTER OF ANTHONY LOMBARDO AS CEO DATED NOVEMBER 1, 2023",
+  "timestamp": "2023-11-17T14:29:11-05:00"
+},
+{
+  "_id": "1b68f91d-57fe-4579-8059-818dab960b3a",
+  "accessionNo": "0001193125-23-278818",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/23632/000119312523278818/d556027dex10.htm",
+  "description": "EX-10",
+  "timestamp": "2023-11-16T16:17:59-05:00"
+},
+{
+  "_id": "7f5df8cf-3a3f-485d-8786-e1e1aff40d56",
+  "accessionNo": "0001193125-23-278818",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/23632/000119312523278818/d556027dex10.htm",
+  "description": "EX-10",
+  "timestamp": "2023-11-16T16:17:59-05:00"
+},
+{
+  "_id": "80774179-a784-4fa1-98e2-9d652503248f",
+  "accessionNo": "0001158449-23-000238",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1158449/000115844923000238/aap_exhibitx101x8kx11152023.htm",
+  "description": "EX-10.1",
+  "timestamp": "2023-11-15T06:45:22-05:00"
+},
+{
+  "_id": "368dcd90-dbc6-415c-ae84-5170aa2e4559",
+  "accessionNo": "0001398344-23-020671",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1495584/000139834423020671/fp0085762-2_ex10.htm",
+  "description": "N/A",
+  "timestamp": "2023-11-14T13:15:39-05:00"
+},
+{
+  "_id": "c5a8054c-44d8-4313-9b1a-95cf9a4049a8",
+  "accessionNo": "0000809248-23-000125",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/809248/000080924823000125/carrols-openmarketsaleagre.htm",
+  "description": "EX-10",
+  "timestamp": "2023-11-13T16:11:22-05:00"
+},
+{
+  "_id": "d8746a14-e14e-4112-a9a1-ce08f9b81fa6",
+  "accessionNo": "0001520138-23-000479",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1883835/000152013823000479/pmin-20231108_8kex10z1.htm",
+  "description": "EX-10",
+  "timestamp": "2023-11-08T21:53:57-05:00"
+},
+{
+  "_id": "25f97971-47c9-4c0d-bb85-d8b7c9f56431",
+  "accessionNo": "0001161697-23-000567",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/704440/000116169723000567/ex_10-1.htm",
+  "description": "EMPLOYMENT AGREEMENT DATED 11-06-2023 - KENNETH MILLER",
+  "timestamp": "2023-11-08T16:05:13-05:00"
+},
+{
+  "_id": "a6f5aeda-4177-450e-8906-46af1caacbb0",
+  "accessionNo": "0001161697-23-000567",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/704440/000116169723000567/ex_10-2.htm",
+  "description": "NON-QUALIFIED STOCK OPTION AWARD AGREEMENT (TIME-BASED VESTING) - KENNETH MILLER",
+  "timestamp": "2023-11-08T16:05:13-05:00"
+},
+{
+  "_id": "2aeae55c-288a-4670-ab21-ba0194fb2458",
+  "accessionNo": "0001161697-23-000567",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/704440/000116169723000567/ex_10-3.htm",
+  "description": "NON-QUALIFIED STOCK OPTION AWARD AGREEMENT (PERFORMANCE-BASED VESTING) - KENNETH",
+  "timestamp": "2023-11-08T16:05:13-05:00"
+},
+{
+  "_id": "052da40b-8302-419d-a816-d4461c38e6cc",
+  "accessionNo": "0001618034-23-000019",
+  "type": "EX-10.III I",
+  "url": "https://www.sec.gov/Archives/edgar/data/1285785/000161803423000019/exhibit10iiii_20230930.htm",
+  "description": "EX-10.III I",
+  "timestamp": "2023-11-08T12:43:08-05:00"
+},
+{
+  "_id": "4258c630-9ed5-4851-9748-5f5e99d86df3",
+  "accessionNo": "0000811589-23-000057",
+  "type": "EX-10.A",
+  "url": "https://www.sec.gov/Archives/edgar/data/811589/000081158923000057/fbnc2023-09exx10a.htm",
+  "description": "EX-10.A",
+  "timestamp": "2023-11-07T16:07:04-05:00"
+},
+{
+  "_id": "43bde41c-bda3-436b-8f82-d5b1e916bcde",
+  "accessionNo": "0000927653-23-000086",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/927653/000092765323000086/mckesson-rcfextensionackno.htm",
+  "description": "EX-10",
+  "timestamp": "2023-11-07T16:03:50-05:00"
+},
+{
+  "_id": "88120eab-91e2-4b40-afd1-386d3ff1a5a7",
+  "accessionNo": "0001654954-23-013844",
+  "type": "EX-10.I",
+  "url": "https://www.sec.gov/Archives/edgar/data/1093672/000165495423013844/pebk_ex10i.htm",
+  "description": "EX-10(I)",
+  "timestamp": "2023-11-07T09:43:53-05:00"
+},
+{
+  "_id": "512569e3-bd98-4327-9197-647f6c1cdf7b",
+  "accessionNo": "0000022356-23-000057",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/22356/000002235623000057/commercebancsharesincexecu.htm",
+  "description": "EX-10",
+  "timestamp": "2023-11-06T14:09:22-05:00"
+},
+{
+  "_id": "1980e6c0-39b8-4fea-be44-16d4359be975",
+  "accessionNo": "0001955520-23-000020",
+  "type": "EX-10.A",
+  "url": "https://www.sec.gov/Archives/edgar/data/1955520/000195552023000020/a2023ex10a.htm",
+  "description": "KNIFE RIVER RESTRICTIVE STOCK UNIT AWARD AGREEMENT",
+  "timestamp": "2023-11-06T07:08:55-05:00"
+},
+{
+  "_id": "585bbc49-a974-4c63-b021-30a4afa31f89",
+  "accessionNo": "0001213900-23-083566",
+  "type": "EX-10.W",
+  "url": "https://www.sec.gov/Archives/edgar/data/316253/000121390023083566/f10k2023ex10w_enzobio.htm",
+  "description": "AMENDMENT AGREEMENT BY AND AMONG JGB CAPITAL, LP, JGB (CAYMAN) SUSSEX LTD., ENZO",
+  "timestamp": "2023-11-03T17:07:13-04:00"
+},
+{
+  "_id": "a0e4a85f-d7b3-4e96-ac98-438dc02484ac",
+  "accessionNo": "0001213900-23-083566",
+  "type": "EX-10.X",
+  "url": "https://www.sec.gov/Archives/edgar/data/316253/000121390023083566/f10k2023ex10x_enzobio.htm",
+  "description": "SEPARATION AGREEMENT AND GENERAL RELEASE BETWEEN HAMID ERFANIAN AND ENZO BIOCHEM",
+  "timestamp": "2023-11-03T17:07:13-04:00"
+},
+{
+  "_id": "8510a549-17e3-490a-b4c4-bb5d85fc303c",
+  "accessionNo": "0001213900-23-083566",
+  "type": "EX-10.Y",
+  "url": "https://www.sec.gov/Archives/edgar/data/316253/000121390023083566/f10k2023ex10y_enzobio.htm",
+  "description": "SETTLEMENT AGREEMENT BETWEEN BARRY WEINER, SHAHLA WEINER, ROYA WEINER, AND JONAT",
+  "timestamp": "2023-11-03T17:07:13-04:00"
+},
+{
+  "_id": "41342e8b-0c96-4440-81e2-06b28dcd052e",
+  "accessionNo": "0001650664-23-000017",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1650664/000165066423000017/separationagreement.htm",
+  "description": "EX-10",
+  "timestamp": "2023-11-03T16:03:51-04:00"
+},
+{
+  "_id": "34d0075f-faf7-4fdf-9fcd-76100264c9fe",
+  "accessionNo": "0000355811-23-000056",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/355811/000035581123000056/gntx10q09302023-exx10.htm",
+  "description": "EX-10",
+  "timestamp": "2023-11-03T13:46:17-04:00"
+},
+{
+  "_id": "a88f9a2d-45f6-40ad-b975-9605c0f1ba5e",
+  "accessionNo": "0001545654-23-000039",
+  "type": "EX-10.B1(LIV)",
+  "url": "https://www.sec.gov/Archives/edgar/data/1545654/000154565423000039/amendmenttoconsultingagree.htm",
+  "description": "EX-10.B1(LIV)",
+  "timestamp": "2023-11-02T21:54:28-04:00"
+},
+{
+  "_id": "0373536e-5911-49c5-8ec6-1b8245845ae5",
+  "accessionNo": "0001545654-23-000039",
+  "type": "EX-10.B1(LV)",
+  "url": "https://www.sec.gov/Archives/edgar/data/1545654/000154565423000039/letteragreementandreleasejs.htm",
+  "description": "EX-10.B1(LV)",
+  "timestamp": "2023-11-02T21:54:28-04:00"
+},
+{
+  "_id": "09dc9c40-7e14-40c3-8e00-409d95b3649c",
+  "accessionNo": "0000813828-23-000033",
+  "type": "EX-10.A",
+  "url": "https://www.sec.gov/Archives/edgar/data/813828/000081382823000033/para_ex10a-093023.htm",
+  "description": "EX-10.A",
+  "timestamp": "2023-11-02T17:34:29-04:00"
+},
+{
+  "_id": "d2a4b900-e8cf-4278-b841-b857203239ce",
+  "accessionNo": "0001654954-23-010725",
+  "type": "EX-10.A",
+  "url": "https://www.sec.gov/Archives/edgar/data/33992/000165495423010725/king_ex10a.htm",
+  "description": "EX-10.A",
+  "timestamp": "2023-08-14T14:06:58-04:00"
+},
+{
+  "_id": "5d360343-603a-45dd-bbf6-ef3d9eff45e3",
+  "accessionNo": "0001654954-23-010725",
+  "type": "EX-10.B",
+  "url": "https://www.sec.gov/Archives/edgar/data/33992/000165495423010725/king_ex10b.htm",
+  "description": "EX-10.B",
+  "timestamp": "2023-08-14T14:06:58-04:00"
+},
+{
+  "_id": "622563ae-d970-4e13-a5df-57baaff9cbff",
+  "accessionNo": "0000017843-23-000021",
+  "type": "EX-10.DD",
+  "url": "https://www.sec.gov/Archives/edgar/data/17843/000001784323000021/exhibit10dd6-30x2023.htm",
+  "description": "EX-10.DD",
+  "timestamp": "2023-08-11T09:08:19-04:00"
+},
+{
+  "_id": "258a1a37-d6ab-4a2d-aa4b-e360331ff2a4",
+  "accessionNo": "0000017843-23-000021",
+  "type": "EX-10.K",
+  "url": "https://www.sec.gov/Archives/edgar/data/17843/000001784323000021/exhibit10k6-30x2023.htm",
+  "description": "EX-10.K",
+  "timestamp": "2023-08-11T09:08:19-04:00"
+},
+{
+  "_id": "251ad054-8695-4f4c-91b3-c776562c9b27",
+  "accessionNo": "0000017843-23-000021",
+  "type": "EX-10.N",
+  "url": "https://www.sec.gov/Archives/edgar/data/17843/000001784323000021/exhibit10n6-30x2023.htm",
+  "description": "EX-10.N",
+  "timestamp": "2023-08-11T09:08:19-04:00"
+},
+{
+  "_id": "bbe1223f-bb86-43b6-be5c-0df4aee1b3f8",
+  "accessionNo": "0001558370-23-014509",
+  "type": "EX-10.RR",
+  "url": "https://www.sec.gov/Archives/edgar/data/730464/000155837023014509/atge-20230630xex10drr.htm",
+  "description": "EX-10.RR",
+  "timestamp": "2023-08-10T16:16:11-04:00"
+},
+{
+  "_id": "feeeb045-8917-484f-8050-c02baff83068",
+  "accessionNo": "0001744489-23-000171",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1744489/000174448923000171/fy2023_q3x10qxex102.htm",
+  "description": "EXHIBIT 10.2",
+  "timestamp": "2023-08-09T17:01:19-04:00"
+},
+{
+  "_id": "3339eae5-7b4e-4b76-8550-77e816234b21",
+  "accessionNo": "0000950170-23-040234",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/73309/000095017023040234/nue-ex10.htm",
+  "description": "EX-10",
+  "timestamp": "2023-08-09T10:48:20-04:00"
+},
+{
+  "_id": "64735c6d-1be3-4a90-9f78-f5fe97d7897a",
+  "accessionNo": "0001955520-23-000014",
+  "type": "EX-10.L",
+  "url": "https://www.sec.gov/Archives/edgar/data/1955520/000195552023000014/a2023ex10l.htm",
+  "description": "KNIFE RIVER 401K RETIREMENT PLAN",
+  "timestamp": "2023-08-08T17:22:26-04:00"
+},
+{
+  "_id": "741f565c-17e3-41c8-a4f7-e6e7e7e46789",
+  "accessionNo": "0000863110-23-000037",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/863110/000086311023000037/ex10.htm",
+  "description": "AMENDED AND RESTATED DEMAND LINE OF CREDIT AGREEMENT BETWEEN ARTESIAN RESOURCES ",
+  "timestamp": "2023-08-08T15:17:57-04:00"
+},
+{
+  "_id": "28cf232a-c674-470f-8855-731b78043775",
+  "accessionNo": "0000813828-23-000026",
+  "type": "EX-10.A",
+  "url": "https://www.sec.gov/Archives/edgar/data/813828/000081382823000026/para_ex10a-063023.htm",
+  "description": "EX-10.A",
+  "timestamp": "2023-08-07T17:35:12-04:00"
+},
+{
+  "_id": "0418843c-51f6-4d82-b679-5c847dd72ec4",
+  "accessionNo": "0001628280-23-027500",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/946155/000162828023027500/ex10c.htm",
+  "description": "EX-10",
+  "timestamp": "2023-08-04T14:26:36-04:00"
+},
+{
+  "_id": "61821bda-b034-44ec-8b4a-17308b2f4bd3",
+  "accessionNo": "0000854775-23-000011",
+  "type": "EX-10.B",
+  "url": "https://www.sec.gov/Archives/edgar/data/854775/000085477523000011/dgiiex10bpsuagreement.htm",
+  "description": "EX-10.B",
+  "timestamp": "2023-08-04T13:06:57-04:00"
+},
+{
+  "_id": "c5068ff9-7e9b-4882-af35-f4db084bd37f",
+  "accessionNo": "0000946673-23-000025",
+  "type": "EX-10.J",
+  "url": "https://www.sec.gov/Archives/edgar/data/946673/000094667323000025/banr-06302023xex10jcicplan.htm",
+  "description": "EX-10.J",
+  "timestamp": "2023-08-03T16:39:08-04:00"
+},
+{
+  "_id": "98cf8c91-eabd-436e-9d27-962f8d0ba64f",
+  "accessionNo": "0001171520-23-000258",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1515816/000117152023000258/ex10-1.htm",
+  "description": "N/A",
+  "timestamp": "2023-08-03T07:05:47-04:00"
+},
+{
+  "_id": "9040cf45-9760-4c73-abc6-4e218abbf617",
+  "accessionNo": "0001161697-23-000429",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/704440/000116169723000429/ex_10-1.htm",
+  "description": "FIRST AMENDMENT TO EMPLOYMENT AGREEMENT DATED AUGUST 1, 2023 - THOMAS ADAMS",
+  "timestamp": "2023-08-02T17:19:26-04:00"
+},
+{
+  "_id": "68ded720-341b-4185-8745-bd899be74d55",
+  "accessionNo": "0001806201-23-000096",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1806201/000180620123000096/lpro-amendmenttotsaflynn.htm",
+  "description": "EX-10.1",
+  "timestamp": "2023-08-02T16:09:42-04:00"
+},
+{
+  "_id": "1772178c-eea0-4b7f-9d26-c95df9df2bb6",
+  "accessionNo": "0000072971-23-000138",
+  "type": "EX-10.A",
+  "url": "https://www.sec.gov/Archives/edgar/data/72971/000007297123000138/wfc-0630x2023xex10a.htm",
+  "description": "EX-10.A",
+  "timestamp": "2023-08-01T17:02:49-04:00"
+},
+{
+  "_id": "e1290311-ed28-4ea6-8e2e-8ed1f5bdcef0",
+  "accessionNo": "0000072971-23-000138",
+  "type": "EX-10.B",
+  "url": "https://www.sec.gov/Archives/edgar/data/72971/000007297123000138/wfc-0630x2023xex10b.htm",
+  "description": "EX-10.B",
+  "timestamp": "2023-08-01T17:02:49-04:00"
+},
+{
+  "_id": "01b2e275-d04c-4409-9f3c-d4b1167aa6fe",
+  "accessionNo": "0000072971-23-000138",
+  "type": "EX-10.C",
+  "url": "https://www.sec.gov/Archives/edgar/data/72971/000007297123000138/wfc-0630x2023xex10c.htm",
+  "description": "EX-10.C",
+  "timestamp": "2023-08-01T17:02:49-04:00"
+},
+{
+  "_id": "7353ce2d-bd89-4dfa-88ad-55b32a8f68d6",
+  "accessionNo": "0000072971-23-000138",
+  "type": "EX-10.D",
+  "url": "https://www.sec.gov/Archives/edgar/data/72971/000007297123000138/wfc-0630x2023xex10d.htm",
+  "description": "EX-10.D",
+  "timestamp": "2023-08-01T17:02:49-04:00"
+},
+{
+  "_id": "ad870691-f2e6-4322-8de8-c2f03edc3582",
+  "accessionNo": "0001638833-23-000082",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1638833/000163883323000082/surgerypartners-tenthame.htm",
+  "description": "EX-10",
+  "timestamp": "2023-08-01T16:32:24-04:00"
+},
+{
+  "_id": "81a7690f-01ef-40ee-ac95-fd3f431477cd",
+  "accessionNo": "0001515971-23-000111",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1164256/000151597123000111/exhibit101.htm",
+  "description": "EXHIBIT 10.1",
+  "timestamp": "2023-07-31T18:01:59-04:00"
+},
+{
+  "_id": "037b08a6-e84c-4a98-876c-f7809aeb444b",
+  "accessionNo": "0000070318-23-000041",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/70318/000007031823000041/thc-2023x0630ex10a.htm",
+  "description": "EX-10",
+  "timestamp": "2023-07-31T16:07:59-04:00"
+},
+{
+  "_id": "afae8de0-2ae4-4d17-a8e7-532caec11c3a",
+  "accessionNo": "0000038777-23-000109",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/38777/000003877723000109/exhibit101revolvingcredi.htm",
+  "description": "EX-10.1",
+  "timestamp": "2023-07-28T12:08:49-04:00"
+},
+{
+  "_id": "7dc76cc7-77c2-4e9b-9a79-90f6a1a530c9",
+  "accessionNo": "0001545654-23-000030",
+  "type": "EX-10.B1(LIV)",
+  "url": "https://www.sec.gov/Archives/edgar/data/1545654/000154565423000030/supplementalreleaseagreeme.htm",
+  "description": "EX-10.B1(LIV)",
+  "timestamp": "2023-07-27T20:25:28-04:00"
+},
+{
+  "_id": "273e6d6f-68cf-47bc-b5da-29e2f6f577f5",
+  "accessionNo": "0000064040-23-000159",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/64040/000006404023000159/q22023ex10xskempssidelette.htm",
+  "description": "EX-10",
+  "timestamp": "2023-07-27T16:49:47-04:00"
+},
+{
+  "_id": "32d02965-f9b1-4a23-82b8-9cc1af53ba7d",
+  "accessionNo": "0000062996-23-000033",
+  "type": "EX-10.A",
+  "url": "https://www.sec.gov/Archives/edgar/data/62996/000006299623000033/a10asznewajs_-xseverancexa.htm",
+  "description": "EX-10.A",
+  "timestamp": "2023-07-27T16:04:56-04:00"
+},
+{
+  "_id": "4700ee5b-9279-45c6-8454-4d912d37afa6",
+  "accessionNo": "0000062996-23-000033",
+  "type": "EX-10.B",
+  "url": "https://www.sec.gov/Archives/edgar/data/62996/000006299623000033/a10blegal-377976xv1xhq_xxj.htm",
+  "description": "EX-10.B",
+  "timestamp": "2023-07-27T16:04:56-04:00"
+},
+{
+  "_id": "3f9ad94e-54ff-4702-bc4d-8faee8e76d00",
+  "accessionNo": "0000062996-23-000033",
+  "type": "EX-10.C",
+  "url": "https://www.sec.gov/Archives/edgar/data/62996/000006299623000033/a10clegal-379055xv1xo_reag.htm",
+  "description": "EX-10.C",
+  "timestamp": "2023-07-27T16:04:56-04:00"
+},
+{
+  "_id": "6032b38a-8ae6-4d51-bb58-c5441010108f",
+  "accessionNo": "0000004904-23-000104",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/4904/000000490423000104/ex10aep20232q.htm",
+  "description": "EX-10",
+  "timestamp": "2023-07-27T07:10:45-04:00"
+},
+{
+  "_id": "0c170293-77e5-4859-a205-c0fd3768f037",
+  "accessionNo": "0000004904-23-000104",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/4904/000000490423000104/ex10aep20232q.htm",
+  "description": "EX-10",
+  "timestamp": "2023-07-27T07:10:45-04:00"
+},
+{
+  "_id": "02410c15-f100-436e-9c23-f92e0fa497e9",
+  "accessionNo": "0000004904-23-000104",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/4904/000000490423000104/ex10aep20232q.htm",
+  "description": "EX-10",
+  "timestamp": "2023-07-27T07:10:45-04:00"
+},
+{
+  "_id": "b09a56ab-53fd-46f6-99eb-6095e44e3e36",
+  "accessionNo": "0000004904-23-000104",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/4904/000000490423000104/ex10aep20232q.htm",
+  "description": "EX-10",
+  "timestamp": "2023-07-27T07:10:45-04:00"
+},
+{
+  "_id": "fb66750b-9cb8-429b-8cc7-392f06a64bd4",
+  "accessionNo": "0000004904-23-000104",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/4904/000000490423000104/ex10aep20232q.htm",
+  "description": "EX-10",
+  "timestamp": "2023-07-27T07:10:45-04:00"
+},
+{
+  "_id": "1c6c8e89-a2b6-44c5-83f4-5fe5095b5da0",
+  "accessionNo": "0000004904-23-000104",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/4904/000000490423000104/ex10aep20232q.htm",
+  "description": "EX-10",
+  "timestamp": "2023-07-27T07:10:45-04:00"
+},
+{
+  "_id": "4c3a94f3-0557-4c63-925a-a7215f3087d6",
+  "accessionNo": "0000004904-23-000104",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/4904/000000490423000104/ex10aep20232q.htm",
+  "description": "EX-10",
+  "timestamp": "2023-07-27T07:10:45-04:00"
+},
+{
+  "_id": "c809391a-27ea-4e4c-b025-df6fd83c5dd3",
+  "accessionNo": "0000004904-23-000104",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/4904/000000490423000104/ex10aep20232q.htm",
+  "description": "EX-10",
+  "timestamp": "2023-07-27T07:10:45-04:00"
+},
+{
+  "_id": "c294e944-08b4-4a23-b890-8c32aba5f732",
+  "accessionNo": "0001067701-23-000032",
+  "type": "EX-10.A",
+  "url": "https://www.sec.gov/Archives/edgar/data/1047166/000106770123000032/uri-6302023xex10a.htm",
+  "description": "EX-10.A",
+  "timestamp": "2023-07-26T16:23:39-04:00"
+},
+{
+  "_id": "9a5c5059-2257-4156-87d8-5b6e257791b3",
+  "accessionNo": "0001067701-23-000032",
+  "type": "EX-10.B",
+  "url": "https://www.sec.gov/Archives/edgar/data/1047166/000106770123000032/uri-6302023xex10b.htm",
+  "description": "EX-10.B",
+  "timestamp": "2023-07-26T16:23:39-04:00"
+},
+{
+  "_id": "cb928996-edd6-4f8f-992f-6399da9fed27",
+  "accessionNo": "0001067701-23-000032",
+  "type": "EX-10.C",
+  "url": "https://www.sec.gov/Archives/edgar/data/1047166/000106770123000032/uri-6302023xex10c.htm",
+  "description": "EX-10.C",
+  "timestamp": "2023-07-26T16:23:39-04:00"
+},
+{
+  "_id": "c67fd40e-078e-4014-b547-5cd78e669e75",
+  "accessionNo": "0001067701-23-000032",
+  "type": "EX-10.A",
+  "url": "https://www.sec.gov/Archives/edgar/data/1047166/000106770123000032/uri-6302023xex10a.htm",
+  "description": "EX-10.A",
+  "timestamp": "2023-07-26T16:23:39-04:00"
+},
+{
+  "_id": "e4bd446f-5290-479a-b750-e7575e186042",
+  "accessionNo": "0001067701-23-000032",
+  "type": "EX-10.B",
+  "url": "https://www.sec.gov/Archives/edgar/data/1047166/000106770123000032/uri-6302023xex10b.htm",
+  "description": "EX-10.B",
+  "timestamp": "2023-07-26T16:23:39-04:00"
+},
+{
+  "_id": "f08f2aca-32d2-4849-b7e7-b5699a49944f",
+  "accessionNo": "0001067701-23-000032",
+  "type": "EX-10.C",
+  "url": "https://www.sec.gov/Archives/edgar/data/1047166/000106770123000032/uri-6302023xex10c.htm",
+  "description": "EX-10.C",
+  "timestamp": "2023-07-26T16:23:39-04:00"
+},
+{
+  "_id": "9cdcc09d-5f82-466c-94ea-b64bbd0470a7",
+  "accessionNo": "0001057352-23-000111",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1057352/000105735223000111/csgp-063023xex101.htm",
+  "description": "EX-10",
+  "timestamp": "2023-07-26T15:50:28-04:00"
+},
+{
+  "_id": "697f326f-f1fe-4b19-a7a0-bbd9e9bb8e0e",
+  "accessionNo": "0000055785-23-000054",
+  "type": "EX-10.Q",
+  "url": "https://www.sec.gov/Archives/edgar/data/55785/000005578523000054/kimberly-clarkcorporationp.htm",
+  "description": "KMB PRSU AWARD AGREEMENT",
+  "timestamp": "2023-07-25T09:54:12-04:00"
+},
+{
+  "_id": "29b053d0-e16e-4684-afb3-a85a6bb1c9fe",
+  "accessionNo": "0000055785-23-000054",
+  "type": "EX-10.R",
+  "url": "https://www.sec.gov/Archives/edgar/data/55785/000005578523000054/kimberly-clarkcorporationo.htm",
+  "description": "KMB OFF-CYCLE TIME-VESTED RSU AWARD AGREEMENT",
+  "timestamp": "2023-07-25T09:54:12-04:00"
+},
+{
+  "_id": "505e0f26-f4a5-415f-a4cb-ce847d883807",
+  "accessionNo": "0000055785-23-000054",
+  "type": "EX-10.T",
+  "url": "https://www.sec.gov/Archives/edgar/data/55785/000005578523000054/kimberly-clarkcorporationa.htm",
+  "description": "KMB ANNUAL TIME-VESTED RSU AWARD AGREEMENT (GRADED SCHEDULE)",
+  "timestamp": "2023-07-25T09:54:12-04:00"
+},
+{
+  "_id": "0ba21e72-a2dd-4991-9439-78f922efc5c4",
+  "accessionNo": "0000040545-23-000198",
+  "type": "EX-10.A",
+  "url": "https://www.sec.gov/Archives/edgar/data/40545/000004054523000198/exhibit10ageaerospacesuppl.htm",
+  "description": "EX-10.A",
+  "timestamp": "2023-07-25T06:31:17-04:00"
+},
+{
+  "_id": "6273e645-cf80-4c9f-9b13-a18f8ffc75a5",
+  "accessionNo": "0000040545-23-000198",
+  "type": "EX-10.B",
+  "url": "https://www.sec.gov/Archives/edgar/data/40545/000004054523000198/exhibit10bgeenergysuppleme.htm",
+  "description": "EX-10.B",
+  "timestamp": "2023-07-25T06:31:17-04:00"
+},
+{
+  "_id": "0bb6b543-78df-40e8-a85d-de42e8b2f991",
+  "accessionNo": "0001276531-23-000004",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1276531/000127653123000004/formofstockpurchaseagreement.htm",
+  "description": "A FORM OF STOCK PURCHASE AGREEMENT",
+  "timestamp": "2023-07-13T09:22:25-04:00"
+},
+{
+  "_id": "8198199e-68c4-477a-9e34-970e8082012b",
+  "accessionNo": "0000351998-23-000016",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/351998/000035199823000016/exhibit_10.htm",
+  "description": "N/A",
+  "timestamp": "2023-06-30T11:05:42-04:00"
+},
+{
+  "_id": "cd71ca7f-7f24-4dbd-8551-6af5d5055729",
+  "accessionNo": "0001558370-23-011571",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1766368/000155837023011571/tmb-20230628xex10.htm",
+  "description": "EX-10",
+  "timestamp": "2023-06-29T12:15:27-04:00"
+},
+{
+  "_id": "b9fda719-9158-4255-b9f7-ccee2124f07b",
+  "accessionNo": "0001558370-23-011533",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1285819/000155837023011533/omer-20230623xex10.htm",
+  "description": "EX-10.1",
+  "timestamp": "2023-06-28T17:25:29-04:00"
+},
+{
+  "_id": "2acbfef2-fecd-4817-9f6d-b461a845b0fd",
+  "accessionNo": "0001161697-23-000378",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/704440/000116169723000378/ex_10-1.htm",
+  "description": "EMPLOYMENT AGREEMENT DATED JUNE 22, 2023 - ANDREW D. C. LAFRENCE",
+  "timestamp": "2023-06-27T07:40:08-04:00"
+},
+{
+  "_id": "e5268ef0-e557-474c-8183-f4735851e733",
+  "accessionNo": "0001161697-23-000378",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/704440/000116169723000378/ex_10-2.htm",
+  "description": "FORM OF NON-QUALIFIED STOCK OPTION AWARD AGREEMENT - ANDREW D. C. LAFRENCE",
+  "timestamp": "2023-06-27T07:40:08-04:00"
+},
+{
+  "_id": "f0386be0-0ca2-48fc-8a0c-dac328483aa7",
+  "accessionNo": "0000809248-23-000089",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/809248/000080924823000089/exhibit101stockplanamendme.htm",
+  "description": "EX-10.1",
+  "timestamp": "2023-06-22T16:56:54-04:00"
+},
+{
+  "_id": "8382b3b6-a920-4ffe-b90f-d5de35495f72",
+  "accessionNo": "0001549727-23-000023",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1602813/000154972723000023/ex101.htm",
+  "description": "N/A",
+  "timestamp": "2023-06-15T12:09:01-04:00"
+},
+{
+  "_id": "a5f69f9d-3261-4315-8a9f-1ce6a4ca66f1",
+  "accessionNo": "0001549727-23-000023",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1602813/000154972723000023/ex102.htm",
+  "description": "N/A",
+  "timestamp": "2023-06-15T12:09:01-04:00"
+},
+{
+  "_id": "e8dc7c30-81ed-4875-a378-c46dae4e673a",
+  "accessionNo": "0001549727-23-000021",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1602813/000154972723000021/ex101.htm",
+  "description": "N/A",
+  "timestamp": "2023-06-15T12:02:51-04:00"
+},
+{
+  "_id": "660f25b2-0185-4292-b5dd-1d8df94afd51",
+  "accessionNo": "0001549727-23-000021",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1602813/000154972723000021/ex102.htm",
+  "description": "N/A",
+  "timestamp": "2023-06-15T12:02:51-04:00"
+},
+{
+  "_id": "b21039e5-3cca-4bda-adc0-90725c374a9c",
+  "accessionNo": "0001549727-23-000021",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1602813/000154972723000021/ex103.htm",
+  "description": "N/A",
+  "timestamp": "2023-06-15T12:02:51-04:00"
+},
+{
+  "_id": "797323df-faf6-4445-9eb9-7ee29db413c8",
+  "accessionNo": "0001549727-23-000021",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1602813/000154972723000021/ex104.htm",
+  "description": "N/A",
+  "timestamp": "2023-06-15T12:02:51-04:00"
+},
+{
+  "_id": "1679a5b5-b1f3-4f65-bc3e-18d2da527593",
+  "accessionNo": "0001549727-23-000019",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1602813/000154972723000019/ex101emnote.htm",
+  "description": "N/A",
+  "timestamp": "2023-06-15T11:42:53-04:00"
+},
+{
+  "_id": "da88fa93-faaa-4ba2-91b3-df3293fb482c",
+  "accessionNo": "0001549727-23-000019",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1602813/000154972723000019/ex102notepurchase.htm",
+  "description": "N/A",
+  "timestamp": "2023-06-15T11:42:53-04:00"
+},
+{
+  "_id": "61c03aca-29fd-4c9e-a721-4ca9bf64eb64",
+  "accessionNo": "0001549727-23-000019",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1602813/000154972723000019/ex103companynote.htm",
+  "description": "N/A",
+  "timestamp": "2023-06-15T11:42:53-04:00"
+},
+{
+  "_id": "969e6078-8a0a-491e-b70b-84d301627b8b",
+  "accessionNo": "0001549727-23-000019",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1602813/000154972723000019/ex104companypleadge.htm",
+  "description": "N/A",
+  "timestamp": "2023-06-15T11:42:53-04:00"
+},
+{
+  "_id": "54fdd85d-519e-4f96-a097-1833bece93ff",
+  "accessionNo": "0000819793-23-000057",
+  "type": "EX-10.(M)(XX)",
+  "url": "https://www.sec.gov/Archives/edgar/data/819793/000081979323000057/ain-20230614xex10mxx.htm",
+  "description": "EX-10.(M)(XX)",
+  "timestamp": "2023-06-14T08:49:23-04:00"
+},
+{
+  "_id": "e06d315a-ccc1-4996-9863-972f27d61ddb",
+  "accessionNo": "0000950123-23-005703",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/752714/000095012323005703/mgrc-ex10_1.htm",
+  "description": "EX-10.1",
+  "timestamp": "2023-06-13T16:40:00-04:00"
+},
+{
+  "_id": "16ce9005-8f62-490e-bace-e4192a65e3a5",
+  "accessionNo": "0001549727-23-000017",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1602813/000154972723000017/ex101purchaseagreement.htm",
+  "description": "N/A",
+  "timestamp": "2023-06-13T16:38:45-04:00"
+},
+{
+  "_id": "d10c2411-c669-4cc4-affe-1ae8fe3b3574",
+  "accessionNo": "0001549727-23-000017",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1602813/000154972723000017/ex102note.htm",
+  "description": "N/A",
+  "timestamp": "2023-06-13T16:38:45-04:00"
+},
+{
+  "_id": "942cdb9e-b497-4185-b4ae-5650cf9c387e",
+  "accessionNo": "0001549727-23-000017",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1602813/000154972723000017/ex103profit.htm",
+  "description": "N/A",
+  "timestamp": "2023-06-13T16:38:45-04:00"
+},
+{
+  "_id": "298df79a-2a36-4619-afba-6247900e3500",
+  "accessionNo": "0001549727-23-000017",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1602813/000154972723000017/ex104assignmentlease.htm",
+  "description": "N/A",
+  "timestamp": "2023-06-13T16:38:45-04:00"
+},
+{
+  "_id": "720ddf4e-d9eb-41b8-ac86-2ae402fc559a",
+  "accessionNo": "0001515971-23-000087",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/845819/000151597123000087/exhibit101.htm",
+  "description": "EXHIBIT 10.1",
+  "timestamp": "2023-06-07T11:19:21-04:00"
+},
+{
+  "_id": "a2091147-4a50-4c36-ac1d-f01f17beab6a",
+  "accessionNo": "0001515971-23-000087",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/845819/000151597123000087/exhibit102.htm",
+  "description": "EXHIBIT 10.2",
+  "timestamp": "2023-06-07T11:19:21-04:00"
+},
+{
+  "_id": "f92029e8-635b-4f7f-85ea-8edae9f2562c",
+  "accessionNo": "0001379245-23-000024",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1379245/000137924523000024/ex10042018stockincentiveplan.htm",
+  "description": "EX 10.4 2018 STOCK INCENTIVE PLAN",
+  "timestamp": "2023-06-06T16:32:48-04:00"
+},
+{
+  "_id": "16404126-8ff7-4fc3-b509-1df2ba0de97c",
+  "accessionNo": "0001379245-23-000024",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1379245/000137924523000024/ex10192019stockincentiveplan.htm",
+  "description": "EX 10.19 2019 STOCK INCENTIVE PLAN",
+  "timestamp": "2023-06-06T16:32:48-04:00"
+},
+{
+  "_id": "31bb0ac9-d386-4366-a9e7-11df386d4af1",
+  "accessionNo": "0001379245-23-000024",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1379245/000137924523000024/ex10232021stockincentiveplan.htm",
+  "description": "EX 10.23 2021 STOCK INCENTIVE PLAN",
+  "timestamp": "2023-06-06T16:32:48-04:00"
+},
+{
+  "_id": "8ed875e2-2a36-4d48-a0e3-3e9191d28ee9",
+  "accessionNo": "0001379245-23-000018",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1379245/000137924523000018/ex1001licenseagreemtsaudioey.htm",
+  "description": "EX 10.1 LICENSE AGREEMENT-AUDIOEYE",
+  "timestamp": "2023-06-06T15:38:56-04:00"
+},
+{
+  "_id": "f1c0b49f-3237-4ec4-a451-c6c8030906fe",
+  "accessionNo": "0001379245-23-000018",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1379245/000137924523000018/ex1007employmentagreementkww.htm",
+  "description": "EX 10.7 EMPLOYMENT AGREEMENT-K WITHROW",
+  "timestamp": "2023-06-06T15:38:56-04:00"
+},
+{
+  "_id": "702a1793-5657-4deb-9d2e-b41f0a5d84d5",
+  "accessionNo": "0001379245-23-000018",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1379245/000137924523000018/ex1008purchaseagreementipn.htm",
+  "description": "EX 10.8 IP PURCHASE AGREEMENT-IPN",
+  "timestamp": "2023-06-06T15:38:56-04:00"
+},
+{
+  "_id": "ac8bff5c-7857-4a5d-a380-80d31ab6b0d1",
+  "accessionNo": "0001379245-23-000018",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1379245/000137924523000018/ex1009revshareagreementipn.htm",
+  "description": "EX 10.9 REVENUE SHARING AGREEMENT-IPN",
+  "timestamp": "2023-06-06T15:38:56-04:00"
+},
+{
+  "_id": "68ec4318-a0c3-4bfe-9202-dcf19805ac81",
+  "accessionNo": "0001379245-23-000018",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1379245/000137924523000018/ex1010royaltyagreementipn.htm",
+  "description": "EX 10.10 ROYALTY AGREEMENT-IPN",
+  "timestamp": "2023-06-06T15:38:56-04:00"
+},
+{
+  "_id": "8e40e1be-6d4f-45d5-a223-f35308e8ae05",
+  "accessionNo": "0001379245-23-000018",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1379245/000137924523000018/ex1011consultingagreemtmj.htm",
+  "description": "EX 10.11 CONSULTING AGREEMENT-MJ MANAGEMENT SERVICES, INC.",
+  "timestamp": "2023-06-06T15:38:56-04:00"
+},
+{
+  "_id": "ed86a528-c7f7-4e6a-bab9-66270f2d0f45",
+  "accessionNo": "0001379245-23-000018",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1379245/000137924523000018/ex1012consultingagreemthcl.htm",
+  "description": "EX 10.12 CONSULTING AGREEMENT-HCL",
+  "timestamp": "2023-06-06T15:38:56-04:00"
+},
+{
+  "_id": "7f190d5a-e428-485a-9f9e-55c73a322b62",
+  "accessionNo": "0001379245-23-000018",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1379245/000137924523000018/ex1013consultingagreementdr.htm",
+  "description": "EX 10.13 CONSULTING AGREEMENT-D ROCKE",
+  "timestamp": "2023-06-06T15:38:56-04:00"
+},
+{
+  "_id": "3ebd0a2b-b58c-43aa-83d7-1a06b1f0d3af",
+  "accessionNo": "0001379245-23-000018",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1379245/000137924523000018/ex1014consultingagreementmg.htm",
+  "description": "EX 10.14 CONSULTING AGREEMENT-GABRIELE",
+  "timestamp": "2023-06-06T15:38:56-04:00"
+},
+{
+  "_id": "f2b595bb-0c68-42db-badd-82e09590c57e",
+  "accessionNo": "0001379245-23-000018",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1379245/000137924523000018/ex1015noncompeteagreementdr.htm",
+  "description": "EX 10.15 NON-COMPETE AGREEMENT-ROCKE",
+  "timestamp": "2023-06-06T15:38:56-04:00"
+},
+{
+  "_id": "5b8997f9-452e-489c-8e68-b5aeabdbea23",
+  "accessionNo": "0001379245-23-000018",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1379245/000137924523000018/ex1016noncompeteagreementmg.htm",
+  "description": "EX 10.16 NON-COMPETE AGREEMENT-GABRIELE",
+  "timestamp": "2023-06-06T15:38:56-04:00"
+},
+{
+  "_id": "ed2476c7-aa49-4472-a2a8-db0673ac777d",
+  "accessionNo": "0001379245-23-000018",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1379245/000137924523000018/ex1017consultingagreementco.htm",
+  "description": "EX 10.17 CONSULTANT AGREEMENT-OOSTHUIZEN",
+  "timestamp": "2023-06-06T15:38:56-04:00"
+},
+{
+  "_id": "0fe64635-3979-4240-97f5-974ecd4ee380",
+  "accessionNo": "0001379245-23-000018",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1379245/000137924523000018/ex1018consultingagreementyj.htm",
+  "description": "EX 10.18 CONSULTING AGREEMENT-JIANG",
+  "timestamp": "2023-06-06T15:38:56-04:00"
+},
+{
+  "_id": "11aa3cb0-8c28-4bf9-9e32-1c8d3af09136",
+  "accessionNo": "0001379245-23-000018",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1379245/000137924523000018/ex1019noncompeteagreementco.htm",
+  "description": "EX 10.19 NON-COMPETE AGREEMENT-OOSTHUIZEN",
+  "timestamp": "2023-06-06T15:38:56-04:00"
+},
+{
+  "_id": "626aab99-c06c-4614-b31e-22ad8263cddc",
+  "accessionNo": "0001379245-23-000018",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1379245/000137924523000018/ex1020jvagreementprimeafrica.htm",
+  "description": "EX 10.20 JOINT VENTURE AGREEMENT-PRIME AFRICA",
+  "timestamp": "2023-06-06T15:38:56-04:00"
+},
+{
+  "_id": "cfd3fc06-6bbf-4c58-ba88-a2613535db84",
+  "accessionNo": "0000047217-23-000038",
+  "type": "EX-10.(D)(D)(D)(D)",
+  "url": "https://www.sec.gov/Archives/edgar/data/47217/000004721723000038/a10dddd-cashaccountrestora.htm",
+  "description": "EX-10.(D)(D)(D)(D)",
+  "timestamp": "2023-05-30T20:58:39-04:00"
+},
+{
+  "_id": "5b58da85-4682-46b7-aa5d-c6f53f2cd4aa",
+  "accessionNo": "0000047217-23-000038",
+  "type": "EX-10.(E)(E)(E)(E)",
+  "url": "https://www.sec.gov/Archives/edgar/data/47217/000004721723000038/a10eeee-ebp20063rdamdt1.htm",
+  "description": "EX-10.(E)(E)(E)(E)",
+  "timestamp": "2023-05-30T20:58:39-04:00"
+},
+{
+  "_id": "3bac29b7-eaec-4a73-ab19-4697a48d5856",
+  "accessionNo": "0001549727-23-000014",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1602813/000154972723000014/ex101purchase.htm",
+  "description": "N/A",
+  "timestamp": "2023-05-30T14:33:00-04:00"
+},
+{
+  "_id": "cc577392-d517-4b09-b309-ae3d793c7e58",
+  "accessionNo": "0001549727-23-000014",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1602813/000154972723000014/ex102note.htm",
+  "description": "N/A",
+  "timestamp": "2023-05-30T14:33:00-04:00"
+},
+{
+  "_id": "00b33a34-1f2e-4150-a4a9-a0d651e6195f",
+  "accessionNo": "0001549727-23-000014",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1602813/000154972723000014/ex103pledge.htm",
+  "description": "N/A",
+  "timestamp": "2023-05-30T14:33:00-04:00"
+},
+{
+  "_id": "b71aed9a-6670-4d9e-9665-06f2a80d13b0",
+  "accessionNo": "0000944075-23-000035",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/944075/000094407523000035/exhibit10.1-note_2023.htm",
+  "description": "N/A",
+  "timestamp": "2023-05-30T14:10:08-04:00"
+},
+{
+  "_id": "4728429a-0d54-4668-ae6f-c6e3f6483608",
+  "accessionNo": "0001193125-23-155556",
+  "type": "EX-10.(1)",
+  "url": "https://www.sec.gov/Archives/edgar/data/1812554/000119312523155556/d513642dex101.htm",
+  "description": "EX-10.(1)",
+  "timestamp": "2023-05-26T17:16:49-04:00"
+},
+{
+  "_id": "8363d81b-b9ff-4c85-a97b-ec1554fac3da",
+  "accessionNo": "0001193125-23-155556",
+  "type": "EX-10.(2)",
+  "url": "https://www.sec.gov/Archives/edgar/data/1812554/000119312523155556/d513642dex102.htm",
+  "description": "EX-10.(2)",
+  "timestamp": "2023-05-26T17:16:49-04:00"
+},
+{
+  "_id": "28ae977d-6fc7-46bc-aa68-a4aad5fbfc46",
+  "accessionNo": "0001193125-23-155556",
+  "type": "EX-10.(3)",
+  "url": "https://www.sec.gov/Archives/edgar/data/1812554/000119312523155556/d513642dex103.htm",
+  "description": "EX-10.(3)",
+  "timestamp": "2023-05-26T17:16:49-04:00"
+},
+{
+  "_id": "d3fbc74b-bb32-4d0a-a1d3-f7571c93ccd0",
+  "accessionNo": "0001193125-23-155556",
+  "type": "EX-10.(4)",
+  "url": "https://www.sec.gov/Archives/edgar/data/1812554/000119312523155556/d513642dex104.htm",
+  "description": "EX-10.(4)",
+  "timestamp": "2023-05-26T17:16:49-04:00"
+},
+{
+  "_id": "46ce41bf-0ac9-4bd2-ac77-e51c3815dcf8",
+  "accessionNo": "0001193125-23-155556",
+  "type": "EX-10.(5)",
+  "url": "https://www.sec.gov/Archives/edgar/data/1812554/000119312523155556/d513642dex105.htm",
+  "description": "EX-10.(5)",
+  "timestamp": "2023-05-26T17:16:49-04:00"
+},
+{
+  "_id": "0c370909-5875-49ce-9507-f33c6e74b159",
+  "accessionNo": "0001361538-23-000022",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1361538/000136153823000022/prim-20230522xex10.htm",
+  "description": "EX-10.1",
+  "timestamp": "2023-05-26T16:09:17-04:00"
+},
+{
+  "_id": "95404687-5d99-4cec-a614-c1bb3096b5dc",
+  "accessionNo": "0000103379-23-000006",
+  "type": "EX-10.(II)",
+  "url": "https://www.sec.gov/Archives/edgar/data/103379/000010337923000006/vfc412023ex10ii.htm",
+  "description": "EX-10.(II)",
+  "timestamp": "2023-05-25T15:17:17-04:00"
+},
+{
+  "_id": "7526d2a6-995f-44ef-a698-0ff95c947701",
+  "accessionNo": "0000103379-23-000006",
+  "type": "EX-10.(JJ)",
+  "url": "https://www.sec.gov/Archives/edgar/data/103379/000010337923000006/vfc412023ex10jj.htm",
+  "description": "EX-10.(JJ)",
+  "timestamp": "2023-05-25T15:17:17-04:00"
+},
+{
+  "_id": "efc99751-c6fb-476e-97c6-5c2fe7ef5270",
+  "accessionNo": "0000103379-23-000006",
+  "type": "EX-10.(NN)",
+  "url": "https://www.sec.gov/Archives/edgar/data/103379/000010337923000006/vfc412023ex10nn.htm",
+  "description": "EX-10.(NN)",
+  "timestamp": "2023-05-25T15:17:17-04:00"
+},
+{
+  "_id": "5dded2e7-102f-4f0b-94f0-f99ae7e827b9",
+  "accessionNo": "0001474903-23-000075",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1474903/000147490323000075/exhibit101.htm",
+  "description": "EXHIBIT 10.1",
+  "timestamp": "2023-05-24T19:06:27-04:00"
+},
+{
+  "_id": "204d62be-c1d5-4fb9-b42f-ac754ccce804",
+  "accessionNo": "0001548123-23-000115",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1543637/000154812323000115/ex10-12.htm",
+  "description": "LETTER OF INTENT DATED MAY 15, 2023",
+  "timestamp": "2023-05-23T18:04:50-04:00"
+},
+{
+  "_id": "9b7e41b1-162b-4204-adf8-a5459a8cb1da",
+  "accessionNo": "0001325814-23-000100",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1325814/000132581423000100/executiveseverance2023fi.htm",
+  "description": "EX-10.1 - EXECUTIVE SEVERANCE PLAN",
+  "timestamp": "2023-05-22T15:44:57-04:00"
+},
+{
+  "_id": "2a82e533-442b-47c2-9f6e-f4357e8fc816",
+  "accessionNo": "0001308179-23-000866",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/40545/000130817923000866/ge4202071-ex10.htm",
+  "description": "AMENDMENT NO. 2 TO EMPLOYMENT AGREEMENT",
+  "timestamp": "2023-05-18T08:35:53-04:00"
+},
+{
+  "_id": "a4ca095b-3da0-4a6a-b898-151751e7dfd6",
+  "accessionNo": "0001437749-23-014590",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1320760/000143774923014590/ex_518635.htm",
+  "description": "EXHIBIT 10",
+  "timestamp": "2023-05-15T16:21:45-04:00"
+},
+{
+  "_id": "dc019fb2-8047-4e54-8278-e0f4ce87830a",
+  "accessionNo": "0000950170-23-021981",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1160308/000095017023021981/svra-ex10_1.htm",
+  "description": "EX-10.1",
+  "timestamp": "2023-05-15T08:15:39-04:00"
+},
+{
+  "_id": "97bbe5b6-2c8b-4d63-8431-204c425c6c47",
+  "accessionNo": "0000950170-23-021981",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1160308/000095017023021981/svra-ex10_2.htm",
+  "description": "EX-10.2",
+  "timestamp": "2023-05-15T08:15:39-04:00"
+},
+{
+  "_id": "eaa37d33-f755-4263-835b-eab1eb9e1a82",
+  "accessionNo": "0001214816-23-000058",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1214816/000121481623000058/axis20231qinvestorpresen.htm",
+  "description": "EX-10",
+  "timestamp": "2023-05-12T18:26:07-04:00"
+},
+{
+  "_id": "cd7a9483-3928-4066-a197-a96cbda26b9d",
+  "accessionNo": "0000950170-23-021301",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1383701/000095017023021301/hsto-ex10_1.htm",
+  "description": "EX-10.1",
+  "timestamp": "2023-05-11T16:26:39-04:00"
+},
+{
+  "_id": "d08d910a-cd15-4025-8332-e6beac441f83",
+  "accessionNo": "0000950170-23-021301",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1383701/000095017023021301/hsto-ex10_2.htm",
+  "description": "EX-10.2",
+  "timestamp": "2023-05-11T16:26:39-04:00"
+},
+{
+  "_id": "a0734277-d2cd-4b0e-936e-826c6a6c0b47",
+  "accessionNo": "0000950170-23-021301",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1383701/000095017023021301/hsto-ex10_3.htm",
+  "description": "EX-10.3",
+  "timestamp": "2023-05-11T16:26:39-04:00"
+},
+{
+  "_id": "70adb135-fab2-47bd-9595-8bcac4cc61e7",
+  "accessionNo": "0000950170-23-021301",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1383701/000095017023021301/hsto-ex10_4.htm",
+  "description": "EX-10.4",
+  "timestamp": "2023-05-11T16:26:39-04:00"
+},
+{
+  "_id": "cf025982-d3da-4446-80d7-58621ae5e4b3",
+  "accessionNo": "0000950170-23-021301",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1383701/000095017023021301/hsto-ex10_5.htm",
+  "description": "EX-10.5",
+  "timestamp": "2023-05-11T16:26:39-04:00"
+},
+{
+  "_id": "79909319-2e94-4a67-bd11-e53fdaa0b1b0",
+  "accessionNo": "0000950170-23-021286",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1851194/000095017023021286/vtyx-ex10_1.htm",
+  "description": "EX-10.1",
+  "timestamp": "2023-05-11T16:21:17-04:00"
+},
+{
+  "_id": "f0027f86-0947-45ac-9d80-97d36537485d",
+  "accessionNo": "0000950170-23-021262",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1672619/000095017023021262/elvn-ex10_9.htm",
+  "description": "EX-10.9",
+  "timestamp": "2023-05-11T16:16:19-04:00"
+},
+{
+  "_id": "9507c871-f9f4-4d6e-bed9-7968eaa40b7b",
+  "accessionNo": "0000950170-23-021262",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1672619/000095017023021262/elvn-ex10_10.htm",
+  "description": "EX-10.10",
+  "timestamp": "2023-05-11T16:16:19-04:00"
+},
+{
+  "_id": "c73686dc-4c65-46e1-9a8a-5a6c47286b74",
+  "accessionNo": "0000950170-23-021262",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1672619/000095017023021262/elvn-ex10_14.htm",
+  "description": "EX-10.14",
+  "timestamp": "2023-05-11T16:16:19-04:00"
+},
+{
+  "_id": "bc3eefd0-35ec-4cea-9962-66dd36714036",
+  "accessionNo": "0000950170-23-021262",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1672619/000095017023021262/elvn-ex10_15.htm",
+  "description": "EX-10.15",
+  "timestamp": "2023-05-11T16:16:19-04:00"
+},
+{
+  "_id": "f6363ff1-7805-410f-93cf-3b7b31e7b69e",
+  "accessionNo": "0000809248-23-000079",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/809248/000080924823000079/debderbyemploymentagreement.htm",
+  "description": "EX-10.1",
+  "timestamp": "2023-05-11T16:03:32-04:00"
+},
+{
+  "_id": "978366e2-3b38-45c4-9805-62324ca79725",
+  "accessionNo": "0000950170-23-021188",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1817229/000095017023021188/vor-ex10_1.htm",
+  "description": "EX-10.1",
+  "timestamp": "2023-05-11T16:02:37-04:00"
+},
+{
+  "_id": "375e72af-67a5-4ff8-875f-07d9a18a8e91",
+  "accessionNo": "0000950170-23-020966",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1603480/000095017023020966/ck0001603480-ex10_13.htm",
+  "description": "EX-10.13",
+  "timestamp": "2023-05-11T12:26:34-04:00"
+},
+{
+  "_id": "339f24c1-9773-4ea2-876c-615574c7433f",
+  "accessionNo": "0000950170-23-020870",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1671584/000095017023020870/apvo-ex10_1.htm",
+  "description": "EX-10.1",
+  "timestamp": "2023-05-11T08:31:26-04:00"
+},
+{
+  "_id": "1cdf9468-88a4-43f1-834f-8803817ccdc2",
+  "accessionNo": "0000950170-23-020855",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1805890/000095017023020855/fusn-ex10_1.htm",
+  "description": "EX-10.1",
+  "timestamp": "2023-05-11T08:01:34-04:00"
+},
+{
+  "_id": "2ef300f9-2956-4442-8b6b-123357af13bd",
+  "accessionNo": "0000950170-23-020849",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1759138/000095017023020849/caba-ex10_1.htm",
+  "description": "EX-10.1",
+  "timestamp": "2023-05-11T07:38:07-04:00"
+},
+{
+  "_id": "59eb075a-8da6-48aa-9147-7738d4761f09",
+  "accessionNo": "0000950170-23-020842",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1563577/000095017023020842/grtx-ex10_1.htm",
+  "description": "EX-10.1",
+  "timestamp": "2023-05-11T07:31:06-04:00"
+},
+{
+  "_id": "5983caca-690e-4905-9eb8-8fbe133b57a6",
+  "accessionNo": "0000950170-23-020842",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1563577/000095017023020842/grtx-ex10_2.htm",
+  "description": "EX-10.2",
+  "timestamp": "2023-05-11T07:31:06-04:00"
+},
+{
+  "_id": "bada6b07-13da-4dbc-9ae8-fa30d4feaf26",
+  "accessionNo": "0000950170-23-020842",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1563577/000095017023020842/grtx-ex10_3.htm",
+  "description": "EX-10.3",
+  "timestamp": "2023-05-11T07:31:06-04:00"
+},
+{
+  "_id": "d5b60b52-b1ea-4378-b579-99aa9d727d75",
+  "accessionNo": "0000950170-23-020829",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1835597/000095017023020829/pepg-ex10_1.htm",
+  "description": "EX-10.1",
+  "timestamp": "2023-05-11T07:11:03-04:00"
+},
+{
+  "_id": "348e58f8-5975-4044-9a5e-6d956fe1b0e9",
+  "accessionNo": "0000950170-23-020829",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1835597/000095017023020829/pepg-ex10_2.htm",
+  "description": "EX-10.2",
+  "timestamp": "2023-05-11T07:11:03-04:00"
+},
+{
+  "_id": "081d4e66-6433-4f78-b811-3ce8864b9916",
+  "accessionNo": "0000950170-23-020829",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1835597/000095017023020829/pepg-ex10_3.htm",
+  "description": "EX-10.3",
+  "timestamp": "2023-05-11T07:11:03-04:00"
+},
+{
+  "_id": "d265ec23-c740-4c42-9c13-8a192c867f37",
+  "accessionNo": "0001474903-23-000065",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1474903/000147490323000065/q12023-ex104.htm",
+  "description": "EXHIBIT 10.4",
+  "timestamp": "2023-05-10T19:05:23-04:00"
+},
+{
+  "_id": "398fea2e-9a89-4959-95d9-5632bb5f0b45",
+  "accessionNo": "0000950170-23-020670",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1813914/000095017023020670/cmax-ex10_1.htm",
+  "description": "EX-10.1",
+  "timestamp": "2023-05-10T17:19:33-04:00"
+},
+{
+  "_id": "e068cb1c-41b1-4424-9621-df25c2287d31",
+  "accessionNo": "0000950170-23-020649",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1394319/000095017023020649/tcon-ex10_1.htm",
+  "description": "EX-10.1",
+  "timestamp": "2023-05-10T17:01:59-04:00"
+},
+{
+  "_id": "c1a634be-7a9b-495f-ae21-3c409379d054",
+  "accessionNo": "0000950170-23-020649",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1394319/000095017023020649/tcon-ex10_2.htm",
+  "description": "EX-10.2",
+  "timestamp": "2023-05-10T17:01:59-04:00"
+},
+{
+  "_id": "3d5b2c46-27f2-4f06-a3bd-77d171225c12",
+  "accessionNo": "0000950170-23-020649",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1394319/000095017023020649/tcon-ex10_3.htm",
+  "description": "EX-10.3",
+  "timestamp": "2023-05-10T17:01:59-04:00"
+},
+{
+  "_id": "211c14f7-de72-4564-ad0d-d0744f2dc235",
+  "accessionNo": "0000950170-23-020649",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1394319/000095017023020649/tcon-ex10_5.htm",
+  "description": "EX-10.5",
+  "timestamp": "2023-05-10T17:01:59-04:00"
+},
+{
+  "_id": "bcaafe11-b4d5-47fa-9f70-f0eed35ffae8",
+  "accessionNo": "0000950170-23-020627",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1661181/000095017023020627/orgo-ex10_1.htm",
+  "description": "EX-10.1",
+  "timestamp": "2023-05-10T16:47:10-04:00"
+},
+{
+  "_id": "98499852-35e9-46a4-bb74-a8f89ca3922b",
+  "accessionNo": "0001515971-23-000059",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1038277/000151597123000059/exhibit101.htm",
+  "description": "EXHIBIT 10.1",
+  "timestamp": "2023-05-10T16:40:08-04:00"
+},
+{
+  "_id": "b824177a-71d5-42ef-99d0-fa4d80f9a6b5",
+  "accessionNo": "0000950170-23-020618",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1824893/000095017023020618/srzn-ex10_2.htm",
+  "description": "EX-10.2",
+  "timestamp": "2023-05-10T16:39:26-04:00"
+},
+{
+  "_id": "4ca0e7af-a44a-4a66-9396-4eb347e252f3",
+  "accessionNo": "0000950170-23-020610",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1834045/000095017023020610/vwe-ex10_1.htm",
+  "description": "EX-10.1",
+  "timestamp": "2023-05-10T16:36:18-04:00"
+},
+{
+  "_id": "7cd8df19-eb8a-4431-8b74-2ee49a9aa126",
+  "accessionNo": "0000950170-23-020609",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1858848/000095017023020609/tnya-ex10_1.htm",
+  "description": "EX-10.1",
+  "timestamp": "2023-05-10T16:35:29-04:00"
+},
+{
+  "_id": "0e7cc9bc-c5e9-4ddf-a242-7e7e8a7ea4c5",
+  "accessionNo": "0000950170-23-020606",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1604477/000095017023020606/sqz-ex10_1.htm",
+  "description": "EX-10.1",
+  "timestamp": "2023-05-10T16:34:11-04:00"
+},
+{
+  "_id": "f9b98f2f-0d1a-47c0-b9e3-029f5cec37d2",
+  "accessionNo": "0000049826-23-000029",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/49826/000004982623000029/eurocreditagreement.htm",
+  "description": "EX-10",
+  "timestamp": "2023-05-10T16:32:09-04:00"
+},
+{
+  "_id": "5756e32d-bebb-441e-bc3b-6de79ac4a87c",
+  "accessionNo": "0000950170-23-020585",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1834045/000095017023020585/vwe-ex10_4.htm",
+  "description": "EX-10.4",
+  "timestamp": "2023-05-10T16:29:04-04:00"
+},
+{
+  "_id": "2bc3405a-50f0-4a22-9d2e-4f664f8e872a",
+  "accessionNo": "0000950170-23-020585",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1834045/000095017023020585/vwe-ex10_5.htm",
+  "description": "EX-10.5",
+  "timestamp": "2023-05-10T16:29:04-04:00"
+},
+{
+  "_id": "49cc7e53-d4d0-4493-bc8a-bf69fda2d647",
+  "accessionNo": "0000950170-23-020581",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1588972/000095017023020581/sctl-ex10_1.htm",
+  "description": "EX-10.1",
+  "timestamp": "2023-05-10T16:26:34-04:00"
+},
+{
+  "_id": "9a371230-cef5-4692-ae75-c4be84aa089e",
+  "accessionNo": "0000950170-23-020564",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1210677/000095017023020564/fa-ex10_1.htm",
+  "description": "EX-10.1",
+  "timestamp": "2023-05-10T16:20:30-04:00"
+},
+{
+  "_id": "de23aae8-2261-44f8-afc2-3bd6024f3a46",
+  "accessionNo": "0000950170-23-020564",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1210677/000095017023020564/fa-ex10_2.htm",
+  "description": "EX-10.2",
+  "timestamp": "2023-05-10T16:20:30-04:00"
+},
+{
+  "_id": "23ec24f7-b5c3-446e-aee7-02c2260bd049",
+  "accessionNo": "0000950170-23-020564",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1210677/000095017023020564/fa-ex10_3.htm",
+  "description": "EX-10.3",
+  "timestamp": "2023-05-10T16:20:30-04:00"
+},
+{
+  "_id": "f9f88ac0-166e-4027-aa7f-9ec89c96966b",
+  "accessionNo": "0000950170-23-020540",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1633336/000095017023020540/ccap-ex10_15.htm",
+  "description": "EX-10.15",
+  "timestamp": "2023-05-10T16:18:56-04:00"
+},
+{
+  "_id": "4d32a19f-19df-46c4-bc5e-8b97e51848f1",
+  "accessionNo": "0000950170-23-020557",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1720592/000095017023020557/rpay-ex10_5.htm",
+  "description": "EX-10.5",
+  "timestamp": "2023-05-10T16:18:54-04:00"
+},
+{
+  "_id": "0fde3ea1-2c41-4923-a9ac-74cc75d79001",
+  "accessionNo": "0000950170-23-020557",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1720592/000095017023020557/rpay-ex10_6.htm",
+  "description": "EX-10.6",
+  "timestamp": "2023-05-10T16:18:54-04:00"
+},
+{
+  "_id": "f22ea6db-cf1c-4b5b-b1ff-751cd6a46362",
+  "accessionNo": "0000950170-23-020526",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1422143/000095017023020526/kura-ex10_1.htm",
+  "description": "EX-10.1",
+  "timestamp": "2023-05-10T16:15:22-04:00"
+},
+{
+  "_id": "51b31b9e-2024-4014-ae6c-38ad89b39dff",
+  "accessionNo": "0000950170-23-020510",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1662244/000095017023020510/cyt-ex10_2.htm",
+  "description": "EX-10.2",
+  "timestamp": "2023-05-10T16:07:27-04:00"
+},
+{
+  "_id": "aa6d8d5b-291f-4624-b9d5-cc35f74bc4d8",
+  "accessionNo": "0000950170-23-020486",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1178253/000095017023020486/scyx-ex10_1.htm",
+  "description": "EX-10.1",
+  "timestamp": "2023-05-10T16:02:12-04:00"
+},
+{
+  "_id": "110a31d0-8e43-4750-b62b-3b69a9d6f481",
+  "accessionNo": "0000950170-23-020486",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1178253/000095017023020486/scyx-ex10_2.htm",
+  "description": "EX-10.2",
+  "timestamp": "2023-05-10T16:02:12-04:00"
+},
+{
+  "_id": "1568a79f-7203-4781-a39f-40863439eef1",
+  "accessionNo": "0000950170-23-020486",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1178253/000095017023020486/scyx-ex10_3.htm",
+  "description": "EX-10.3",
+  "timestamp": "2023-05-10T16:02:12-04:00"
+},
+{
+  "_id": "0b10aff7-b9ac-458c-b7dd-1cd66eb84f7b",
+  "accessionNo": "0000950170-23-020483",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1564902/000095017023020483/seas-ex10_1.htm",
+  "description": "EX-10.1",
+  "timestamp": "2023-05-10T16:01:27-04:00"
+},
+{
+  "_id": "503445df-a73d-4139-bc35-9af5613e2435",
+  "accessionNo": "0000950170-23-020483",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1564902/000095017023020483/seas-ex10_2.htm",
+  "description": "EX-10.2",
+  "timestamp": "2023-05-10T16:01:27-04:00"
+},
+{
+  "_id": "1f475ea4-f586-49b5-a05e-8ee78b34cffa",
+  "accessionNo": "0000950170-23-020312",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1715933/000095017023020312/ck0001715933-ex10_10.htm",
+  "description": "EX-10.10",
+  "timestamp": "2023-05-10T13:50:32-04:00"
+},
+{
+  "_id": "78b5888b-ac38-4104-b673-cc7eff97b9bd",
+  "accessionNo": "0000950170-23-020276",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1776661/000095017023020276/adv-ex10_1.htm",
+  "description": "EX-10.1",
+  "timestamp": "2023-05-10T13:01:00-04:00"
+},
+{
+  "_id": "fbde8326-7244-4bbc-872b-f06333969524",
+  "accessionNo": "0000950170-23-020276",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1776661/000095017023020276/adv-ex10_2.htm",
+  "description": "EX-10.2",
+  "timestamp": "2023-05-10T13:01:00-04:00"
+},
+{
+  "_id": "4e746935-6837-45b1-bf10-94fb1b6c5cfc",
+  "accessionNo": "0000950170-23-020276",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1776661/000095017023020276/adv-ex10_3.htm",
+  "description": "EX-10.3",
+  "timestamp": "2023-05-10T13:01:00-04:00"
+},
+{
+  "_id": "542c85d9-6d0f-41c0-bc3b-63f04081407e",
+  "accessionNo": "0000950170-23-020276",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1776661/000095017023020276/adv-ex10_4.htm",
+  "description": "EX-10.4",
+  "timestamp": "2023-05-10T13:01:00-04:00"
+},
+{
+  "_id": "4f572c9a-934e-4e14-914d-fbfcde7280ea",
+  "accessionNo": "0000950170-23-020276",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1776661/000095017023020276/adv-ex10_5.htm",
+  "description": "EX-10.5",
+  "timestamp": "2023-05-10T13:01:00-04:00"
+},
+{
+  "_id": "67871bb5-5848-4148-9ba1-f6db171ee14a",
+  "accessionNo": "0001057706-23-000004",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1057706/000105770623000004/exhibit101.htm",
+  "description": "EXHIBIT-10.1",
+  "timestamp": "2023-05-10T11:23:46-04:00"
+},
+{
+  "_id": "7e92e4a2-cf35-411d-a956-3c6b37e52ea9",
+  "accessionNo": "0000950170-23-020172",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1856236/000095017023020172/ewcz-ex10_3.htm",
+  "description": "EX-10.3",
+  "timestamp": "2023-05-10T10:29:00-04:00"
+},
+{
+  "_id": "18830586-dfe3-41b6-815e-45c5fe6de548",
+  "accessionNo": "0000950170-23-020172",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1856236/000095017023020172/ewcz-ex10_4.htm",
+  "description": "EX-10.4",
+  "timestamp": "2023-05-10T10:29:00-04:00"
+},
+{
+  "_id": "3e9d7041-7bb1-4923-a647-d02c3436ab4d",
+  "accessionNo": "0000950170-23-020145",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1401395/000095017023020145/nept-ex10_1.htm",
+  "description": "EX-10.1",
+  "timestamp": "2023-05-10T09:26:09-04:00"
+},
+{
+  "_id": "360eeb7a-5a2f-46a6-b196-df621435123c",
+  "accessionNo": "0000950170-23-020145",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1401395/000095017023020145/nept-ex10_2.htm",
+  "description": "EX-10.2",
+  "timestamp": "2023-05-10T09:26:09-04:00"
+},
+{
+  "_id": "e8460dba-d392-4415-9941-ca0299e35155",
+  "accessionNo": "0000950170-23-020138",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1828161/000095017023020138/ftci-ex10_1.htm",
+  "description": "EX-10.1",
+  "timestamp": "2023-05-10T09:19:25-04:00"
+},
+{
+  "_id": "59732b47-9fd7-4e26-8777-5c3824bb517a",
+  "accessionNo": "0000950170-23-020112",
+  "type": "EX-10",
+  "url": "https://www.sec.gov/Archives/edgar/data/1910950/000095017023020112/aesi-ex10_19.htm",
+  "description": "EX-10.19",
+  "timestamp": "2023-05-10T08:25:36-04:00"
+}]

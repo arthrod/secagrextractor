@@ -1,0 +1,1066 @@
+[
+    {
+        "timestamp": "2024-02-07 20:45:02",
+        "message": "Starting the main process."
+    },
+    {
+        "timestamp": "2024-02-07 20:45:25",
+        "message": "Starting the main process."
+    },
+    {
+        "timestamp": "2024-02-07 20:48:06",
+        "message": "Starting the main process."
+    },
+    {
+        "timestamp": "2024-02-07 20:48:06",
+        "message": "No timestamp found; fetching recent filings without date filter."
+    },
+    {
+        "timestamp": "2024-02-07 20:48:07",
+        "message": "API response received: Success"
+    },
+    {
+        "timestamp": "2024-02-07 20:48:28",
+        "message": "Starting the main process."
+    },
+    {
+        "timestamp": "2024-02-07 20:48:28",
+        "message": "No timestamp found; fetching recent filings without date filter."
+    },
+    {
+        "timestamp": "2024-02-07 20:48:29",
+        "message": "API response received: Success"
+    },
+    {
+        "timestamp": "2024-02-07 20:55:37",
+        "message": "Starting the main process."
+    },
+    {
+        "timestamp": "2024-02-07 20:55:37",
+        "message": "No timestamp found; fetching recent filings without date filter."
+    },
+    {
+        "timestamp": "2024-02-07 20:55:37",
+        "message": "API response received: Success"
+    },
+    {
+        "timestamp": "2024-02-07 20:55:37",
+        "message": "No new Exhibit 10 documents to process."
+    },
+    {
+        "timestamp": "2024-02-07 20:55:39",
+        "message": "Starting the main process."
+    },
+    {
+        "timestamp": "2024-02-07 20:55:39",
+        "message": "Earliest timestamp found: 2023-11-02T21:54:28-04:00"
+    },
+    {
+        "timestamp": "2024-02-07 20:55:40",
+        "message": "API response received: Success"
+    },
+    {
+        "timestamp": "2024-02-07 20:55:40",
+        "message": "No new Exhibit 10 documents to process."
+    },
+    {
+        "timestamp": "2024-02-07 20:55:59",
+        "message": "Starting the main process."
+    },
+    {
+        "timestamp": "2024-02-07 20:55:59",
+        "message": "Earliest timestamp found: 2023-08-15T16:49:37-04:00"
+    },
+    {
+        "timestamp": "2024-02-07 20:55:59",
+        "message": "API response received: Success"
+    },
+    {
+        "timestamp": "2024-02-07 20:55:59",
+        "message": "No new Exhibit 10 documents to process."
+    },
+    {
+        "timestamp": "2024-02-07 21:10:13",
+        "message": "Starting the main process."
+    },
+    {
+        "timestamp": "2024-02-07 21:10:13",
+        "message": "No timestamp found; fetching recent filings without date filter."
+    },
+    {
+        "timestamp": "2024-02-07 21:10:14",
+        "message": "API response received: Success"
+    },
+    {
+        "timestamp": "2024-02-07 21:10:14",
+        "message": "No new Exhibit 10 documents to process."
+    },
+    {
+        "timestamp": "2024-02-07 21:10:15",
+        "message": "Starting the main process."
+    },
+    {
+        "timestamp": "2024-02-07 21:10:15",
+        "message": "Earliest timestamp found: 2023-11-02T21:54:28-04:00"
+    },
+    {
+        "timestamp": "2024-02-07 21:10:15",
+        "message": "API response received: Success"
+    },
+    {
+        "timestamp": "2024-02-07 21:10:15",
+        "message": "No new Exhibit 10 documents to process."
+    },
+    {
+        "timestamp": "2024-02-07 21:10:17",
+        "message": "Starting the main process."
+    },
+    {
+        "timestamp": "2024-02-07 21:10:17",
+        "message": "Earliest timestamp found: 2023-08-15T16:49:37-04:00"
+    },
+    {
+        "timestamp": "2024-02-07 21:10:17",
+        "message": "API response received: Success"
+    },
+    {
+        "timestamp": "2024-02-07 21:10:17",
+        "message": "No new Exhibit 10 documents to process."
+    },
+    {
+        "timestamp": "2024-02-07 21:10:43",
+        "message": "Starting the main process."
+    },
+    {
+        "timestamp": "2024-02-07 21:10:43",
+        "message": "No timestamp found; fetching recent filings without date filter."
+    },
+    {
+        "timestamp": "2024-02-07 21:10:43",
+        "message": "API response received: Success"
+    },
+    {
+        "timestamp": "2024-02-07 21:10:43",
+        "message": "No new Exhibit 10 documents to process."
+    },
+    {
+        "timestamp": "2024-02-07 21:10:44",
+        "message": "Starting the main process."
+    },
+    {
+        "timestamp": "2024-02-07 21:10:44",
+        "message": "Earliest timestamp found: 2023-11-02T21:54:28-04:00"
+    },
+    {
+        "timestamp": "2024-02-07 21:10:44",
+        "message": "API response received: Success"
+    },
+    {
+        "timestamp": "2024-02-07 21:10:44",
+        "message": "No new Exhibit 10 documents to process."
+    },
+    {
+        "timestamp": "2024-02-07 21:26:46",
+        "message": "Starting the main process."
+    },
+    {
+        "timestamp": "2024-02-07 21:26:46",
+        "message": "Earliest timestamp found: 2023-08-15T16:49:37-04:00"
+    },
+    {
+        "timestamp": "2024-02-07 21:27:54",
+        "message": "Starting the main process."
+    },
+    {
+        "timestamp": "2024-02-07 21:27:54",
+        "message": "Earliest timestamp found: 2023-08-15T16:49:37-04:00"
+    },
+    {
+        "timestamp": "2024-02-07 21:29:33",
+        "message": "Starting the main process."
+    },
+    {
+        "timestamp": "2024-02-07 21:29:33",
+        "message": "Earliest timestamp found: 2023-08-15T16:49:37-04:00"
+    },
+    {
+        "timestamp": "2024-02-07 21:31:39",
+        "message": "Starting the main process."
+    },
+    {
+        "timestamp": "2024-02-07 21:31:39",
+        "message": "Earliest timestamp found: 2023-08-15T16:49:37-04:00"
+    },
+    {
+        "timestamp": "2024-02-07 21:31:40",
+        "message": "API response received: Success"
+    },
+    {
+        "timestamp": "2024-02-07 21:31:41",
+        "message": "Successfully processed and saved 112 Exhibit 10 documents to MongoDB."
+    },
+    {
+        "timestamp": "2024-02-07 21:34:12",
+        "message": "Starting the main process."
+    },
+    {
+        "timestamp": "2024-02-07 21:34:13",
+        "message": "Earliest timestamp found: 2023-08-15T16:49:37-04:00"
+    },
+    {
+        "timestamp": "2024-02-07 21:34:13",
+        "message": "API response received: Success"
+    },
+    {
+        "timestamp": "2024-02-07 21:34:13",
+        "message": "Successfully processed and saved 112 Exhibit 10 documents to MongoDB."
+    },
+    {
+        "timestamp": "2024-02-07 21:40:32",
+        "message": "Starting the main process."
+    },
+    {
+        "timestamp": "2024-02-07 21:40:33",
+        "message": "Earliest timestamp found: 2023-08-15T16:49:37-04:00"
+    },
+    {
+        "timestamp": "2024-02-07 21:40:33",
+        "message": "API response received: Success"
+    },
+    {
+        "timestamp": "2024-02-07 21:40:33",
+        "message": "Successfully processed and saved 93 Exhibit 10 documents to MongoDB."
+    },
+    {
+        "timestamp": "2024-02-07 21:41:08",
+        "message": "Starting the main process."
+    },
+    {
+        "timestamp": "2024-02-07 21:41:08",
+        "message": "Earliest timestamp found: 2023-06-06T15:38:56-04:00"
+    },
+    {
+        "timestamp": "2024-02-07 21:41:09",
+        "message": "API response received: Success"
+    },
+    {
+        "timestamp": "2024-02-07 21:41:09",
+        "message": "Successfully processed and saved 87 Exhibit 10 documents to MongoDB."
+    },
+    {
+        "timestamp": "2024-02-07 22:03:03",
+        "message": "Earliest timestamp found: 2023-05-10T08:25:36-04:00"
+    },
+    {
+        "timestamp": "2024-02-07 22:03:03",
+        "message": "API response received: Success"
+    },
+    {
+        "timestamp": "2024-02-07 22:03:04",
+        "message": "Successfully processed and saved 92 Exhibit 10 documents to MongoDB."
+    },
+    {
+        "timestamp": "2024-02-07 22:03:12",
+        "message": "Earliest timestamp found: 2023-05-08T17:03:23-04:00"
+    },
+    {
+        "timestamp": "2024-02-07 22:03:12",
+        "message": "API response received: Success"
+    },
+    {
+        "timestamp": "2024-02-07 22:03:12",
+        "message": "Successfully processed and saved 92 Exhibit 10 documents to MongoDB."
+    },
+    {
+        "timestamp": "2024-02-07 22:03:18",
+        "message": "Earliest timestamp found: 2023-05-04T16:16:02-04:00"
+    },
+    {
+        "timestamp": "2024-02-07 22:03:19",
+        "message": "API response received: Success"
+    },
+    {
+        "timestamp": "2024-02-07 22:03:20",
+        "message": "Successfully processed and saved 117 Exhibit 10 documents to MongoDB."
+    },
+    {
+        "timestamp": "2024-02-07 22:03:25",
+        "message": "Earliest timestamp found: 2023-05-03T09:17:26-04:00"
+    },
+    {
+        "timestamp": "2024-02-07 22:03:25",
+        "message": "API response received: Success"
+    },
+    {
+        "timestamp": "2024-02-07 22:03:26",
+        "message": "Successfully processed and saved 101 Exhibit 10 documents to MongoDB."
+    },
+    {
+        "timestamp": "2024-02-07 22:03:34",
+        "message": "Earliest timestamp found: 2023-04-26T15:34:08-04:00"
+    },
+    {
+        "timestamp": "2024-02-07 22:03:34",
+        "message": "API response received: Success"
+    },
+    {
+        "timestamp": "2024-02-07 22:03:36",
+        "message": "Successfully processed and saved 103 Exhibit 10 documents to MongoDB."
+    },
+    {
+        "timestamp": "2024-02-07 22:03:44",
+        "message": "Earliest timestamp found: 2023-04-03T21:15:13-04:00"
+    },
+    {
+        "timestamp": "2024-02-07 22:03:44",
+        "message": "API response received: Success"
+    },
+    {
+        "timestamp": "2024-02-07 22:03:45",
+        "message": "Successfully processed and saved 122 Exhibit 10 documents to MongoDB."
+    },
+    {
+        "timestamp": "2024-02-07 22:03:53",
+        "message": "Earliest timestamp found: 2023-03-29T16:15:59-04:00"
+    },
+    {
+        "timestamp": "2024-02-07 22:03:53",
+        "message": "API response received: Success"
+    },
+    {
+        "timestamp": "2024-02-07 22:03:53",
+        "message": "Successfully processed and saved 117 Exhibit 10 documents to MongoDB."
+    },
+    {
+        "timestamp": "2024-02-07 22:04:03",
+        "message": "Earliest timestamp found: 2023-03-23T16:31:55-04:00"
+    },
+    {
+        "timestamp": "2024-02-07 22:04:03",
+        "message": "API response received: Success"
+    },
+    {
+        "timestamp": "2024-02-07 22:04:04",
+        "message": "Successfully processed and saved 140 Exhibit 10 documents to MongoDB."
+    },
+    {
+        "timestamp": "2024-02-07 22:04:14",
+        "message": "Earliest timestamp found: 2023-03-17T16:32:07-04:00"
+    },
+    {
+        "timestamp": "2024-02-07 22:04:14",
+        "message": "API response received: Success"
+    },
+    {
+        "timestamp": "2024-02-07 22:04:14",
+        "message": "Successfully processed and saved 119 Exhibit 10 documents to MongoDB."
+    },
+    {
+        "timestamp": "2024-02-07 22:04:19",
+        "message": "Earliest timestamp found: 2023-03-14T16:16:17-04:00"
+    },
+    {
+        "timestamp": "2024-02-07 22:04:19",
+        "message": "API response received: Success"
+    },
+    {
+        "timestamp": "2024-02-07 22:04:20",
+        "message": "Successfully processed and saved 96 Exhibit 10 documents to MongoDB."
+    },
+    {
+        "timestamp": "2024-02-07 22:04:29",
+        "message": "Earliest timestamp found: 2023-03-09T07:17:54-05:00"
+    },
+    {
+        "timestamp": "2024-02-07 22:04:29",
+        "message": "API response received: Success"
+    },
+    {
+        "timestamp": "2024-02-07 22:04:29",
+        "message": "Successfully processed and saved 107 Exhibit 10 documents to MongoDB."
+    },
+    {
+        "timestamp": "2024-02-07 22:04:36",
+        "message": "Earliest timestamp found: 2023-03-02T07:13:18-05:00"
+    },
+    {
+        "timestamp": "2024-02-07 22:04:36",
+        "message": "API response received: Success"
+    },
+    {
+        "timestamp": "2024-02-07 22:04:37",
+        "message": "Successfully processed and saved 132 Exhibit 10 documents to MongoDB."
+    },
+    {
+        "timestamp": "2024-02-07 22:04:48",
+        "message": "Earliest timestamp found: 2023-02-28T16:26:50-05:00"
+    },
+    {
+        "timestamp": "2024-02-07 22:04:48",
+        "message": "API response received: Success"
+    },
+    {
+        "timestamp": "2024-02-07 22:04:48",
+        "message": "Successfully processed and saved 112 Exhibit 10 documents to MongoDB."
+    },
+    {
+        "timestamp": "2024-02-07 22:04:58",
+        "message": "Earliest timestamp found: 2023-02-24T16:05:56-05:00"
+    },
+    {
+        "timestamp": "2024-02-07 22:04:58",
+        "message": "API response received: Success"
+    },
+    {
+        "timestamp": "2024-02-07 22:04:58",
+        "message": "Successfully processed and saved 199 Exhibit 10 documents to MongoDB."
+    },
+    {
+        "timestamp": "2024-02-07 22:05:02",
+        "message": "Earliest timestamp found: 2023-02-23T08:24:42-05:00"
+    },
+    {
+        "timestamp": "2024-02-07 22:05:02",
+        "message": "API response received: Success"
+    },
+    {
+        "timestamp": "2024-02-07 22:05:04",
+        "message": "Successfully processed and saved 143 Exhibit 10 documents to MongoDB."
+    },
+    {
+        "timestamp": "2024-02-07 22:05:09",
+        "message": "Earliest timestamp found: 2023-02-17T14:09:21-05:00"
+    },
+    {
+        "timestamp": "2024-02-07 22:05:09",
+        "message": "API response received: Success"
+    },
+    {
+        "timestamp": "2024-02-07 22:05:09",
+        "message": "Successfully processed and saved 160 Exhibit 10 documents to MongoDB."
+    },
+    {
+        "timestamp": "2024-02-07 22:05:16",
+        "message": "Earliest timestamp found: 2023-02-14T08:00:43-05:00"
+    },
+    {
+        "timestamp": "2024-02-07 22:05:16",
+        "message": "API response received: Success"
+    },
+    {
+        "timestamp": "2024-02-07 22:05:17",
+        "message": "Successfully processed and saved 159 Exhibit 10 documents to MongoDB."
+    },
+    {
+        "timestamp": "2024-02-07 22:05:25",
+        "message": "Earliest timestamp found: 2022-12-01T16:40:12-05:00"
+    },
+    {
+        "timestamp": "2024-02-07 22:05:25",
+        "message": "API response received: Success"
+    },
+    {
+        "timestamp": "2024-02-07 22:05:25",
+        "message": "Successfully processed and saved 95 Exhibit 10 documents to MongoDB."
+    },
+    {
+        "timestamp": "2024-02-07 22:05:33",
+        "message": "Earliest timestamp found: 2022-10-27T07:14:24-04:00"
+    },
+    {
+        "timestamp": "2024-02-07 22:05:33",
+        "message": "API response received: Success"
+    },
+    {
+        "timestamp": "2024-02-07 22:05:33",
+        "message": "Successfully processed and saved 118 Exhibit 10 documents to MongoDB."
+    },
+    {
+        "timestamp": "2024-02-07 22:05:37",
+        "message": "Earliest timestamp found: 2022-08-05T13:06:52-04:00"
+    },
+    {
+        "timestamp": "2024-02-07 22:05:38",
+        "message": "API response received: Success"
+    },
+    {
+        "timestamp": "2024-02-07 22:05:38",
+        "message": "Successfully processed and saved 67 Exhibit 10 documents to MongoDB."
+    },
+    {
+        "timestamp": "2024-02-07 22:05:45",
+        "message": "Earliest timestamp found: 2022-05-18T13:39:51-04:00"
+    },
+    {
+        "timestamp": "2024-02-07 22:05:46",
+        "message": "API response received: Success"
+    },
+    {
+        "timestamp": "2024-02-07 22:05:47",
+        "message": "Successfully processed and saved 131 Exhibit 10 documents to MongoDB."
+    },
+    {
+        "timestamp": "2024-02-07 22:05:54",
+        "message": "Earliest timestamp found: 2022-04-07T16:30:55-04:00"
+    },
+    {
+        "timestamp": "2024-02-07 22:05:55",
+        "message": "API response received: Success"
+    },
+    {
+        "timestamp": "2024-02-07 22:05:55",
+        "message": "Successfully processed and saved 185 Exhibit 10 documents to MongoDB."
+    },
+    {
+        "timestamp": "2024-02-07 22:05:58",
+        "message": "Earliest timestamp found: 2022-02-24T20:56:16-05:00"
+    },
+    {
+        "timestamp": "2024-02-07 22:05:59",
+        "message": "API response received: Success"
+    },
+    {
+        "timestamp": "2024-02-07 22:05:59",
+        "message": "Successfully processed and saved 121 Exhibit 10 documents to MongoDB."
+    },
+    {
+        "timestamp": "2024-02-07 22:06:06",
+        "message": "Earliest timestamp found: 2022-02-16T17:44:30-05:00"
+    },
+    {
+        "timestamp": "2024-02-07 22:06:07",
+        "message": "API response received: Success"
+    },
+    {
+        "timestamp": "2024-02-07 22:06:07",
+        "message": "Successfully processed and saved 110 Exhibit 10 documents to MongoDB."
+    },
+    {
+        "timestamp": "2024-02-07 22:06:17",
+        "message": "Earliest timestamp found: 2021-12-16T16:37:01-05:00"
+    },
+    {
+        "timestamp": "2024-02-07 22:06:18",
+        "message": "API response received: Success"
+    },
+    {
+        "timestamp": "2024-02-07 22:06:18",
+        "message": "Successfully processed and saved 84 Exhibit 10 documents to MongoDB."
+    },
+    {
+        "timestamp": "2024-02-07 22:06:25",
+        "message": "Earliest timestamp found: 2021-11-03T17:55:45-04:00"
+    },
+    {
+        "timestamp": "2024-02-07 22:06:26",
+        "message": "API response received: Success"
+    },
+    {
+        "timestamp": "2024-02-07 22:06:26",
+        "message": "Successfully processed and saved 82 Exhibit 10 documents to MongoDB."
+    },
+    {
+        "timestamp": "2024-02-07 22:06:32",
+        "message": "Earliest timestamp found: 2021-09-15T17:15:32-04:00"
+    },
+    {
+        "timestamp": "2024-02-07 22:06:32",
+        "message": "API response received: Success"
+    },
+    {
+        "timestamp": "2024-02-07 22:06:33",
+        "message": "Successfully processed and saved 85 Exhibit 10 documents to MongoDB."
+    },
+    {
+        "timestamp": "2024-02-07 22:06:42",
+        "message": "Earliest timestamp found: 2021-07-29T16:12:11-04:00"
+    },
+    {
+        "timestamp": "2024-02-07 22:06:42",
+        "message": "API response received: Success"
+    },
+    {
+        "timestamp": "2024-02-07 22:06:42",
+        "message": "Successfully processed and saved 83 Exhibit 10 documents to MongoDB."
+    },
+    {
+        "timestamp": "2024-02-07 22:06:45",
+        "message": "Earliest timestamp found: 2021-06-16T16:20:48-04:00"
+    },
+    {
+        "timestamp": "2024-02-07 22:06:46",
+        "message": "API response received: Success"
+    },
+    {
+        "timestamp": "2024-02-07 22:06:46",
+        "message": "Successfully processed and saved 78 Exhibit 10 documents to MongoDB."
+    },
+    {
+        "timestamp": "2024-02-07 22:06:57",
+        "message": "Earliest timestamp found: 2021-05-06T09:48:59-04:00"
+    },
+    {
+        "timestamp": "2024-02-07 22:06:58",
+        "message": "API response received: Success"
+    },
+    {
+        "timestamp": "2024-02-07 22:06:58",
+        "message": "Successfully processed and saved 85 Exhibit 10 documents to MongoDB."
+    },
+    {
+        "timestamp": "2024-02-07 22:07:02",
+        "message": "Earliest timestamp found: 2021-04-15T11:53:14-04:00"
+    },
+    {
+        "timestamp": "2024-02-07 22:07:03",
+        "message": "API response received: Success"
+    },
+    {
+        "timestamp": "2024-02-07 22:07:04",
+        "message": "Successfully processed and saved 126 Exhibit 10 documents to MongoDB."
+    },
+    {
+        "timestamp": "2024-02-07 22:07:14",
+        "message": "Earliest timestamp found: 2021-02-26T15:11:50-05:00"
+    },
+    {
+        "timestamp": "2024-02-07 22:07:15",
+        "message": "API response received: Success"
+    },
+    {
+        "timestamp": "2024-02-07 22:07:15",
+        "message": "Successfully processed and saved 133 Exhibit 10 documents to MongoDB."
+    },
+    {
+        "timestamp": "2024-02-07 22:07:21",
+        "message": "Earliest timestamp found: 2021-02-18T16:59:52-05:00"
+    },
+    {
+        "timestamp": "2024-02-07 22:07:22",
+        "message": "API response received: Success"
+    },
+    {
+        "timestamp": "2024-02-07 22:07:22",
+        "message": "Successfully processed and saved 140 Exhibit 10 documents to MongoDB."
+    },
+    {
+        "timestamp": "2024-02-07 22:07:32",
+        "message": "Earliest timestamp found: 2021-01-26T17:54:03-05:00"
+    },
+    {
+        "timestamp": "2024-02-07 22:07:33",
+        "message": "API response received: Success"
+    },
+    {
+        "timestamp": "2024-02-07 22:07:33",
+        "message": "Successfully processed and saved 83 Exhibit 10 documents to MongoDB."
+    },
+    {
+        "timestamp": "2024-02-07 22:07:39",
+        "message": "Earliest timestamp found: 2020-11-20T13:48:09-05:00"
+    },
+    {
+        "timestamp": "2024-02-07 22:07:39",
+        "message": "API response received: Success"
+    },
+    {
+        "timestamp": "2024-02-07 22:07:40",
+        "message": "Successfully processed and saved 87 Exhibit 10 documents to MongoDB."
+    },
+    {
+        "timestamp": "2024-02-07 22:07:45",
+        "message": "Earliest timestamp found: 2020-10-21T16:23:36-04:00"
+    },
+    {
+        "timestamp": "2024-02-07 22:07:45",
+        "message": "API response received: Success"
+    },
+    {
+        "timestamp": "2024-02-07 22:07:46",
+        "message": "Successfully processed and saved 95 Exhibit 10 documents to MongoDB."
+    },
+    {
+        "timestamp": "2024-02-07 22:07:50",
+        "message": "Earliest timestamp found: 2020-08-25T17:28:48-04:00"
+    },
+    {
+        "timestamp": "2024-02-07 22:07:50",
+        "message": "API response received: Success"
+    },
+    {
+        "timestamp": "2024-02-07 22:07:50",
+        "message": "Successfully processed and saved 90 Exhibit 10 documents to MongoDB."
+    },
+    {
+        "timestamp": "2024-02-07 22:08:01",
+        "message": "Earliest timestamp found: 2020-07-29T17:45:30-04:00"
+    },
+    {
+        "timestamp": "2024-02-07 22:08:02",
+        "message": "API response received: Success"
+    },
+    {
+        "timestamp": "2024-02-07 22:08:02",
+        "message": "Successfully processed and saved 92 Exhibit 10 documents to MongoDB."
+    },
+    {
+        "timestamp": "2024-02-07 22:08:07",
+        "message": "Earliest timestamp found: 2020-05-22T17:30:13-04:00"
+    },
+    {
+        "timestamp": "2024-02-07 22:08:07",
+        "message": "API response received: Success"
+    },
+    {
+        "timestamp": "2024-02-07 22:08:08",
+        "message": "Successfully processed and saved 127 Exhibit 10 documents to MongoDB."
+    },
+    {
+        "timestamp": "2024-02-07 22:08:15",
+        "message": "Earliest timestamp found: 2020-05-04T16:31:06-04:00"
+    },
+    {
+        "timestamp": "2024-02-07 22:08:16",
+        "message": "API response received: Success"
+    },
+    {
+        "timestamp": "2024-02-07 22:08:17",
+        "message": "Successfully processed and saved 121 Exhibit 10 documents to MongoDB."
+    },
+    {
+        "timestamp": "2024-02-07 22:08:27",
+        "message": "Earliest timestamp found: 2020-04-06T17:23:50-04:00"
+    },
+    {
+        "timestamp": "2024-02-07 22:08:27",
+        "message": "API response received: Success"
+    },
+    {
+        "timestamp": "2024-02-07 22:08:28",
+        "message": "Successfully processed and saved 106 Exhibit 10 documents to MongoDB."
+    },
+    {
+        "timestamp": "2024-02-07 22:08:34",
+        "message": "Earliest timestamp found: 2020-03-02T14:36:34-05:00"
+    },
+    {
+        "timestamp": "2024-02-07 22:08:35",
+        "message": "API response received: Success"
+    },
+    {
+        "timestamp": "2024-02-07 22:08:36",
+        "message": "Successfully processed and saved 192 Exhibit 10 documents to MongoDB."
+    },
+    {
+        "timestamp": "2024-02-07 22:08:44",
+        "message": "Earliest timestamp found: 2020-02-20T17:22:17-05:00"
+    },
+    {
+        "timestamp": "2024-02-07 22:08:45",
+        "message": "API response received: Success"
+    },
+    {
+        "timestamp": "2024-02-07 22:08:45",
+        "message": "Successfully processed and saved 149 Exhibit 10 documents to MongoDB."
+    },
+    {
+        "timestamp": "2024-02-07 22:08:56",
+        "message": "Earliest timestamp found: 2020-02-06T16:00:19-05:00"
+    },
+    {
+        "timestamp": "2024-02-07 22:08:58",
+        "message": "API response received: Success"
+    },
+    {
+        "timestamp": "2024-02-07 22:08:59",
+        "message": "Successfully processed and saved 102 Exhibit 10 documents to MongoDB."
+    },
+    {
+        "timestamp": "2024-02-07 22:09:07",
+        "message": "Earliest timestamp found: 2019-12-12T16:26:03-05:00"
+    },
+    {
+        "timestamp": "2024-02-07 22:09:07",
+        "message": "API response received: Success"
+    },
+    {
+        "timestamp": "2024-02-07 22:09:08",
+        "message": "Successfully processed and saved 165 Exhibit 10 documents to MongoDB."
+    },
+    {
+        "timestamp": "2024-02-07 22:09:15",
+        "message": "Earliest timestamp found: 2019-11-04T17:03:15-05:00"
+    },
+    {
+        "timestamp": "2024-02-07 22:09:16",
+        "message": "API response received: Success"
+    },
+    {
+        "timestamp": "2024-02-07 22:09:16",
+        "message": "Successfully processed and saved 87 Exhibit 10 documents to MongoDB."
+    },
+    {
+        "timestamp": "2024-02-07 22:09:19",
+        "message": "Earliest timestamp found: 2019-08-27T06:13:08-04:00"
+    },
+    {
+        "timestamp": "2024-02-07 22:09:20",
+        "message": "API response received: Success"
+    },
+    {
+        "timestamp": "2024-02-07 22:09:20",
+        "message": "Successfully processed and saved 85 Exhibit 10 documents to MongoDB."
+    },
+    {
+        "timestamp": "2024-02-07 22:09:26",
+        "message": "Earliest timestamp found: 2019-07-26T17:05:54-04:00"
+    },
+    {
+        "timestamp": "2024-02-07 22:09:27",
+        "message": "API response received: Success"
+    },
+    {
+        "timestamp": "2024-02-07 22:09:27",
+        "message": "Successfully processed and saved 103 Exhibit 10 documents to MongoDB."
+    },
+    {
+        "timestamp": "2024-02-07 22:09:37",
+        "message": "Earliest timestamp found: 2019-06-03T19:57:08-04:00"
+    },
+    {
+        "timestamp": "2024-02-07 22:09:38",
+        "message": "API response received: Success"
+    },
+    {
+        "timestamp": "2024-02-07 22:09:38",
+        "message": "Successfully processed and saved 110 Exhibit 10 documents to MongoDB."
+    },
+    {
+        "timestamp": "2024-02-07 22:09:48",
+        "message": "Earliest timestamp found: 2019-04-30T18:32:56-04:00"
+    },
+    {
+        "timestamp": "2024-02-07 22:09:49",
+        "message": "API response received: Success"
+    },
+    {
+        "timestamp": "2024-02-07 22:09:49",
+        "message": "Successfully processed and saved 84 Exhibit 10 documents to MongoDB."
+    },
+    {
+        "timestamp": "2024-02-07 22:09:54",
+        "message": "Earliest timestamp found: 2019-03-28T16:40:19-04:00"
+    },
+    {
+        "timestamp": "2024-02-07 22:09:55",
+        "message": "API response received: Success"
+    },
+    {
+        "timestamp": "2024-02-07 22:09:55",
+        "message": "Successfully processed and saved 126 Exhibit 10 documents to MongoDB."
+    },
+    {
+        "timestamp": "2024-02-07 22:10:06",
+        "message": "Earliest timestamp found: 2019-02-27T15:12:09-05:00"
+    },
+    {
+        "timestamp": "2024-02-07 22:10:07",
+        "message": "API response received: Success"
+    },
+    {
+        "timestamp": "2024-02-07 22:10:07",
+        "message": "Successfully processed and saved 165 Exhibit 10 documents to MongoDB."
+    },
+    {
+        "timestamp": "2024-02-07 22:10:15",
+        "message": "Earliest timestamp found: 2019-02-19T18:34:01-05:00"
+    },
+    {
+        "timestamp": "2024-02-07 22:10:16",
+        "message": "API response received: Success"
+    },
+    {
+        "timestamp": "2024-02-07 22:10:16",
+        "message": "Successfully processed and saved 149 Exhibit 10 documents to MongoDB."
+    },
+    {
+        "timestamp": "2024-02-07 22:10:27",
+        "message": "Earliest timestamp found: 2019-02-01T15:12:56-05:00"
+    },
+    {
+        "timestamp": "2024-02-07 22:10:28",
+        "message": "API response received: Success"
+    },
+    {
+        "timestamp": "2024-02-07 22:10:28",
+        "message": "Successfully processed and saved 99 Exhibit 10 documents to MongoDB."
+    },
+    {
+        "timestamp": "2024-02-07 22:10:31",
+        "message": "Earliest timestamp found: 2018-12-06T16:48:35-05:00"
+    },
+    {
+        "timestamp": "2024-02-07 22:10:32",
+        "message": "API response received: Success"
+    },
+    {
+        "timestamp": "2024-02-07 22:10:32",
+        "message": "Successfully processed and saved 91 Exhibit 10 documents to MongoDB."
+    },
+    {
+        "timestamp": "2024-02-07 22:10:42",
+        "message": "Earliest timestamp found: 2018-11-01T11:37:21-04:00"
+    },
+    {
+        "timestamp": "2024-02-07 22:10:43",
+        "message": "API response received: Success"
+    },
+    {
+        "timestamp": "2024-02-07 22:10:43",
+        "message": "Successfully processed and saved 75 Exhibit 10 documents to MongoDB."
+    },
+    {
+        "timestamp": "2024-02-07 22:10:47",
+        "message": "Earliest timestamp found: 2018-09-25T18:37:01-04:00"
+    },
+    {
+        "timestamp": "2024-02-07 22:10:47",
+        "message": "API response received: Success"
+    },
+    {
+        "timestamp": "2024-02-07 22:10:48",
+        "message": "Successfully processed and saved 114 Exhibit 10 documents to MongoDB."
+    },
+    {
+        "timestamp": "2024-02-07 22:11:00",
+        "message": "Earliest timestamp found: 2018-08-14T16:34:07-04:00"
+    },
+    {
+        "timestamp": "2024-02-07 22:11:00",
+        "message": "API response received: Success"
+    },
+    {
+        "timestamp": "2024-02-07 22:11:00",
+        "message": "Successfully processed and saved 80 Exhibit 10 documents to MongoDB."
+    },
+    {
+        "timestamp": "2024-02-07 22:11:04",
+        "message": "Earliest timestamp found: 2018-08-02T08:08:34-04:00"
+    },
+    {
+        "timestamp": "2024-02-07 22:11:05",
+        "message": "API response received: Success"
+    },
+    {
+        "timestamp": "2024-02-07 22:11:05",
+        "message": "Successfully processed and saved 112 Exhibit 10 documents to MongoDB."
+    },
+    {
+        "timestamp": "2024-02-07 22:11:09",
+        "message": "Earliest timestamp found: 2018-06-04T08:05:28-04:00"
+    },
+    {
+        "timestamp": "2024-02-07 22:11:10",
+        "message": "API response received: Success"
+    },
+    {
+        "timestamp": "2024-02-07 22:11:10",
+        "message": "Successfully processed and saved 117 Exhibit 10 documents to MongoDB."
+    },
+    {
+        "timestamp": "2024-02-07 22:11:18",
+        "message": "Earliest timestamp found: 2018-05-03T11:12:50-04:00"
+    },
+    {
+        "timestamp": "2024-02-07 22:11:19",
+        "message": "API response received: Success"
+    },
+    {
+        "timestamp": "2024-02-07 22:11:19",
+        "message": "Successfully processed and saved 98 Exhibit 10 documents to MongoDB."
+    },
+    {
+        "timestamp": "2024-02-07 22:11:26",
+        "message": "Earliest timestamp found: 2018-04-16T16:59:00-04:00"
+    },
+    {
+        "timestamp": "2024-02-07 22:11:27",
+        "message": "API response received: Success"
+    },
+    {
+        "timestamp": "2024-02-07 22:11:27",
+        "message": "Successfully processed and saved 140 Exhibit 10 documents to MongoDB."
+    },
+    {
+        "timestamp": "2024-02-07 22:11:30",
+        "message": "Earliest timestamp found: 2018-03-09T15:25:37-05:00"
+    },
+    {
+        "timestamp": "2024-02-07 22:11:31",
+        "message": "API response received: Success"
+    },
+    {
+        "timestamp": "2024-02-07 22:11:31",
+        "message": "Successfully processed and saved 232 Exhibit 10 documents to MongoDB."
+    },
+    {
+        "timestamp": "2024-02-07 22:11:36",
+        "message": "Earliest timestamp found: 2018-02-23T17:34:24-05:00"
+    },
+    {
+        "timestamp": "2024-02-07 22:11:37",
+        "message": "API response received: Success"
+    },
+    {
+        "timestamp": "2024-02-07 22:11:38",
+        "message": "Successfully processed and saved 162 Exhibit 10 documents to MongoDB."
+    },
+    {
+        "timestamp": "2024-02-07 22:11:41",
+        "message": "Earliest timestamp found: 2018-02-16T16:48:42-05:00"
+    },
+    {
+        "timestamp": "2024-02-07 22:11:42",
+        "message": "API response received: Success"
+    },
+    {
+        "timestamp": "2024-02-07 22:11:42",
+        "message": "Successfully processed and saved 138 Exhibit 10 documents to MongoDB."
+    },
+    {
+        "timestamp": "2024-02-07 22:11:52",
+        "message": "Earliest timestamp found: 2018-01-04T17:57:16-05:00"
+    },
+    {
+        "timestamp": "2024-02-07 22:11:52",
+        "message": "API response received: Success"
+    },
+    {
+        "timestamp": "2024-02-07 22:11:53",
+        "message": "Successfully processed and saved 90 Exhibit 10 documents to MongoDB."
+    },
+    {
+        "timestamp": "2024-02-07 22:11:57",
+        "message": "Earliest timestamp found: 2017-11-13T17:08:07-05:00"
+    },
+    {
+        "timestamp": "2024-02-07 22:11:57",
+        "message": "API response received: Success"
+    },
+    {
+        "timestamp": "2024-02-07 22:11:57",
+        "message": "Successfully processed and saved 98 Exhibit 10 documents to MongoDB."
+    },
+    {
+        "timestamp": "2024-02-07 22:12:07",
+        "message": "Earliest timestamp found: 2017-10-26T16:05:11-04:00"
+    },
+    {
+        "timestamp": "2024-02-07 22:12:07",
+        "message": "API response received: Success"
+    },
+    {
+        "timestamp": "2024-02-07 22:12:07",
+        "message": "Successfully processed and saved 105 Exhibit 10 documents to MongoDB."
+    }
+]
